@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Oso Web Service</title>
-    <link>https://www.osowebservice.com/author/</link>
+    <link>https://eloquent-praline-6eb6fd.netlify.app/author/</link>
     <description>Recent content in Authors on Oso Web Service</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language><atom:link href="https://www.osowebservice.com/author/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language><atom:link href="https://eloquent-praline-6eb6fd.netlify.app/author/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>John Doe</title>
-      <link>https://www.osowebservice.com/author/john-doe/</link>
+      <link>https://eloquent-praline-6eb6fd.netlify.app/author/john-doe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.osowebservice.com/author/john-doe/</guid>
+      <guid>https://eloquent-praline-6eb6fd.netlify.app/author/john-doe/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue.</description>
     </item>
     
     <item>
       <title>Mark Dinn</title>
-      <link>https://www.osowebservice.com/author/mark-dinn/</link>
+      <link>https://eloquent-praline-6eb6fd.netlify.app/author/mark-dinn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.osowebservice.com/author/mark-dinn/</guid>
+      <guid>https://eloquent-praline-6eb6fd.netlify.app/author/mark-dinn/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue.</description>
     </item>
     

@@ -4,13 +4,13 @@ banner:
   enable: true
   bg_image: "images/slider-bg.jpg"
   bg_overlay: true
-  title: "A Digital Marketing <br/> & Design Agency"
+  title: "Your Website in <br/> 4 Days or It's Free"
   content: "We love the Web and the work we do.We work closely with our clients to deliver  the best possible solutions for their needs"
   button:
     enable: true
     label: "Discover Our Project"
     link: "project/"
-
+# <br/> Paragraph 
 ############################# About #################################
 about:
   enable: true
@@ -65,11 +65,11 @@ funfacts:
   # funfacts item loop
   - icon: "fas fa-mug-hot" #https://fontawesome.com/v5.15/icons
     name: "Cups Of Coffee"
-    count: "99"
+    count: "1039856"
 
   # funfacts item loop
   - icon: "fas fa-glasses" #https://fontawesome.com/v5.15/icons
-    name: "Article Written"
+    name: "Articles Written"
     count: "45"
 
   # funfacts item loop

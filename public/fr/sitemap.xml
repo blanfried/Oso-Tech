@@ -2,70 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://eloquent-praline-6eb6fd.netlify.app/fr/categories/</loc>
+    <loc>https://www.osowebservice.com/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://eloquent-praline-6eb6fd.netlify.app/categories/"
+                href="https://www.osowebservice.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it-IT"
-                href="https://eloquent-praline-6eb6fd.netlify.app/it/categories/"
+                href="https://www.osowebservice.com/it/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-at"
-                href="https://eloquent-praline-6eb6fd.netlify.app/de/categories/"
+                href="https://www.osowebservice.com/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://eloquent-praline-6eb6fd.netlify.app/fr/categories/"
+                href="https://www.osowebservice.com/fr/categories/"
                 />
   </url><url>
-    <loc>https://eloquent-praline-6eb6fd.netlify.app/fr/</loc>
+    <loc>https://www.osowebservice.com/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://eloquent-praline-6eb6fd.netlify.app/"
+                href="https://www.osowebservice.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it-IT"
-                href="https://eloquent-praline-6eb6fd.netlify.app/it/"
+                href="https://www.osowebservice.com/it/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-at"
-                href="https://eloquent-praline-6eb6fd.netlify.app/de/"
+                href="https://www.osowebservice.com/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://eloquent-praline-6eb6fd.netlify.app/fr/"
+                href="https://www.osowebservice.com/fr/"
                 />
   </url><url>
-    <loc>https://eloquent-praline-6eb6fd.netlify.app/fr/tags/</loc>
+    <loc>https://www.osowebservice.com/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://eloquent-praline-6eb6fd.netlify.app/tags/"
+                href="https://www.osowebservice.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it-IT"
-                href="https://eloquent-praline-6eb6fd.netlify.app/it/tags/"
+                href="https://www.osowebservice.com/it/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-at"
-                href="https://eloquent-praline-6eb6fd.netlify.app/de/tags/"
+                href="https://www.osowebservice.com/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://eloquent-praline-6eb6fd.netlify.app/fr/tags/"
+                href="https://www.osowebservice.com/fr/tags/"
                 />
   </url>
 </urlset>

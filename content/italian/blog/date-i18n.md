@@ -15,13 +15,11 @@ type: "post"
 Scrivendo
 
 ```
-{{%/* date_l10n "2020-10-20" */%}}
 ```
 
 si ottiene
 
 ```
-{{% date_l10n "2020-10-20" %}}
 ```
 
 Puoi opzionalmente specificare un diverso [layout di formattazione](https://gohugo.io/functions/dateformat/#datetime-formatting-layouts):
@@ -29,11 +27,9 @@ Puoi opzionalmente specificare un diverso [layout di formattazione](https://gohu
 Per esempio, il seguente
 
 ```
-{{%/* date_l10n "2020-10-20" ":date_short" */%}}
 ```
 
 risultato sarà
 
 ```
-{{% date_l10n "2020-10-20" ":date_short" %}}
 ```

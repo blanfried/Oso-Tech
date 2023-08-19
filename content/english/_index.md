@@ -4,19 +4,19 @@ banner:
   enable: true
   bg_image: "images/slider-bg.jpg"
   bg_overlay: true
-  title: "Your Website in <br/> 4 Days or It's Free"
-  content: "We love the Web and the work we do.We work closely with our clients to deliver  the best possible solutions for their needs"
+  title: "Oso Web Service"
+  content: "Let us be your go-to web developers."
   button:
     enable: true
-    label: "Discover Our Project"
+    label: "See Our Templates"
     link: "project/"
 # <br/> Paragraph 
 ############################# About #################################
 about:
   enable: true
-  title: "About Us"
-  description: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id."
+  title: "Your Website in 4 Days or it’s Free"
+  description: "Small-businesses need websites in order to survive. Oftentimes paying for and customizing a website can be horribly expensive and time consuming. We make this process easier by providing high-quality websites at an unbeatable price of $399 in four days maximum. <br/> <br/> Not only will you have a website in four days but you will have your own personal web developer for the following two months upon completion."
+  content: "<br/> If you choose from one of our 56+ optimized templates, we guarantee you a fully functional and customized website in 4 days, or it's free. All you must do is contact us with your chosen design. <br/> <br/> We will respond within one business day detailing the information needed from you to get going. Once we have this information, we are off and your site will be live within four days. <br/> <br/> Once your site is completed and live you will still have your own personal web dev to interact with over the next two months free of additional charge. Therefore, you can rest knowing that you can continue changing and customizing your site even once it is finished."
   image: "images/wrapper-img.png"
 
 
@@ -24,14 +24,12 @@ about:
 portfolio:
   enable: true
   bg_image: "images/feature-bg.jpg"
-  title: "WE BELIEVE IN GREAT IDEAS"
-  content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+  title: "Start With An Additional 43.2 Million Potential Clients"
+  content: " With us you get ahead of 97% of your competition by being accessible to 43.2 million more people in the United States alone. How is this so? <br/> <br/>
 
-
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+  Included in our price is maximal ADA compliance and website legal protection guaranteed. All our sites are built in accordance with the most up to date ADA regulations. We are so sure of this that we even provide up to $10,000 in legal protection, just to make you feel even safer. <br/> <br/>
+  
+  Our compliance policy not only protects you from getting sued but it also makes your business accessible to all individuals with disabilities (43.2 million people in the US alone!).
   "
   button:
     enable: true

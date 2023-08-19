@@ -5,11 +5,13 @@ banner:
   bg_image: "images/slider-bg.jpg"
   bg_overlay: true
   title: "Oso Web Service"
-  content: "Let us be your go-to web developers."
+  content: "The only website creation service solely devoted to small-businesses. 
+  <br/> <br/> 
+  We exist so you can succeed and will literally not work with anyone else."
   button:
     enable: true
-    label: "See Our Templates"
-    link: "project/"
+    label: "Our Mission"
+    link: "about/"
 # <br/> Paragraph 
 ############################# About #################################
 about:
@@ -25,16 +27,16 @@ portfolio:
   enable: true
   bg_image: "images/feature-bg.jpg"
   title: "Start With An Additional 43.2 Million Potential Clients"
-  content: " With us you get ahead of 97% of your competition by being accessible to 43.2 million more people in the United States alone. How is this so? <br/> <br/>
+  content: " With us, you get ahead of 97% of your competition by being accessible to 43.2 million more people in the United States alone. How is this so? <br/> <br/>
 
-  Included in our price is maximal ADA compliance and website legal protection guaranteed. All our sites are built in accordance with the most up to date ADA regulations. We are so sure of this that we even provide up to $10,000 in legal protection, just to make you feel even safer. <br/> <br/>
+  Included in our Website Creation price is maximal ADA compliance and website legal protection guaranteed. All our sites are built in accordance with the most up to date ADA regulations. We are so sure of this that we even provide up to $10,000 in legal protection, just to make you feel even safer. <br/> <br/>
   
   Our compliance policy not only protects you from getting sued but it also makes your business accessible to all individuals with disabilities (43.2 million people in the US alone!).
   "
   button:
     enable: true
-    label: "View Works"
-    link: "project/"
+    label: "Learn More"
+    link: "blog/blog-post-1/"
 
 
 ############################# Service ############################

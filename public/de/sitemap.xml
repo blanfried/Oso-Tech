@@ -2,70 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.osowebservice.com/de/categories/</loc>
+    <loc>https://www.osows.com/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://www.osowebservice.com/categories/"
+                href="https://www.osows.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://www.osowebservice.com/fr/categories/"
+                href="https://www.osows.com/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it-IT"
-                href="https://www.osowebservice.com/it/categories/"
+                href="https://www.osows.com/it/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-at"
-                href="https://www.osowebservice.com/de/categories/"
+                href="https://www.osows.com/de/categories/"
                 />
   </url><url>
-    <loc>https://www.osowebservice.com/de/tags/</loc>
+    <loc>https://www.osows.com/de/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://www.osowebservice.com/tags/"
+                href="https://www.osows.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://www.osowebservice.com/fr/tags/"
+                href="https://www.osows.com/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it-IT"
-                href="https://www.osowebservice.com/it/tags/"
+                href="https://www.osows.com/it/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-at"
-                href="https://www.osowebservice.com/de/tags/"
+                href="https://www.osows.com/de/tags/"
                 />
   </url><url>
-    <loc>https://www.osowebservice.com/de/</loc>
+    <loc>https://www.osows.com/de/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://www.osowebservice.com/"
+                href="https://www.osows.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://www.osowebservice.com/fr/"
+                href="https://www.osows.com/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it-IT"
-                href="https://www.osowebservice.com/it/"
+                href="https://www.osows.com/it/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-at"
-                href="https://www.osowebservice.com/de/"
+                href="https://www.osows.com/de/"
                 />
   </url>
 </urlset>

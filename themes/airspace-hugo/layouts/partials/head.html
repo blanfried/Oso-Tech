@@ -2,7 +2,7 @@
 <title>{{.Title | default site.Title}}</title>
 
 <!-- base url -->
-{{ if or (eq site.BaseURL "/") (eq site.BaseURL "http://www.osowebservice.com/") (eq site.BaseURL "http://www.osowebservice.com/") (eq site.BaseURL "https://www.osowebservice.com/") (eq site.BaseURL "http://www.osowebservice.com/") (eq site.BaseURL "https://www.osowebservice.com/")}}{{else}}
+{{ if or (eq site.BaseURL "/") (eq site.BaseURL "http://www.osows.com/") (eq site.BaseURL "http://www.osows.com/") (eq site.BaseURL "https://www.osows.com/") (eq site.BaseURL "http://www.osows.com/") (eq site.BaseURL "https://www.osows.com/")}}{{else}}
 <base href="{{ .Permalink }}">
 {{ end }}
 

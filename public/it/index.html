@@ -133,6 +133,16 @@ if (!doNotTrack) {
 
 
 
+<script src="https://www.google.com/recaptcha/api.js?render=xxx-xxxxxxxxxxxxxxxxxxxxxxxx"></script>
+<script>
+  grecaptcha.ready(function() {
+      grecaptcha.execute('xxx-xxxxxxxxxxxxxxxxxxxxxxxx', {action: 'homepage'})
+      .then(function(token) {
+        document.getElementById('captchaResponse').value = token;
+      });
+    });
+</script>
+
 
 
 	
@@ -489,7 +499,7 @@ if (!doNotTrack) {
             
           </ul>
         </div>
-        <p class="copyright">Copyright <a href="https://osows.com/">Oso Group</a></p>
+        <p class="copyright">Copyright <a href="https://OsoWebService.com/">Oso Group</a></p>
       </div>
     </div>
   </div>

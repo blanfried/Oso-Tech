@@ -124,6 +124,16 @@ if (!doNotTrack) {
 
 
 
+<script src="https://www.google.com/recaptcha/api.js?render=xxx-xxxxxxxxxxxxxxxxxxxxxxxx"></script>
+<script>
+  grecaptcha.ready(function() {
+      grecaptcha.execute('xxx-xxxxxxxxxxxxxxxxxxxxxxxx', {action: 'homepage'})
+      .then(function(token) {
+        document.getElementById('captchaResponse').value = token;
+      });
+    });
+</script>
+
 
 
 	
@@ -365,9 +375,9 @@ if (!doNotTrack) {
     <div class="row">
       <div class="col-md-12">
         <img src="/images/paper-plane.svg" alt="Paper plane">
-        <h1></h1>
-        <h2 class="text-muted"></h2>
-        <a href="/" class="btn btn-main"><i class="tf-ion-android-arrow-back"></i> </a>
+        <h1>Your message was successfully submitted</h1>
+        <h2 class="text-muted">Thank you for your message. We will get back to you as soon as possible.</h2>
+        <a href="/" class="btn btn-main"><i class="tf-ion-android-arrow-back"></i> To the home page</a>
       </div>
     </div>
   </div>
@@ -399,15 +409,13 @@ if (!doNotTrack) {
             
           </ul>
         </div>
-        <p class="copyright">Copyright <a href="https://osows.com/">Oso Group</a></p>
+        <p class="copyright">Copyright <a href="https://OsoWebService.com/">Oso Group</a></p>
       </div>
     </div>
   </div>
 </footer>
 	
 
-
-<script defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"></script>
 
 
 

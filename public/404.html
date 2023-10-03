@@ -122,6 +122,16 @@ if (!doNotTrack) {
 
 
 
+<script src="https://www.google.com/recaptcha/api.js?render=xxx-xxxxxxxxxxxxxxxxxxxxxxxx"></script>
+<script>
+  grecaptcha.ready(function() {
+      grecaptcha.execute('xxx-xxxxxxxxxxxxxxxxxxxxxxxx', {action: 'homepage'})
+      .then(function(token) {
+        document.getElementById('captchaResponse').value = token;
+      });
+    });
+</script>
+
 
 
 	
@@ -363,8 +373,8 @@ if (!doNotTrack) {
     <div class="row">
       <div class="col-md-12">
         <h1>404</h1>
-        <h2 class="text-muted"></h2>
-        <a href="/" class="btn btn-main"></a>
+        <h2 class="text-muted">Sorry – this page does not seem to exist (anymore).</h2>
+        <a href="/" class="btn btn-main">To the home page</a>
       </div>
     </div>
   </div>
@@ -396,15 +406,13 @@ if (!doNotTrack) {
             
           </ul>
         </div>
-        <p class="copyright">Copyright <a href="https://osows.com/">Oso Group</a></p>
+        <p class="copyright">Copyright <a href="https://OsoWebService.com/">Oso Group</a></p>
       </div>
     </div>
   </div>
 </footer>
 	
 
-
-<script defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"></script>
 
 
 

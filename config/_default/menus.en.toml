@@ -12,8 +12,8 @@ url = "about/"
 weight = 2
 
 [[main]]
-name = "Projects"
-url = "project/"
+name = "Templates"
+url = "templates/"
 weight = 3
 
 [[main]]
@@ -57,8 +57,8 @@ url = "about/"
 weight = 2
 
 [[footer]]
-name = "Project"
-url = "project/"
+name = "Templates"
+url = "templates/"
 weight = 3
 
 [[footer]]

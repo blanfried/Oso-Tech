@@ -3,6 +3,7 @@
     "tags": [
       "a",
       "aside",
+      "base",
       "blockquote",
       "body",
       "br",
@@ -22,6 +23,7 @@
       "hr",
       "html",
       "i",
+      "iframe",
       "img",
       "input",
       "label",
@@ -260,6 +262,7 @@
       "approach",
       "behance-website-redesign",
       "email",
+      "embedding-an-iframe-example",
       "map",
       "message",
       "mission",

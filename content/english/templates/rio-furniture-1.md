@@ -49,3 +49,9 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores neque vero qua
 libero ab sunt eius! Nesciunt laboriosam alias corporis sit accusantium voluptate sapiente debitis quos
 mollitia saepe maxime ipsum facilis dolore voluptas inventore veniam deleniti, eligendi harum aperiam iusto
 culpa? Delectus dolorum facere quasi iure explicabo?
+
+## Embedding an iframe example
+
+To embed an external website within your webpage, you can use an HTML iframe. Below is the live iframe:
+
+<iframe src="https://www.baerlanfriedblog.com" width="600" height="400"></iframe>

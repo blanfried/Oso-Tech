@@ -37,21 +37,55 @@ fugiat at, inventore molestiae quibusdam, modi numquam debitis libero aut eum. A
 odit, quasi eveniet reprehenderit rerum dolorem voluptate sed aspernatur numquam enim, adipisci iste optio
 ea libero laboriosam praesentium aperiam nobis vero tempore consequuntur sapiente eos at. Suscipit quis
 voluptatibus temporibus dolore consectetur ex excepturi adipisci sunt. Maxime aperiam eos illum minima
-aliquid voluptate autem qui at impedit recusandae earum possimus, alias, maiores sint, sed quia quis aut
-cupiditate voluptatem reiciendis. Facilis nobis assumenda totam officiis dicta autem dolorem quidem
-similique, delectus rerum laborum veritatis, cum magnam dignissimos necessitatibus possimus error, eius
-omnis veniam culpa, porro officia adipisci exercitationem minus hic. Ipsum veritatis repudiandae nulla quo
-dicta voluptates tenetur mollitia perferendis sequi, magnam doloremque odit similique, sit, voluptas unde
-iste molestias. Accusantium, corporis quibusdam quod in animi earum alias autem ipsum. Eaque rem numquam
-delectus veniam commodi doloribus consequatur deleniti?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores neque vero quasi quisquam atque in,
-libero ab sunt eius! Nesciunt laboriosam alias corporis sit accusantium voluptate sapiente debitis quos
-mollitia saepe maxime ipsum facilis dolore voluptas inventore veniam deleniti, eligendi harum aperiam iusto
-culpa? Delectus dolorum facere quasi iure explicabo?
 
-## Embedding an iframe example
+  <title>Iframe Toggle Example</title>
+  <style>
+    /* CSS content here */
+    /* Button styles */
+    .button {
+      background-color: white;
+      color: black;
+      padding: 10px;
+      margin: 10px;
+      cursor: pointer;
+    }
 
-To embed an external website within your webpage, you can use an HTML iframe. Below is the live iframe:
+    .button:hover {
+      background-color: lightblue;
+    }
 
-<iframe src="https://www.baerlanfriedblog.com" width="600" height="400"></iframe>
+    /* Iframe styles */
+    #myIframe {
+      transition: all 0.3s ease;
+    }
+
+    #myIframe.desktop {
+      width: 100%;
+      height: 800px;
+    }
+
+    #myIframe.mobile {
+      width: 80%;
+      height: 500px;
+    }
+  </style>
+
+  <!-- Markdown content rendered as HTML here -->
+  <h2>Choose Iframe Size</h2>
+  <button class="button" id="desktopButton">Desktop Version</button>
+  <button class="button" id="mobileButton">Mobile Version</button>
+  <iframe id="myIframe" class="mobile" src="https://www.baerlanfriedblog.com"></iframe>
+
+  <script>
+    // JavaScript content here
+    document.getElementById('desktopButton').addEventListener('click', function() {
+      var iframe = document.getElementById('myIframe');
+      iframe.className = 'desktop';
+    });
+
+    document.getElementById('mobileButton').addEventListener('click', function() {
+      var iframe = document.getElementById('myIframe');
+      iframe.className = 'mobile';
+    });
+  </script>

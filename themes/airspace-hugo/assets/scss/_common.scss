@@ -48,6 +48,32 @@ input[type="tel"] {
   }
 }
 
+/* Button styles */
+#desktopButton, #mobileButton {
+  background-color: white;
+  color: black;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+}
+
+#desktopButton:hover, #mobileButton:hover {
+  background-color: lightblue;
+}
+
+/* Default iframe size */
+#iframeDesktop {
+  width: 80%;
+  height: 400px;
+}
+
+/* Mobile iframe size */
+#iframeMobile {
+  width: 100%;
+  height: 300px;
+}
+
+
 
 .form-control {
   box-shadow: none;

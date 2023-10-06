@@ -95,23 +95,25 @@ input[type="tel"] {
     border: 1px solid #655e7a; }
 
 /* Button styles */
-#desktopButton, #mobileButton {
+.button {
   background-color: white;
   color: black;
   padding: 10px;
   margin: 10px;
   cursor: pointer; }
 
-#desktopButton:hover, #mobileButton:hover {
-  background-color: lightblue; }
+.button:hover {
+  background-color: #53c9f0; }
 
-/* Default iframe size */
-#iframeDesktop {
+/* Iframe styles */
+#myIframe {
+  transition: all 0.3s ease; }
+
+#myIframe.desktop {
   width: 80%;
   height: 400px; }
 
-/* Mobile iframe size */
-#iframeMobile {
+#myIframe.mobile {
   width: 100%;
   height: 300px; }
 

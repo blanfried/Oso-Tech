@@ -75,7 +75,7 @@ voluptatibus temporibus dolore consectetur ex excepturi adipisci sunt. Maxime ap
   <h2>Choose Iframe Size</h2>
   <button class="button" id="desktopButton">Desktop Version</button>
   <button class="button" id="mobileButton">Mobile Version</button>
-  <iframe id="myIframe" class="mobile" src="https://www.baerlanfriedblog.com"></iframe>
+  <iframe id="myIframe" class="mobile" src=""></iframe>
 
   <script>
     // JavaScript content here

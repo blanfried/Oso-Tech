@@ -2,7 +2,7 @@
 title: "Academia"
 description: "A Personal Website to Show Off Your Portfolio, Academic or Otherwise!"
 draft: false
-image : "images/portfolio/work1.jpg"
+image : "images/portfolio/Academia-Template.jpg"
 bg_image: "images/feature-bg.jpg"
 category: [ "Tier 2", "Personal" ]
 information:
@@ -13,7 +13,7 @@ information:
   - label : "Type of Website"
     info : "Personal"
   - label : "Time to Complete"
-    info : "One week on average"
+    info : "One week (on average)"
 ---
 
 <!-- ## Title
@@ -27,15 +27,16 @@ at provident soluta consequatur. -->
     /* CSS content here */
     /* Button styles */
     .button {
-      background-color: white;
-      color: black;
+      background-color: black;
+      border-radius: 7px;
+      color: white;
       padding: 10px;
       margin: 10px;
       cursor: pointer;
     }
 
     .button:hover {
-      background-color: lightblue;
+      background-color: grey;
     }
 
     /* Iframe styles */

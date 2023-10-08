@@ -1,10 +1,10 @@
 ---
-title: "Rio Furniture"
+title: "Academia"
 description: "this is meta description"
 draft: false
 image : "images/portfolio/work1.jpg"
 bg_image: "images/feature-bg.jpg"
-category: [ "UI/UX Design", "Video" ]
+category: [ "Tier 2", "Personal" ]
 information:
   - label : "Client"
     info : "Jannie Kelonsky"

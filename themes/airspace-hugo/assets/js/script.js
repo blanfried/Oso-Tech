@@ -16,16 +16,6 @@ jQuery.event.special.touchmove = {
   }
 };
 
-document.getElementById('desktopButton').addEventListener('click', function() {
-  var iframe = document.getElementById('myIframe');
-  iframe.className = 'desktop';
-});
-
-document.getElementById('mobileButton').addEventListener('click', function() {
-  var iframe = document.getElementById('myIframe');
-  iframe.className = 'mobile';
-});
-
 // Preloader js
 $(window).on('load', function () {
   'use strict';

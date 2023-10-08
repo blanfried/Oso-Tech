@@ -50,7 +50,7 @@ success_image = "images/paper-plane.svg"
 
 # Preloader
 [preloader]
-enable = false
+enable = true
 preloader = "" # use jpg, png, svg or gif format.
 
 # Navigation button

@@ -4,10 +4,8 @@ banner:
   enable: true
   bg_image: "images/slider-bg.jpg"
   bg_overlay: true
-  title: "Oso Web Service"
-  content: "We are a website creation service solely devoted to small-businesses.
-  <br/> <br/>
-  We exist so you can succeed."
+  title: "Osows"
+  content: "We Exist So You Can Succeed"
   button:
     enable: true
     label: "See Our Mission"

@@ -44,7 +44,7 @@ featured_service:
 
 
 ############################# Service ###############################
-service:
+services:
   enable : true
   title : "Our Services"
   description : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the

@@ -15,7 +15,7 @@ By accessing or using Osows, you agree to be bound by these Terms. If you disagr
 #### 2. Use of the Website
 You agree to use Osows only for lawful purposes. You must not use this website in a way that violates any local, state, national, or international law or regulation.
 #### 3. Intellectual Property
-All content (with the exception of the original theme template for this site which was created by [Themefisher](https://themefisher.com/hugo-themes/) and adapted by Lanfried Web Services), including text, graphics, logos, and images, are the property of Osows and are protected by copyright, trademark, and other laws. Unauthorized use of the content is prohibited and may violate copyright, trademark, and other laws.
+All content, including text, graphics, logos, and images, are the property of Osows and are protected by copyright, trademark, and other laws. Unauthorized use of the content is prohibited and may violate copyright, trademark, and other laws.
 #### 4. User-Generated Content
 If you post or submit content to Osows, you grant us a non-exclusive, royalty-free, perpetual, and worldwide license to use, store, display, reproduce, modify, create derivative works, perform, and distribute your user content on Osows for the purposes of operating, promoting, and improving our site.
 #### 5. Termination
@@ -27,5 +27,5 @@ These Terms are governed by and construed in accordance with the laws of The USA
 #### 8. Changes to These Terms
 We reserve the right to modify or replace these Terms at any time. It's your responsibility to check these Terms periodically for changes.
 #### 9. Questions
-If you have any questions about these Terms, please contact us at:
-[Osows Contact Information](/contact/)
+If you have any questions about these Terms, please
+[Contact Us.](/contact/)

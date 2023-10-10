@@ -11,10 +11,10 @@ name = "About"
 url = "about/"
 weight = 2
 
-[[main]]
-name = "Templates"
-url = "templates/"
-weight = 3
+# [[main]]
+# name = "Templates"
+# url = "templates/"
+# weight = 3
 
 # [[main]]
 # name = "Blog"
@@ -28,8 +28,8 @@ hasChildren = true
 
   [[main]]
   parent = "More"
-  name = "Service"
-  url = "service/"
+  name = "Services"
+  url = "services/"
   weight = 1
 
   [[main]]
@@ -56,14 +56,14 @@ name = "About"
 url = "about/"
 weight = 2
 
-[[footer]]
-name = "Templates"
-url = "templates/"
-weight = 3
+# [[footer]]
+# name = "Templates"
+# url = "templates/"
+# weight = 3
 
 [[footer]]
-name = "Service"
-url = "service/"
+name = "Services"
+url = "services/"
 weight = 4
 
 [[footer]]
@@ -83,10 +83,10 @@ weight = 7
 
 [[footer]]
 name = "Privacy Policy"
-url = "privacypolicy/"
+url = "privacy/"
 weight = 8
 
 [[footer]]
 name = "Terms and Conditions"
 url = "termsandconditions/"
-weight = 8
+weight = 9

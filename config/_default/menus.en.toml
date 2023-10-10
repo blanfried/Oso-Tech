@@ -16,10 +16,10 @@ name = "Templates"
 url = "templates/"
 weight = 3
 
-[[main]]
-name = "Blog"
-url = "blog/"
-weight = 4
+# [[main]]
+# name = "Blog"
+# url = "blog/"
+# weight = 4
 
 [[main]]
 weight = 5
@@ -80,3 +80,13 @@ weight = 6
 name = "Contact"
 url = "contact/"
 weight = 7
+
+[[footer]]
+name = "Privacy Policy"
+url = "privacypolicy/"
+weight = 8
+
+[[footer]]
+name = "Terms and Conditions"
+url = "termsandconditions/"
+weight = 8

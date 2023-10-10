@@ -8,8 +8,6 @@ layout: "faq"
 draft: false
 ---
 
-Terms and Conditions for Osows
-Last Updated: 08-05-2023
 
 Welcome to Osows. Please read these Terms and Conditions ("Terms", "Terms and Conditions") carefully before using the Osows website.
 #### 1. Acceptance of Terms

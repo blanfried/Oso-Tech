@@ -99,7 +99,7 @@ map_marker = "images/marker.png"
 enable = true
 expire_days = 2
 content = "This site uses cookies. By continuing to use this website, you agree to their use."
-button = "I Accept"
+button = "Accept"
 
 ######################## sidebar widgets #########################
 [widgets]

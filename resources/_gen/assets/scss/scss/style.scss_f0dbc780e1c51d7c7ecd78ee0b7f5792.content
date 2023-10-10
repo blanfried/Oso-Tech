@@ -105,6 +105,18 @@ input[type="tel"] {
 .button:hover {
   background-color: #53c9f0; }
 
+/* Iframe styles */
+#myIframe {
+  transition: all 0.3s ease; }
+
+#myIframe.desktop {
+  width: 80%;
+  height: 400px; }
+
+#myIframe.mobile {
+  width: 100%;
+  height: 300px; }
+
 .form-control {
   box-shadow: none;
   border-radius: 0; }

@@ -42,11 +42,11 @@
 {{ end }}
 {{ end }}
 
-<!-- Service -->
-{{ if .Params.service.enable }}
-{{ partial "service.html" . }}
+<!-- Services -->
+{{ if .Params.services.enable }}
+{{ partial "services.html" . }}
 {{ end }}
-<!-- /service -->
+<!-- /services -->
 
 <!-- Call to action -->
 {{ if .Params.cta.enable }}

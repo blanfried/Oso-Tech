@@ -5,11 +5,11 @@ favicon = "images/favicon.png"
 logo = "images/logo.png"
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
-logo_width = "100px"
+logo_width = "45px"
 # logo text will only show when logo is missing.
 logo_text = "Osows"
 # navbar fixed to top
-navbar_fixed = false
+navbar_fixed = true
 # OpenGraph / Twitter Card metadata
 description = "This is meta description"
 author = "Themefisher"

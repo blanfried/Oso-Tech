@@ -105,18 +105,6 @@ input[type="tel"] {
 .button:hover {
   background-color: #53c9f0; }
 
-/* Iframe styles */
-#myIframe {
-  transition: all 0.3s ease; }
-
-#myIframe.desktop {
-  width: 80%;
-  height: 400px; }
-
-#myIframe.mobile {
-  width: 100%;
-  height: 300px; }
-
 .form-control {
   box-shadow: none;
   border-radius: 0; }
@@ -570,8 +558,7 @@ span.cloaked-e-mail:before {
 --*/
 header {
   min-height: 100px;
-  background: #ffffff;
-  padding: 20px 0; }
+  padding: 5px 0; }
   @media (max-width: 992px) {
     header {
       min-height: 90px; } }
@@ -579,7 +566,7 @@ header {
     margin-bottom: 0px;
     border: 0px; }
   header .navbar-brand {
-    padding-top: 5px; }
+    padding-top: 0px; }
   header .navbar-default {
     background: none;
     border: 0px; }
@@ -594,26 +581,28 @@ header .navbar-default .navbar-nav li a:hover {
           color: #000000; }
 
 .navigation {
-  background: #ffffff;
-  padding: 20px 0; }
+  background: #8a6d3b4a;
+  padding-bottom: 5px; }
   .navigation .navbar {
     margin-bottom: 0px;
     border: 0px; }
   .navigation .navbar-brand {
-    padding-top: 5px; }
+    padding-bottom: 100px;
+    padding-left: 20px; }
   .navigation .navbar {
     background: none;
     border: 0px; }
     .navigation .navbar .navbar-nav {
-      padding-top: 10px; }
+      padding-top: 35px;
+      padding-right: 20px; }
       .navigation .navbar .navbar-nav a {
         color: #7b7b7b;
         padding: 10px 15px;
         font-weight: 500;
-        font-size: 14px;
+        font-size: 16px;
         text-transform: uppercase; }
         .navigation .navbar .navbar-nav a:hover, .navigation .navbar .navbar-nav a:focus {
-          color: #000000;
+          color: #0062ccc9;
           background: transparent; }
       .navigation .navbar .navbar-nav a.current {
         color: #000000;
@@ -659,7 +648,8 @@ header .navbar-default .navbar-nav li a:hover {
   .navbar-right {
     float: none !important; }
   .navbar-toggle {
-    display: block; }
+    display: block;
+    padding-top: 35px; }
   .navbar-collapse {
     border-top: 1px solid transparent;
     box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1); }

@@ -61,23 +61,6 @@ input[type="tel"] {
   background-color: rgb(83, 201, 240);
 }
 
-/* Iframe styles */
-#myIframe {
-  transition: all 0.3s ease;
-}
-
-#myIframe.desktop {
-  width: 80%;
-  height: 400px;
-}
-
-#myIframe.mobile {
-  width: 100%;
-  height: 300px;
-}
-
-
-
 .form-control {
   box-shadow: none;
   border-radius: 0;

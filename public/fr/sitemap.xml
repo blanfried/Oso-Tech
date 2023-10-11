@@ -24,28 +24,6 @@
                 href="https://www.osows.com/fr/categories/"
                 />
   </url><url>
-    <loc>https://www.osows.com/fr/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://www.osows.com/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="https://www.osows.com/it/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-at"
-                href="https://www.osows.com/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="https://www.osows.com/fr/tags/"
-                />
-  </url><url>
     <loc>https://www.osows.com/fr/</loc>
     <xhtml:link
                 rel="alternate"
@@ -66,6 +44,28 @@
                 rel="alternate"
                 hreflang="fr-FR"
                 href="https://www.osows.com/fr/"
+                />
+  </url><url>
+    <loc>https://www.osows.com/fr/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://www.osows.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="https://www.osows.com/it/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-at"
+                href="https://www.osows.com/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://www.osows.com/fr/tags/"
                 />
   </url>
 </urlset>

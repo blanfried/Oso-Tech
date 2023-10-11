@@ -287,7 +287,7 @@ input[type="tel"] {
 
   p {
     font-style: italic;
-    color: darken( $light, 57.64);
+    color: darken( $light, 100);
     font-family: $font-secondary;
   }
 }
@@ -297,6 +297,7 @@ input[type="tel"] {
   font-size: 28px;
   font-weight: 600;
   margin-bottom: 30px;
+  color: #000;
 
   @include mobile-xs {
     font-size: 26px;
@@ -324,7 +325,7 @@ input[type="tel"] {
     }
 
     p {
-      color: $white;
+      color: #000;
     }
   }
 }
@@ -344,7 +345,7 @@ input[type="tel"] {
   p {
     font-size: 18px;
     line-height: 40px;
-    color: lighten( $black, 16.078);
+    color: lighten( $black, 0);
     font-weight: 300;
   }
 }

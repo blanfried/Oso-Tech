@@ -5,7 +5,8 @@
 body {
   line-height: 1.5;
   font-family: "Roboto", sans-serif;
-  -webkit-font-smoothing: antialiased; }
+  -webkit-font-smoothing: antialiased;
+  background-color: #8a6d3b4a; }
 
 h1,
 h2,
@@ -581,7 +582,6 @@ header .navbar-default .navbar-nav li a:hover {
           color: #000000; }
 
 .navigation {
-  background: #8a6d3b4a;
   padding-bottom: 5px; }
   .navigation .navbar {
     margin-bottom: 0px;

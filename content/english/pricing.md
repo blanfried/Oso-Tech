@@ -1,6 +1,6 @@
 ---
-title: "Our Pricing"
-description: "this is meta description"
+title: "Pricing"
+description: ""
 bg_image: "images/feature-bg.jpg"
 layout: "pricing"
 draft: false
@@ -73,7 +73,7 @@ pricing:
     - Basic SEO
     - Email Marketing
     - 24/7 Tech Support
-    
+
   # pricing table loop
   - name : "Advance"
     price: "$299"

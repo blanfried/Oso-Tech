@@ -1,5 +1,5 @@
 ---
-title: "Services"
+title: "Our Services"
 description: ""
 bg_image: "images/feature-bg.jpg"
 layout: "services"

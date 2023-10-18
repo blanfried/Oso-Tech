@@ -1,6 +1,6 @@
 ---
-title: "About Our Company"
-description: "this is meta description"
+title: "About Oso Web Services"
+description: ""
 bg_image: "images/feature-bg.jpg"
 layout: "about"
 draft: false
@@ -18,10 +18,10 @@ about:
   velit nulla culpa modi quis iste tempora non, suscipit repellendus labore voluptatem dicta amet? Lorem ipsum
   dolor sit amet, consectetur adipisicing elit. Provident, neque!"
 
-  button:
-    enable : true
-    label : "Download Company Profile"
-    link : "#"
+  # button:
+  #   enable : true
+  #   label : "Download Company Profile"
+  #   link : "#"
 
   funfacts:
   # funfacts loop
@@ -57,37 +57,22 @@ about:
 ################################ feature #####################################
 features:
   enable : true
-  title : "We are indepented Design & Development Agency"
+  title : "Our Core Values"
   feature_item:
   # feature item loop
-  - icon : "fab fa-app-store-ios" #https://fontawesome.com/v5.15/icons
-    name : "IOS App Development"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+  - icon : "fas fa-universal-access" #https://fontawesome.com/v5.15/icons
+    name : "Accessibility"
+    content : ""
 
   # feature item loop
-  - icon : "fas fa-unlock" #https://fontawesome.com/v5.15/icons
-    name : "App Secutity"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+  - icon : "fas fa-user-tie" #https://fontawesome.com/v5.15/icons
+    name : "Opportunity"
+    content : ""
 
   # feature item loop
-  - icon : "fas fa-gamepad" #https://fontawesome.com/v5.15/icons
-    name : "Games Development"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-  # feature item loop
-  - icon : "fas fa-microphone" #https://fontawesome.com/v5.15/icons
-    name : "Animation and Editing"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-  # feature item loop
-  - icon : "fas fa-lightbulb" #https://fontawesome.com/v5.15/icons
-    name : "UI/UX Design"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-  # feature item loop
-  - icon : "fas fa-star-of-life" #https://fontawesome.com/v5.15/icons
-    name : "Branding"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+  - icon : "fas fa-shapes" #https://fontawesome.com/v5.15/icons
+    name : "Simplicity"
+    content : ""
 
 
 #################################### testimonial & mission vision #######################################

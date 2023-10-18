@@ -52,42 +52,42 @@ services:
     # service item loop
     - icon : fas fa-bullseye #https://fontawesome.com/v5.15/icons
       name: Website Creation
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      content: ""
 
     # service item loop
     - icon : fas fa-layer-group #https://fontawesome.com/v5.15/icons
       name: SEO Boost
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      content: ""
 
     # service item loop
     - icon : fas fa-image #https://fontawesome.com/v5.15/icons
       name: Performance Upgrade
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      content: ""
 
     # service item loop
     - icon : fas fa-bug #https://fontawesome.com/v5.15/icons
       name: Website Urgent Care
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      content: ""
 
     # service item loop
     - icon : fas fa-headphones-alt #https://fontawesome.com/v5.15/icons
       name: Lawsuit Prevention
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      content: ""
 
     # service item loop
     - icon : fas fa-leaf #https://fontawesome.com/v5.15/icons
       name: ADA Compliance
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      content: ""
 
     # service item loop
     - icon : fas fa-globe-asia #https://fontawesome.com/v5.15/icons
       name: CMS Creation
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      content: ""
 
     # service item loop
     - icon : fas fa-feather #https://fontawesome.com/v5.15/icons
       name: Personal Web Developer
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      content: ""
 
 ############################# call to action #################################
 cta:

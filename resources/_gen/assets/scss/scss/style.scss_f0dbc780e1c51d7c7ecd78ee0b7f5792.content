@@ -583,8 +583,9 @@ header .navbar-default .navbar-nav li a:hover {
           color: #000000; }
 
 .navigation {
+  background: rgba(245, 245, 245, 0.97);
   padding-bottom: 0px;
-  border-bottom: 1px solid; }
+  z-index: 99999; }
   .navigation .navbar {
     margin-bottom: 0px;
     border: 10px; }

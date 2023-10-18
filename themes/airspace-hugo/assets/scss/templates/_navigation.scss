@@ -1,7 +1,9 @@
 .navigation {
-  // background: #8a6d3b4a;
+  background: hsla(0, 0%, 96%, 0.97);
   padding-bottom: 0px;
-  border-bottom: 1px solid;
+  // border-bottom: 1px solid;
+  z-index: 99999;
+  // opacity: 1;
 
   .navbar {
     margin-bottom: 0px;

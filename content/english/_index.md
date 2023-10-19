@@ -23,17 +23,17 @@ about:
 portfolio:
   enable: true
   bg_image: "images/feature-bg.jpg"
-  title: "Start With An Additional 43.2 Million Potential Clients"
-  content: " With us, you get ahead of 97% of your competition by being accessible to 43.2 million more people in the United States alone. How is this so? <br/> <br/>
+  title: "Start With An Additional 1.5 Billion Potential Clients"
+  content: " With us, you get ahead of 97% of your competition by being accessible to 1.5 Billion more people around the globe. How is this so? <br/> <br/>
 
-  Included in our Website Creation price is maximal ADA compliance and website legal protection guaranteed. All our sites are built in accordance with the most up to date ADA regulations. We are so sure of this that we even provide up to $10,000 in legal protection, just to make you feel even safer. <br/> <br/>
+  In our [Compliance Package](pricing/) is a website litigation package along with WCAG, ADA, and other accessibility legislation compliance. Your website will be built in accordance with the most up to date legislation and will tracked and updated daily if anything changes. <br/> <br/>
   
-  Our compliance policy not only protects you from getting sued but it also makes your business accessible to all individuals with disabilities (43.2 million people in the US alone!).
+  Compliance not only protects you from litigation but also makes your business accessible to all individuals with disabilities (1.5 billion people globally). It is the best for your business and the right thing to do.
   "
   button:
     enable: true
     label: "Learn More"
-    link: "blog/blog-post-1/"
+    link: "pricing/"
 
 
 ############################# Service ############################

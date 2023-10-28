@@ -10,7 +10,7 @@ pricing:
   enable : true
   pricing_table:
   # pricing table loop
-  - name : "Basic"
+  - name : "Basic Monthly"
     price: "$99"
     content : "Perfect for single freelancers who work by themselves"
     link : "#"
@@ -23,7 +23,7 @@ pricing:
     - 24/7 Tech Support
 
   # pricing table loop
-  - name : "Premium"
+  - name : "Premium Monthly"
     price: "$199"
     content : "Suitable for small businesses with up to 5 employees"
     link : "#"
@@ -36,7 +36,7 @@ pricing:
     - 24/7 Tech Support
 
   # pricing table loop
-  - name : "Advance"
+  - name : "Premium+ Monthly"
     price: "$299"
     content : "Suitable for large businesses with unlimited employees"
     link : "#"
@@ -49,7 +49,7 @@ pricing:
     - 24/7 Tech Support
 
   # pricing table loop
-  - name : "Advance"
+  - name : "Basic Annual"
     price: "$299"
     content : "Suitable for large businesses with unlimited employees"
     link : "../contact/"
@@ -62,7 +62,7 @@ pricing:
     - 24/7 Tech Support
 
   # pricing table loop
-  - name : "Advance"
+  - name : "Premium Annual"
     price: "$299"
     content : "Suitable for large businesses with unlimited employees"
     link : "../contact/"
@@ -75,7 +75,7 @@ pricing:
     - 24/7 Tech Support
 
   # pricing table loop
-  - name : "Advance"
+  - name : "Premium+ Annual"
     price: "$299"
     content : "Suitable for large businesses with unlimited employees"
     link : "../contact/"

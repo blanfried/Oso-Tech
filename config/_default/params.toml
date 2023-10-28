@@ -17,14 +17,14 @@ image = "images/logo.png" # this image will be used as fallback if a page has no
 # Whether to display text descriptors (like "E-mail: ", "Phone: ") before the address block elements
 address_descriptors = false
 # contact info
-phone = "+1 (949) 439-8667"
+phone = "(888) 716-9467"
 email = "osowsco@gmail.com"
 location = """
 **Osows**  
-Brooklyn, New York
+New York, New York
 """
 # copyright
-copyright = "Copyright [Oso Group]()"
+copyright = "Copyright [Oso Group Inc.]()"
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
 custom_script= ""
 # google tag manager, see https://developers.google.com/tag-manager/

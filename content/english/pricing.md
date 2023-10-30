@@ -144,11 +144,12 @@ pricing:
     - Toll-Free Number Creation and Setup
     - Unlimited Logo Changes or Creations Per Month
     - Unlimited New Website Pictures Per Month
+    - "**After One Year You Start Paying Premium Programmer Prices ($200)**"
 
   # pricing table loop
   - name : "Premium Website Annual"
     price: "$280"
-    content : "Suitable for large businesses with unlimited employees"
+    content : "A Premium Website + Premium Programmer"
     link : "../contact/"
     services:
     - "**The Website:**"
@@ -170,6 +171,7 @@ pricing:
     - Toll-Free Number Creation and Setup
     - Unlimited Logo Changes or Creations Per Month
     - Unlimited New Website Pictures Per Month
+    - "**After One Year You Start Paying Premium Programmer Prices ($160)**"
 
 ############################# call to action #################################
 cta:

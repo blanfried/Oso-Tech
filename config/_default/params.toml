@@ -24,7 +24,7 @@ location = """
 New York, New York
 """
 # copyright
-copyright = "Copyright [Oso Group Inc.]()"
+copyright = "Copyright **Oso Group Inc.**"
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
 custom_script= ""
 # google tag manager, see https://developers.google.com/tag-manager/

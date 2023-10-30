@@ -54,8 +54,10 @@ pricing:
     - Complete ADA & WCAG Compliance and Monitoring
     - Website Legal Advisory
     - Toll-Free Number Creation and Setup
+    - Unlimited Logo Changes or Creations Per Month
+    - Unlimited New Website Pictures Per Month
 
-  # pricing table loop
+# pricing table loop
   - name : "Premium Programmer Annual"
     price: "$160"
     content : "Everything on Basic Programmer + Unlimited + Legal + E-commerce."
@@ -70,8 +72,10 @@ pricing:
     - Complete ADA & WCAG Compliance and Monitoring
     - Website Legal Advisory
     - Toll-Free Number Creation and Setup
+    - Unlimited Logo Changes or Creations Per Month
+    - Unlimited New Website Pictures Per Month
 
-  # pricing table loop
+# pricing table loop
   - name : "Basic Website Monthly"
     price: "$250"
     content : "A Basic Website + Basic Programmer"
@@ -138,6 +142,8 @@ pricing:
     - Complete ADA & WCAG Compliance and Monitoring
     - Website Legal Advisory
     - Toll-Free Number Creation and Setup
+    - Unlimited Logo Changes or Creations Per Month
+    - Unlimited New Website Pictures Per Month
 
   # pricing table loop
   - name : "Premium Website Annual"
@@ -162,6 +168,8 @@ pricing:
     - Complete ADA & WCAG Compliance and Monitoring
     - Website Legal Advisory
     - Toll-Free Number Creation and Setup
+    - Unlimited Logo Changes or Creations Per Month
+    - Unlimited New Website Pictures Per Month
 
 ############################# call to action #################################
 cta:

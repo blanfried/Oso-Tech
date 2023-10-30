@@ -21,6 +21,8 @@ pricing:
     - Google Tag & Analytics Optimization and Monitoring
     - 2 Blog Posts Per Month or 2 Additional Customizations
     - Unlimited Troubleshooting and Error Correcting
+    - 1 New Logo Change or Creation Per Month
+    - Up to 3 New Website Pictures Per Month
 
   # pricing table loop
   - name : "Basic Programmer Annual"
@@ -34,6 +36,8 @@ pricing:
     - Google Tag & Analytics Optimization and Monitoring
     - 2 Blog Posts Per Month or 2 Additional Customizations
     - Unlimited Troubleshooting and Error Correcting
+    - 1 New Logo Change or Creation Per Month
+    - Up to 3 New Website Pictures Per Month
 
   # pricing table loop
   - name : "Premium Programmer Monthly"
@@ -86,6 +90,8 @@ pricing:
     - Google Tag & Analytics Optimization and Monitoring
     - 2 Blog Posts Per Month or 2 Additional Customizations
     - Unlimited Troubleshooting and Error Correcting
+    - 1 New Logo Change or Creation Per Month
+    - Up to 3 New Website Pictures Per Month
 
   # pricing table loop
   - name : "Basic Website Annual"
@@ -106,6 +112,8 @@ pricing:
     - Google Tag & Analytics Optimization and Monitoring
     - 2 Blog Posts Per Month or 2 Additional Customizations
     - Unlimited Troubleshooting and Error Correcting
+    - 1 New Logo Change or Creation Per Month
+    - Up to 3 New Website Pictures Per Month
 
   # pricing table loop
   - name : "Premium Website Monthly"

@@ -29,3 +29,7 @@ We reserve the right to modify or replace these Terms at any time. It's your res
 #### 9. Questions
 If you have any questions about these Terms, please
 [Contact Us.](/contact/)
+If you would like to manage your consent preferences you can do so here:
+ <a href="#"
+      onclick="window.displayPreferenceModal();return false;"
+      id="termly-consent-preferences">Consent Preferences</a>

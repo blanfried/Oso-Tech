@@ -3,6 +3,7 @@
     "tags": [
       "a",
       "aside",
+      "base",
       "blockquote",
       "body",
       "br",
@@ -283,6 +284,7 @@
       "name",
       "navigation",
       "subject",
+      "termly-consent-preferences",
       "vision",
       "welcome-to-airspace"
     ]

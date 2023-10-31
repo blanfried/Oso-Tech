@@ -585,7 +585,7 @@ header .navbar-default .navbar-nav li a:hover {
 .navigation {
   background: rgba(245, 245, 245, 0.99);
   padding-bottom: 0px;
-  z-index: 99999;
+  z-index: 9991;
   box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.1); }
   .navigation .navbar {
     margin-bottom: 0px;

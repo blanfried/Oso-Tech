@@ -87,6 +87,6 @@ url = "privacy/"
 weight = 8
 
 [[footer]]
-name = "Terms and Conditions"
-url = "termsandconditions/"
+name = "Terms of Service"
+url = "termsofservice/"
 weight = 9

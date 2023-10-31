@@ -1,5 +1,5 @@
 ---
-title: "Terms & Conditions"
+title: "Terms of Service"
 description: ""
 subtitle : ""
 lastmod: 2023-10-10T00:00:00

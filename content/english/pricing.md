@@ -28,7 +28,7 @@ pricing:
   - name : "Basic Programmer Annual"
     price: "$80"
     content : "Perfect for small businesses with existing Shopify, Wix, and Wordpress type websites with no e-commerce."
-    link : "../contact/"
+    link : "https://buy.stripe.com/test_aEUcOJ99h8zt1r23cc"
     link1 : "../about/"
     services:
     - 3 Website Customizations Per Month

@@ -14,7 +14,7 @@ pricing:
   - name : "Basic Programmer Monthly"
     price: "$100"
     content : "Perfect for small businesses with existing Shopify, Wix, and Wordpress type websites with no e-commerce."
-    link : "billing.stripe.com/p/login/28odTm8gZgVm73G7ss"
+    link : "https://buy.stripe.com/28o7ul2xv8l441ybIJ"
     services:
     - 3 Website Customizations Per Month
     - SEO Upgrades and Monitoring

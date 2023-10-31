@@ -90,3 +90,8 @@ weight = 8
 name = "Terms of Service"
 url = "termsofservice/"
 weight = 9
+
+[[footer]]
+name = "Cookie Policy"
+url = "cookiepolicy/"
+weight = 9

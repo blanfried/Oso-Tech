@@ -9,7 +9,7 @@ draft: false
 ---
 
 
-Welcome to Osows. Please read these Terms and Conditions ("Terms", "Terms and Conditions") carefully before using the Osows website.
+Welcome to Osows. Please read these Terms of Service ("Terms", "Terms of Service") carefully before using the Osows website.
 #### 1. Acceptance of Terms
 By accessing or using Osows, you agree to be bound by these Terms. If you disagree with any part of the terms, you may not access or use the website.
 #### 2. Use of the Website

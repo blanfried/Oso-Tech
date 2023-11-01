@@ -28,7 +28,7 @@ weight = 5
 
 [[main]]
 name = "Account"
-url = "https://billing.stripe.com/p/login/28odTm8gZgVm73G7ss"
+url = "https://pay.osows.com/p/login/28odTm8gZgVm73G7ss"
 weight = 7
 
 [[main]]

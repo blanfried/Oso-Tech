@@ -22,7 +22,17 @@ weight = 2
 # weight = 4
 
 [[main]]
+name = "Contact"
+url = "contact/"
 weight = 5
+
+[[main]]
+name = "Account"
+url = "https://billing.stripe.com/p/login/28odTm8gZgVm73G7ss"
+weight = 7
+
+[[main]]
+weight = 6
 name = "More"
 hasChildren = true
 
@@ -44,10 +54,6 @@ hasChildren = true
   url = "faq/"
   weight = 3
   
-[[main]]
-name = "Contact"
-url = "contact/"
-weight = 6
 
 
 # footer menu

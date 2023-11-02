@@ -4,7 +4,7 @@ banner:
   enable: true
   bg_image: "images/slider-bg.jpg"
   bg_overlay: true
-  title: "Your Personal <br/> Web-Dev"
+  title: "Your Personal Web-Dev"
   content: ""
   button:
     enable: true

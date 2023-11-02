@@ -737,14 +737,15 @@ header .navbar-default .navbar-nav li a:hover {
       background-attachment: unset;
       padding: 150px 0; } }
   .slider .block {
-    color: #e0e0e0;
+    color: #dadada;
     text-align: center; }
     .slider .block h1 {
       font-weight: 400;
       font-size: 450%;
       line-height: 1.33em;
       letter-spacing: 0.2em;
-      padding-bottom: 15px; }
+      padding-bottom: 15px;
+      color: #ffff; }
       @media (max-width: 768px) {
         .slider .block h1 {
           font-weight: 400;

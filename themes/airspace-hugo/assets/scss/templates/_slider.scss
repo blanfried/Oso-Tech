@@ -11,7 +11,7 @@
   }
 
   .block {
-    color: darken( $light, 8.4);
+    color: darken( $light, 10.4);
     text-align: center;
 
     h1 {
@@ -20,6 +20,7 @@
       line-height: 1.33em;
       letter-spacing: 0.2em;
       padding-bottom: 15px;
+      color: #ffff;
       // text-transform: uppercase;
 
       @include tablet {

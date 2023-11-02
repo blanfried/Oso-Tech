@@ -16,7 +16,7 @@
   }
 
   h2 {
-    margin: 0px;
+    margin: 9px;
     padding-top: 30px;
     padding-bottom: 30px;
   }
@@ -24,6 +24,7 @@
   p {
     color: darken( $light, 100);
     margin-bottom: 20px;
+    margin: 9px;
   }
 
   .btn-view-works {
@@ -31,5 +32,6 @@
     color: $white;
     padding: 10px 20px;
     margin-bottom: 30px;
+    margin: 9px;
   }
 }

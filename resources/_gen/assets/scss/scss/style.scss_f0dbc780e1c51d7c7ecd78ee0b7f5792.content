@@ -758,7 +758,7 @@ header .navbar-default .navbar-nav li a:hover {
       @media (max-width: 400px) {
         .slider .block h1 {
           font-weight: 400;
-          font-size: 38px; } }
+          font-size: 35px; } }
     .slider .block p {
       margin-bottom: 45px;
       color: #b5b5b5;
@@ -869,17 +869,19 @@ header .navbar-default .navbar-nav li a:hover {
       padding-bottom: 20px;
       background-attachment: unset; } }
   .feature h2 {
-    margin: 0px;
+    margin: 9px;
     padding-top: 30px;
     padding-bottom: 30px; }
   .feature p {
     color: black;
-    margin-bottom: 20px; }
+    margin-bottom: 20px;
+    margin: 9px; }
   .feature .btn-view-works {
     background: #4d4d4d;
     color: #ffffff;
     padding: 10px 20px;
-    margin-bottom: 30px; }
+    margin-bottom: 30px;
+    margin: 9px; }
 
 .portfolio-work {
   padding: 80px 0; }

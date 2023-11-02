@@ -26,6 +26,7 @@
       padding-right: 20px;
       @include mobile {
         padding-top: 0px;
+        padding-right: 0px;
       }
 
       a {
@@ -115,13 +116,12 @@
   .navbar-toggle {
     display: block;
     padding-top: 30px;
+    text-align: center;
   }
 
   .navbar-collapse {
     border-top: 1px solid transparent;
     box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
-    // margin-left: 25%;
-    padding-left: 10%;
   }
 
   .navbar-fixed-top {

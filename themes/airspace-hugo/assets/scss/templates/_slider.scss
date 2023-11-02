@@ -16,7 +16,7 @@
 
     h1 {
       font-weight: 400;
-      font-size: 450%;
+      font-size: 45px;
       line-height: 1.33em;
       letter-spacing: 0.2em;
       padding-bottom: 15px;
@@ -25,17 +25,17 @@
 
       @include tablet {
         font-weight: 400;
-        font-size: 450%;
+        font-size: 45px;
         }
 
       @include mobile {
         font-weight: 400;
-        font-size: 400%;
+        font-size: 40px;
         }
 
       @include mobile-xs {
         font-weight: 400;
-        font-size: 400%;
+        font-size: 40px;
         }
     }
 
@@ -54,6 +54,12 @@
     @include mobile {
       .btn {
         font-size: 16px;
+      }
+    }
+
+    @include mobile-xs{
+      .btn {
+        font-size: 12px;
       }
     }
   }

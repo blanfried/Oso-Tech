@@ -3,7 +3,6 @@
     "tags": [
       "a",
       "aside",
-      "base",
       "blockquote",
       "body",
       "br",
@@ -168,7 +167,6 @@
       "media-body",
       "media-heading",
       "media-object",
-      "menu-icon",
       "middle-bar",
       "mobile",
       "mt-30",
@@ -185,7 +183,6 @@
       "navbar-nav",
       "navbar-right",
       "navbar-toggle",
-      "navbar-toggler",
       "navigation",
       "no-float",
       "overly",

@@ -1,5 +1,5 @@
 ---
-title: "About Oso Web Service"
+title: "About Osows"
 description: ""
 bg_image: "images/feature-bg.jpg"
 layout: "about"

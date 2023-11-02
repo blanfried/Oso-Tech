@@ -4,8 +4,8 @@ banner:
   enable: true
   bg_image: "images/slider-bg.jpg"
   bg_overlay: true
-  title: "Oso Web Service"
-  content: "We Exist So You Can Succeed"
+  title: "Personal Web Development"
+  content: "Devoted to Small Businesses"
   button:
     enable: true
     label: "Our Mission"

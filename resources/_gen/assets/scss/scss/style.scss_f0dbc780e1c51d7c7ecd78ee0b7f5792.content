@@ -77,8 +77,37 @@ blockquote {
   text-align: left;
   color: #737373; }
 
+/* Set up the initial state of the icon bars */
 .navbar-toggle .icon-bar {
-  background: #0062ccc9; }
+  display: block;
+  width: 22px;
+  /* Adjust as needed for your design */
+  height: 3px;
+  /* Adjust as needed for your design */
+  background: #0062ccc9;
+  border-radius: 1px;
+  transition: all 0.2s ease-in-out;
+  position: relative; }
+
+/* Clear transforms for initial state */
+.navbar-toggle.collapsed .icon-bar {
+  transform: translateX(0) rotate(0); }
+
+/* Transform the icon-bar into 'X' when 'collapsed' class is not present */
+.navbar-toggle:not(.collapsed) .top-bar {
+  transform: translateY(7px) rotate(45deg); }
+
+.navbar-toggle:not(.collapsed) .middle-bar {
+  opacity: 0;
+  /* This hides the middle bar, creating a gap in the 'X' */
+  transform: translateX(0); }
+
+.navbar-toggle:not(.collapsed) .bottom-bar {
+  transform: translateY(-7px) rotate(-45deg); }
+
+/* Adjust the transform-origin to ensure proper rotation */
+.navbar-toggle .top-bar, .navbar-toggle .bottom-bar {
+  transform-origin: 50% 50%; }
 
 input[type="email"],
 input[type="password"],

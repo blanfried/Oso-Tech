@@ -1,7 +1,7 @@
 ---
 title: "Our Services"
 description: ""
-bg_image: "images/feature-bg.svg"
+bg_image: "images/slider-bg.svg"
 layout: "services"
 draft: false
 

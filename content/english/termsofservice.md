@@ -3,7 +3,7 @@ title: "Our Terms"
 description: ""
 subtitle : "Scroll down to the table of contents for specifics and if you have any questions, [Contact Us](contact/)!"
 lastmod: 2023-10-10T00:00:00
-bg_image: "images/feature-bg.svg"
+bg_image: "images/slider-bg.svg"
 layout: "faq"
 draft: false
 ---

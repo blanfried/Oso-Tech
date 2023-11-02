@@ -1,7 +1,7 @@
 ---
 title: "Contact Us"
 description: ""
-bg_image: "images/feature-bg.jpg"
+bg_image: "images/feature-bg.svg"
 layout: "contact"
 draft: false
 ---

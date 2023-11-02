@@ -1,7 +1,7 @@
 ---
 title: "Our Plans"
 description: "Contact us directly for custom pricing."
-bg_image: "images/feature-bg.jpg"
+bg_image: "images/feature-bg.svg"
 layout: "pricing"
 draft: false
 

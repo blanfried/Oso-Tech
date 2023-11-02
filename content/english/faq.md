@@ -3,7 +3,7 @@ title: "Frequently Asked Questions"
 description: ""
 subtitle : ""
 lastmod: 2021-04-01T00:00:00
-bg_image: "images/feature-bg.jpg"
+bg_image: "images/feature-bg.svg"
 layout: "faq"
 draft: false
 ---

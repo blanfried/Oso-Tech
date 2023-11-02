@@ -1,7 +1,7 @@
 ---
 title: "About Osows"
 description: ""
-bg_image: "images/feature-bg.jpg"
+bg_image: "images/feature-bg.svg"
 layout: "about"
 draft: false
 

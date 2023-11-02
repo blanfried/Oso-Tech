@@ -3,7 +3,7 @@ title: "Academia"
 description: "A Personal Website to Show Off Your Portfolio, Academic or Otherwise!"
 draft: false
 image : "images/portfolio/Academia-Template.jpg"
-bg_image: "images/feature-bg.jpg"
+bg_image: "images/feature-bg.svg"
 category: [ "Tier 2", "Personal" ]
 information:
   - label : "Tier"

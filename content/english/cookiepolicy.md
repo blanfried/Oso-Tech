@@ -3,7 +3,7 @@ title: "Our Cookie Policy"
 description: ""
 subtitle : "Peruse at your leisure for some spicy cookie policy content and, as always, if you have any questions, [Contact Us](contact/)!"
 lastmod: 2023-10-10T00:00:00
-bg_image: "images/feature-bg.jpg"
+bg_image: "images/feature-bg.svg"
 layout: "faq"
 draft: false
 ---

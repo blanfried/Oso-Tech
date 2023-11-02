@@ -2,7 +2,7 @@
 ############################### Banner ##############################
 banner:
   enable: true
-  bg_image: "images/slider-bg.jpg"
+  bg_image: "images/slider-bg.svg"
   bg_overlay: true
   title: "Your Personal Web-Dev"
   content: ""
@@ -22,7 +22,7 @@ about:
 ######################### Portfolio ###############################
 portfolio:
   enable: true
-  bg_image: "images/feature-bg.jpg"
+  bg_image: "images/feature-bg.svg"
   title: "Start With An Additional 1.5 Billion Potential Clients"
   content: " With us, you get ahead of 97% of your competition by being accessible to 1.5 Billion more people around the globe. How is this so? <br/> <br/>
 
@@ -45,7 +45,7 @@ services:
 ############################ call to action ###########################
 cta:
   enable: true
-  bg_image: "images/call-to-action-bg.jpg"
+  bg_image: "images/call-to-action-bg.svg"
   title: "We Are Devoted to Small Businesses"
   content: "Whilst vital to your success, websites can be complicated and expensive. 
   <br/>

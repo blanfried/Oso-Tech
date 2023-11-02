@@ -149,10 +149,9 @@ input[type="tel"] {
   background: #0062ccc9;
   color: #ffffff;
   display: inline-block;
-  font-size: 14px;
+  font-size: 16px;
   letter-spacing: 1px;
-  padding: 14px 35px;
-  text-transform: uppercase;
+  padding: 14px 20px;
   border-radius: 0;
   -webkit-transition: all 0.2s ease;
   -moz-transition: all 0.2s ease;
@@ -742,19 +741,22 @@ header .navbar-default .navbar-nav li a:hover {
     text-align: center; }
     .slider .block h1 {
       font-weight: 400;
-      font-size: 48px;
+      font-size: 450%;
       line-height: 1.33em;
       letter-spacing: 0.2em;
       padding-bottom: 15px; }
       @media (max-width: 768px) {
         .slider .block h1 {
-          font-size: 80px; } }
+          font-weight: 400;
+          font-size: 450%; } }
       @media (max-width: 480px) {
         .slider .block h1 {
-          font-size: 66px; } }
+          font-weight: 400;
+          font-size: 400%; } }
       @media (max-width: 400px) {
         .slider .block h1 {
-          font-size: 62px; } }
+          font-weight: 400;
+          font-size: 400%; } }
     .slider .block p {
       margin-bottom: 45px;
       color: #b5b5b5;

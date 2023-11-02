@@ -4,11 +4,11 @@ banner:
   enable: true
   bg_image: "images/slider-bg.jpg"
   bg_overlay: true
-  title: "Personal Web Development"
-  content: "Devoted to Small Businesses"
+  title: "Your Personal <br/> Web-Dev"
+  content: ""
   button:
     enable: true
-    label: "Our Mission"
+    label: "Devoted to Small Businesses"
     link: "about/"
 # <br/> Paragraph 
 ############################# About #################################

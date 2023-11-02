@@ -9,7 +9,7 @@
     <div class="row">
       <!-- single pricing table -->
       {{ range .pricing_table }}
-      <div class="col-md-6 col-sm-6 col-xs-12">
+      <div class="col-md-12 col-sm-6 col-xs-12">
         <div class="pricing-item text-center">
           <div class="price-title">
             {{ with .name }}<h3>{{ . | markdownify }}</h3>{{ end }}
@@ -21,7 +21,7 @@
             <li>{{ . | markdownify }}</li>
             {{ end }}
           </ul>
-          <a class="btn btn-small" href="{{ .link | safeURL }}">{{ i18n "buy_now" }}</a>
+          <a class="btn btn-small" href="{{ .link | safeURL }}" target="_blank">{{ i18n "buy_now" }}</a>
         </div>
       </div>
       {{ end }}

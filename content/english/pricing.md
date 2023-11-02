@@ -9,12 +9,11 @@ draft: false
 pricing:
   enable : true
   pricing_table:
-
   # pricing table loop
   - name : "Basic Programmer Monthly"
     price: "$100"
     content : "Perfect for small businesses with existing Shopify, Wix, and Wordpress type websites with no e-commerce."
-    link : "https://buy.stripe.com/28o7ul2xv8l441ybIJ"
+    link : "https://pay.osows.com/b/4gwdSJegdbxgdC8002"
     services:
     - 3 Website Customizations Per Month
     - SEO Upgrades and Monitoring
@@ -178,3 +177,8 @@ cta:
   enable : true
   # call to action content comes from "_index.md"
 ---
+
+<script async src="https://js.stripe.com/v3/pricing-table.js"></script>
+<stripe-pricing-table pricing-table-id="prctbl_1O7oreH3lifquiGEXpm7OOEk"
+publishable-key="pk_live_51O0n53H3lifquiGE8rXzIbU9a1DTm0Up2Wcv4TLeQfGCUjLqi9UzR3B8YNQNJWzW88Up63XHX7VXlrJF6xtVie8Q005tB9yDlP">
+</stripe-pricing-table>

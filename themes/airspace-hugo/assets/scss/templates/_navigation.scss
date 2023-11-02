@@ -24,6 +24,9 @@
     .navbar-nav {
       padding-top: 35px;
       padding-right: 20px;
+      @include mobile {
+        padding-top: 0px;
+      }
 
       a {
         color: #7b7b7b;
@@ -32,6 +35,9 @@
         font : {
           weight: 500;
           size: 14px;
+        }
+        @include mobile {
+          font-size: 16px;
         }
 
         // text-transform:uppercase;
@@ -65,7 +71,7 @@
     .dropdown-menu {
       border-radius: 0;
       border: none;
-      // left: -5px;
+      left: -5px;
       box-shadow: 0px 0 25px 0 rgba(0, 0, 0, 0.08);
 
       a {
@@ -143,7 +149,7 @@
   
   .navbar-nav > li {
     float: none;
-    margin-top: 15px;
+    margin-top: 20px;
   }
 
   .navbar-nav > li > a {

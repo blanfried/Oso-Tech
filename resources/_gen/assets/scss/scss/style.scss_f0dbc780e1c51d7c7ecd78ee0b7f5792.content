@@ -758,7 +758,7 @@ header .navbar-default .navbar-nav li a:hover {
       @media (max-width: 400px) {
         .slider .block h1 {
           font-weight: 400;
-          font-size: 40px; } }
+          font-size: 38px; } }
     .slider .block p {
       margin-bottom: 45px;
       color: #b5b5b5;

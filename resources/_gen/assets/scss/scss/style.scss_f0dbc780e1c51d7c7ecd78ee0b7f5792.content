@@ -214,7 +214,12 @@ input[type="tel"] {
   margin-top: 30px; }
 
 .mt-40 {
-  margin-top: 40px; }
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding-top: 10px;
+  padding-bottom: 0px;
+  font-size: 40px;
+  text-align: center; }
 
 .mt-50 {
   margin-top: 50px; }
@@ -262,7 +267,7 @@ input[type="tel"] {
   background: #202122; }
 
 .section {
-  padding: 100px 0; }
+  padding: 50px 0; }
   @media (max-width: 768px) {
     .section {
       padding-top: 20px;
@@ -271,12 +276,12 @@ input[type="tel"] {
   padding: 70px 0; }
 
 .title {
-  padding: 20px 0 30px; }
+  padding: 0px 0 0px; }
   .title h2 {
     font-size: 18px;
     text-align: center;
-    text-transform: uppercase;
-    letter-spacing: 2px; }
+    letter-spacing: 2px;
+    margin-bottom: 30px; }
 
 .section-title {
   margin-bottom: 70px; }
@@ -1497,8 +1502,11 @@ header .navbar-default .navbar-nav li a:hover {
   width: auto !important;
   padding: 20px; }
 
+.about .section {
+  padding-top: 80px; }
+
 .about .block h2 {
-  padding-top: 30px;
+  padding-top: 10px;
   padding-bottom: 30px;
   margin: 0; }
 

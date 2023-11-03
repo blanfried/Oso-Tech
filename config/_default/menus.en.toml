@@ -12,20 +12,31 @@ url = "about/"
 weight = 2
 
 [[main]]
+name = "Services"
+url = "services/"
+weight = 3
+
+[[main]]
+name = "Plans"
+url = "plans/"
+weight = 4
+
+[[main]]
 name = "Contact"
 url = "contact/"
 weight = 5
 
 [[main]]
-weight = 7
-name = "More"
-hasChildren = true
+name = "Account"
+url = "https://pay.osows.com/p/login/28odTm8gZgVm73G7ss"
+weight = 6
 
-  [[main]]
-  parent = "More"
-  name = "Services"
-  url = "services/"
-  weight = 1
+
+
+# [[main]]
+# weight = 7
+# name = "More"
+# hasChildren = true
 
   # [[main]]
   # parent = "More"
@@ -39,21 +50,19 @@ hasChildren = true
   # url = "blog/"
   # weight = 3
 
-  [[main]]
-  parent = "More"
-  name = "FAQ"
-  url = "faq/"
-  weight = 4
+  # [[main]]
+  # parent = "More"
+  # name = "FAQ"
+  # url = "faq/"
+  # weight = 4
 
-[[main]]
-name = "Plans"
-url = "plans/"
-weight = 6
 
-[[main]]
-name = "Account"
-url = "https://pay.osows.com/p/login/28odTm8gZgVm73G7ss"
-weight = 8
+
+
+
+
+
+
 
 
 # footer menu

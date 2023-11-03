@@ -1,5 +1,5 @@
 ---
-title: "About Osows"
+title: "About Us"
 description: ""
 bg_image: "images/slider-bg.svg"
 layout: "about"
@@ -10,13 +10,36 @@ draft: false
 about:
   enable : true
   image : "images/company/about.jpg"
-  title : "We strive to be the best and <br> make awesome work."
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam iure officiis facere vitae itaque.
+  title : ""
+  content : "
+<br/>We strive for **Accessibility** on two fronts:
+<br/>
+<br/>    - Access to a professional website for small business owners at a price they can afford.
+<br/>
+<br/>    - Access to all disabled individuals so they, just like anyone else, can enjoy the services our clients have to offer.
+
+<br/>
+<br/>
+
+<br/>Our goal is to give small business owners the **Opportunity** to have easier, safer, and better lives:
+<br/>
+<br/>    - Easier: We take care of all their website needs for them.
+<br/>
+<br/>    - Safer: We take every measure to minimize litigation on all fronts.
+<br/>
+<br/>    - Better: We optimize our sites to ensure their revenue will explode.
+
+<br/>
+<br/>
+
+<br/>We strive for **Accessibility** on two fronts:
+<br/>
+<br/>    - Access to a professional website for small business owners at a price they can afford.
+<br/>
+<br/>    - Access to all disabled individuals so they, just like anyone else, can enjoy the services our clients have to offer.
 
 
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam qui vel cupiditate exercitationem, ea fuga est
-  velit nulla culpa modi quis iste tempora non, suscipit repellendus labore voluptatem dicta amet? Lorem ipsum
-  dolor sit amet, consectetur adipisicing elit. Provident, neque!"
+"
 
   # button:
   #   enable : true
@@ -57,7 +80,7 @@ about:
 ################################ feature #####################################
 features:
   enable : true
-  title : "Our Core Values"
+  title : "At Osows We Value:"
   feature_item:
   # feature item loop
   - icon : "fas fa-universal-access" #https://fontawesome.com/v5.15/icons

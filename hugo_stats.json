@@ -3,6 +3,8 @@
     "tags": [
       "a",
       "aside",
+      "b",
+      "base",
       "blockquote",
       "body",
       "br",
@@ -46,7 +48,6 @@
     "classes": [
       "about",
       "about-feature",
-      "about-img",
       "active",
       "address-block",
       "animated",

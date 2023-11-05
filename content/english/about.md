@@ -1,5 +1,5 @@
 ---
-title: "We Value"
+title: "About Us"
 description: ""
 bg_image: "images/slider-bg.svg"
 layout: "about"

@@ -53,7 +53,7 @@ pricing:
     -  Web Hosting
     -  Domain
     -  High Performance (95+)
-    -  Marketing Functionality* (Google Ads, analytics, tag, etc.)
+    -  Marketing Functionality (Google Ads, analytics, tag, etc.)
     -  6-7 pages (tbd after consultation)
     - +
     - "**Once the Website is Finished:**"
@@ -78,7 +78,7 @@ pricing:
     -  Web Hosting
     -  Domain
     -  High Performance (95+)
-    -  Marketing Functionality* (Google Ads, analytics, tag, etc.)
+    -  Marketing Functionality (Google Ads, analytics, tag, etc.)
     -  12-15 pages (tbd after consultation)
     -  Full Compliance (Terms of Service, Privacy Policy, Cookie Page, ADA, WCAG, EEA, etc.)
     - +

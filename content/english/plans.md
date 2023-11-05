@@ -13,7 +13,7 @@ pricing:
   - name : "Basic Programmer Package"
     price: "$83 - $99"
     content : "Perfect for small businesses with existing Shopify, Wix, and Wordpress type websites with no e-commerce."
-    link : "https://pay.osows.com/b/28og0Rc857h055C4gk"
+    link : "https://billing.osows.com/b/28og0Rc857h055C4gk"
     services:
     - 3 Website Customizations Per Month
     - SEO Upgrades and Monitoring

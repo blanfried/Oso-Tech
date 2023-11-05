@@ -267,7 +267,8 @@ input[type="tel"] {
   background: #202122; }
 
 .section {
-  padding: 50px 0; }
+  padding: 50px 0;
+  margin-top: 10px; }
   @media (max-width: 768px) {
     .section {
       padding-top: 20px;

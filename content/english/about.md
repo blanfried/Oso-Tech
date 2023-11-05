@@ -1,5 +1,5 @@
 ---
-title: "About Us"
+title: "We Value"
 description: ""
 bg_image: "images/slider-bg.svg"
 layout: "about"
@@ -10,7 +10,7 @@ draft: false
 about:
   enable : true
   image : "images/company/about.jpg"
-  title : ""
+  title : "How We Achieve These"
   content : "
 <br/>We strive for **Accessibility** on two fronts:
 <br/>
@@ -80,7 +80,7 @@ about:
 ################################ feature #####################################
 features:
   enable : true
-  title : "At Osows We Value:"
+  title : ""
   feature_item:
   # feature item loop
   - icon : "fas fa-universal-access" #https://fontawesome.com/v5.15/icons
@@ -107,37 +107,34 @@ mission_vision:
   enable : true
   tabs:
   # tab item loop
-  - name : "Vision"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
-    harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
-    quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
-    voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
-    iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
-    suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
-    illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-    temporibus eos sequi alias hic nemo."
+  - name : "Accessibility"
+    content : "<br/>We strive for **Accessibility** on two fronts:
+<br/>
+<br/>    - Access to a professional website for small business owners at a price they can afford.
+<br/>
+<br/>    - Access to all disabled individuals so they, just like anyone else, can enjoy the services our clients have to offer.
+"
 
   # tab item loop
-  - name : "Mission"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
-    harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
-    quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
-    voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
-    iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
-    suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
-    illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-    temporibus eos sequi alias hic nemo."
+  - name : "Opportunity"
+    content : "<br/>Our goal is to give small business owners the **Opportunity** to have easier, safer, and better lives:
+<br/>
+<br/>    - **Easier:** We take care of all their website needs for them.
+<br/>
+<br/>    - **Safer:** We take every measure to minimize litigation on all fronts.
+<br/>
+<br/>    - **Better:** We optimize our sites to ensure their revenue will explode.
+"
 
   # tab item loop
-  - name : "Approach"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
-    harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
-    quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
-    voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
-    iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
-    suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
-    illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-    temporibus eos sequi alias hic nemo."
+  - name : "Simplicity"
+    content : "<br/>How do we achieve **Simplicity**?
+<br/>
+<br/>    - **Static Sites:** Using coding languages like Hugo and third-party integrations like Stripe we create static sites with dynamic capability. This allows our sites to consistently outperform Wordpress, Shopify, Wix, and other CMS platforms.
+<br/>
+<br/>    - **Clean Designs:** A clean design shows the user what you do and why they should choose you without them having to weed through so much fluff.
+<br/>
+<br/>    - **Intuitive Interactions:** Call us! Email us! We are human and we answer or respond with lightning speed, transparency, and fun throughout the whole process. "
 
 
 ############################# call to action #################################

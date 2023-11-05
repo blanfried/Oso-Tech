@@ -30,7 +30,7 @@
 <section class="about section">
   <div class="container">
     <div class="row">
-      <div class="col-md-7 col-sm-12">
+      <div class="col-md-12 col-sm-12">
         <div class="block">
           <div class="section-title">
             {{ with .title }}<h2>{{ . | markdownify }}</h2>{{ end }}
@@ -39,11 +39,11 @@
           {{ with .content }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
         </div>
       </div>
-      <div class="col-md-5 col-sm-12">
+      <!-- <div class="col-md-5 col-sm-12">
         <div class="block">
           <img src="{{ .image | relURL }}" class="img-responsive" alt="Img">
         </div>
-      </div>
+      </div> -->
     </div>
   </div>
 </section>

@@ -3,6 +3,7 @@
     "tags": [
       "a",
       "aside",
+      "base",
       "blockquote",
       "body",
       "br",
@@ -46,6 +47,7 @@
     "classes": [
       "about",
       "about-feature",
+      "about-img",
       "active",
       "address-block",
       "animated",
@@ -168,6 +170,7 @@
       "middle-bar",
       "mobile",
       "mt-30",
+      "mt-40",
       "mt-50",
       "nav",
       "nav-item",
@@ -255,6 +258,7 @@
       "4-how-we-disclose-data",
       "5-security",
       "6-advertising",
+      "accessibility",
       "approach",
       "behance-website-redesign",
       "desktopButton",
@@ -265,6 +269,8 @@
       "myIframe",
       "name",
       "navigation",
+      "opportunity",
+      "simplicity",
       "subject",
       "vision",
       "welcome-to-airspace"

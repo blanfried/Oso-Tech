@@ -139,6 +139,8 @@
   </url><url>
     <loc>https://www.osows.com/message_sent/</loc>
   </url><url>
+    <loc>https://www.osows.com/about/</loc>
+  </url><url>
     <loc>https://www.osows.com/templates/academia/</loc>
   </url><url>
     <loc>https://www.osows.com/author/</loc>
@@ -164,7 +166,5 @@
     <loc>https://www.osows.com/templates/rio-furniture-5/</loc>
   </url><url>
     <loc>https://www.osows.com/templates/rio-furniture-6/</loc>
-  </url><url>
-    <loc>https://www.osows.com/about/</loc>
   </url>
 </urlset>

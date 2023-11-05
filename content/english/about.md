@@ -10,35 +10,9 @@ draft: false
 about:
   enable : true
   image : "images/company/about.jpg"
-  title : "How We Achieve These"
+  title : "Devoted to Small Businesses"
   content : "
-<br/>We strive for **Accessibility** on two fronts:
-<br/>
-<br/>    - Access to a professional website for small business owners at a price they can afford.
-<br/>
-<br/>    - Access to all disabled individuals so they, just like anyone else, can enjoy the services our clients have to offer.
-
-<br/>
-<br/>
-
-<br/>Our goal is to give small business owners the **Opportunity** to have easier, safer, and better lives:
-<br/>
-<br/>    - Easier: We take care of all their website needs for them.
-<br/>
-<br/>    - Safer: We take every measure to minimize litigation on all fronts.
-<br/>
-<br/>    - Better: We optimize our sites to ensure their revenue will explode.
-
-<br/>
-<br/>
-
-<br/>We strive for **Accessibility** on two fronts:
-<br/>
-<br/>    - Access to a professional website for small business owners at a price they can afford.
-<br/>
-<br/>    - Access to all disabled individuals so they, just like anyone else, can enjoy the services our clients have to offer.
-
-
+<br/>Being one ourselves, we understand the stress and tribulations a small business has to go through. We are just lucky that we know how to code and all the legal matters that go into a website. Most small businesses are not so lucky and have hardly any time to put into this area.
 "
 
   # button:

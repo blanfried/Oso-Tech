@@ -15,8 +15,10 @@ banner:
 about:
   enable: true
   title: "A Personal Programmer For Your Small Business"
-  description: "Small-businesses need websites in order to survive and thrive. Website can be horribly expensive and time consuming. We make this process easier by providing professionally coded websites from as low as $250/month. This price includes your own personal web developer for the duration of your subscription, allowing you to constantly customize until you get exactly what you want."
-  content: "<br/> If you choose from one of our 56+ optimized templates, we guarantee you a fully functional and customized website in 4 days, or it's free. All you must do is contact us with your chosen design. <br/> <br/> We will respond within one business day detailing the information needed from you to get going. Once we have this information, we are off and your site will be live within four days. <br/> <br/> Once your site is completed and live you will still have your own personal web dev to interact with over the next two months free of additional charge. Therefore, you can rest knowing that you can continue changing and customizing your site even once it is finished."
+  description: "Small-businesses need websites in order to survive and thrive. Website can be horribly expensive and time consuming.<br/> 
+  <br/> We make this process easier by providing professionally coded websites from as low as $250/month.<br/>
+  <br/>This price includes your own personal web developer for the duration of your subscription, allowing you to constantly customize until you get exactly what you want."
+  content: ""
   image: "images/wrapper-img.svg"
 
 ######################### Portfolio ###############################
@@ -26,9 +28,10 @@ portfolio:
   title: "Start With An Additional 1.5 Billion Potential Clients"
   content: " With us, you get ahead of 97% of your competition by being accessible to 1.5 Billion more people around the globe. How is this so? <br/> <br/>
 
-  In our [Compliance Package](pricing/) is a website litigation package along with WCAG, ADA, and other accessibility legislation compliance. Your website will be built in accordance with the most up to date legislation and will tracked and updated daily if anything changes. <br/> <br/>
+  Our [Premium Packages](pricing/) include Terms of Service, Privacy Policy, and Cookie Policy Creation along with WCAG, ADA, EEA, and other accessibility legislation compliance.<br/>
+  <br/> Your website will be built in accordance with the most up to date legislation and will tracked and updated daily if anything changes. <br/>
   
-  Compliance not only protects you from litigation but also makes your business accessible to all individuals with disabilities (1.5 billion people globally). It is the best for your business and the right thing to do.
+  <br/> Compliance not only protects you from litigation but also makes your business accessible to all individuals with disabilities (1.5 billion people globally). It is the best for your business and the right thing to do.
   "
   button:
     enable: true

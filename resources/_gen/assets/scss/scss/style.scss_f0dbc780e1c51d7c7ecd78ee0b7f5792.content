@@ -290,7 +290,6 @@ input[type="tel"] {
     .section-title {
       margin-bottom: 20px; } }
   .section-title h2 {
-    text-transform: uppercase;
     font-weight: 600;
     margin: 0px;
     padding: 30px 0px; }
@@ -457,7 +456,6 @@ input[type="tel"] {
     .commonAccordion .panel .panel-title a, .commonAccordion-2 .panel .panel-title a {
       display: block;
       font-size: 14px;
-      text-transform: uppercase;
       padding: 10px 10px; }
     .commonAccordion .panel .panel-title a:before, .commonAccordion-2 .panel .panel-title a:before {
       color: #555555;
@@ -817,8 +815,7 @@ header .navbar-default .navbar-nav li a:hover {
       padding-top: 15px;
       margin: 0;
       margin-top: 10px;
-      font-weight: 500;
-      text-transform: uppercase; }
+      font-weight: 500; }
     .service .service-item p {
       padding-top: 10px;
       margin: 0; }
@@ -838,8 +835,7 @@ header .navbar-default .navbar-nav li a:hover {
     padding-top: 15px;
     margin: 0;
     margin-top: 10px;
-    font-weight: 500;
-    text-transform: uppercase; }
+    font-weight: 500; }
   .dark-service .service-item p {
     padding-top: 10px;
     margin: 0; }
@@ -1121,7 +1117,6 @@ header .navbar-default .navbar-nav li a:hover {
   box-shadow: 0 8px 15px 0 rgba(5, 57, 106, 0.06);
   margin-bottom: 30px; }
   .pricing-table .pricing-item a.btn-main, .pricing-table .pricing-item a.btn-transparent, .pricing-table .pricing-item a.btn-small {
-    text-transform: uppercase;
     margin-top: 20px; }
   .pricing-table .pricing-item li {
     font-weight: 400;
@@ -1136,8 +1131,7 @@ header .navbar-default .navbar-nav li a:hover {
   .pricing-table .price-title > h3 {
     font-weight: 700;
     margin: 0 0 5px;
-    font-size: 15px;
-    text-transform: uppercase; }
+    font-size: 15px; }
   .pricing-table .price-title > p {
     font-size: 14px;
     font-weight: 400;
@@ -1415,7 +1409,6 @@ header .navbar-default .navbar-nav li a:hover {
     display: inline-block;
     width: 130px;
     letter-spacing: 2px;
-    text-transform: uppercase;
     color: #000000;
     font-size: 12px;
     border: 1px solid #e1e1e1;
@@ -1617,7 +1610,6 @@ header .navbar-default .navbar-nav li a:hover {
   border-bottom: 1px solid #ACB9C4;
   padding-bottom: 20px;
   letter-spacing: 2px;
-  text-transform: uppercase;
   font-size: 16px;
   margin-bottom: 20px; }
 
@@ -1636,8 +1628,7 @@ header .navbar-default .navbar-nav li a:hover {
     font-weight: 500; }
     .post-comments .comment-author a {
       color: #0062ccc9;
-      font-size: 14px;
-      text-transform: uppercase; }
+      font-size: 14px; }
   .post-comments time {
     margin: 0 0 5px;
     display: inline-block;
@@ -1676,8 +1667,7 @@ header .navbar-default .navbar-nav li a:hover {
   font-size: 15px;
   padding-bottom: 10px;
   border-bottom: 1px solid #ACB9C4;
-  margin-bottom: 25px;
-  text-transform: uppercase; }
+  margin-bottom: 25px; }
 
 .next-prev {
   border-bottom: 1px solid #ACB9C4;
@@ -1887,8 +1877,7 @@ header .navbar-default .navbar-nav li a:hover {
   .post .post-media.post-media-audio iframe {
     width: 100%; }
   .post .post-title {
-    margin-top: 25px;
-    text-transform: uppercase; }
+    margin-top: 25px; }
     .post .post-title a {
       color: #0062ccc9; }
       .post .post-title a:hover {
@@ -1981,7 +1970,6 @@ header .navbar-default .navbar-nav li a:hover {
     line-height: 65px;
     font-size: 55px;
     font-weight: 600;
-    text-transform: uppercase;
     margin-bottom: 0; }
     @media (max-width: 400px) {
       .coming-soon .block h1 {
@@ -2055,7 +2043,6 @@ header .navbar-default .navbar-nav li a:hover {
   border-bottom: 1px solid #ACB9C4;
   padding-bottom: 15px;
   margin-bottom: 15px;
-  text-transform: uppercase;
   letter-spacing: 1px;
   font-size: 16px; }
 
@@ -2075,7 +2062,6 @@ header .navbar-default .navbar-nav li a:hover {
     color: #888;
     font-size: 10px;
     font-weight: 400;
-    text-transform: uppercase;
     opacity: 1 !important;
     width: 85px; }
   .checkout-form .form-group input {
@@ -2098,8 +2084,7 @@ header .navbar-default .navbar-nav li a:hover {
 
 .shopping.cart .product-list .table .cart-amount th {
   background: #f5f5f5;
-  padding: 10px;
-  text-transform: uppercase; }
+  padding: 10px; }
 
 .shopping.cart .product-list .table > tbody > tr > td {
   vertical-align: middle; }
@@ -2116,8 +2101,7 @@ header .navbar-default .navbar-nav li a:hover {
   margin-top: 30px; }
   .shopping.cart .account-details legend {
     font-weight: 600;
-    font-size: 16px;
-    text-transform: uppercase; }
+    font-size: 16px; }
   .shopping.cart .account-details .btn-pay {
     margin: 20px 0; }
 
@@ -2217,7 +2201,6 @@ header .navbar-default .navbar-nav li a:hover {
       .page-404 h1 {
         font-size: 90px; } }
   .page-404 h2 {
-    text-transform: uppercase;
     font-size: 20px;
     letter-spacing: 4px;
     font-weight: bold;
@@ -2244,7 +2227,6 @@ header .navbar-default .navbar-nav li a:hover {
       .page-message-sent h1 {
         font-size: 30px; } }
   .page-message-sent h2 {
-    text-transform: uppercase;
     font-size: 20px;
     font-weight: bold;
     letter-spacing: 1px;

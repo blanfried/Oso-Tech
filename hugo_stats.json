@@ -3,7 +3,6 @@
     "tags": [
       "a",
       "aside",
-      "base",
       "blockquote",
       "body",
       "br",
@@ -82,7 +81,6 @@
       "col-md-4",
       "col-md-5",
       "col-md-6",
-      "col-md-7",
       "col-md-8",
       "col-md-offset-1",
       "col-md-offset-2",
@@ -238,7 +236,6 @@
       "text-muted",
       "text-primary",
       "tf-ion-android-arrow-back",
-      "title",
       "top-bar",
       "user",
       "value",
@@ -259,12 +256,10 @@
       "5-security",
       "6-advertising",
       "accessibility",
-      "approach",
       "behance-website-redesign",
       "desktopButton",
       "email",
       "message",
-      "mission",
       "mobileButton",
       "myIframe",
       "name",
@@ -272,7 +267,6 @@
       "opportunity",
       "simplicity",
       "subject",
-      "vision",
       "welcome-to-airspace"
     ]
   }

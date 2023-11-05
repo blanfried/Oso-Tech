@@ -87,22 +87,22 @@ funfacts:
 
   testimonial_slider:
   # testimonial item loop
-  - name: "Raymond Roy"
+  - name: "Baer Lanfried"
     image: "images/clients/avater-1.jpg"
     designation: "CEO"
-    content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
+    content: "We use the most current tech, are always available over phone or email, and create simple yet elegant websites according to your needs."
 
   # testimonial item loop
-  - name: "Randi Renin"
-    image: "images/clients/avater-1.jpg"
-    designation: "CFO"
-    content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
+  # - name: "Randi Renin"
+  #   image: "images/clients/avater-1.jpg"
+  #   designation: "CFO"
+  #   content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
 
   # testimonial item loop
-  - name: "Rose Rio"
-    image: "images/clients/avater-3.jpg"
-    designation: "CTO"
-    content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
+  # - name: "Rose Rio"
+  #   image: "images/clients/avater-3.jpg"
+  #   designation: ""
+  #   content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
 
 
 ---

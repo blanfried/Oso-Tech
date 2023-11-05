@@ -15,7 +15,7 @@ banner:
 about:
   enable: true
   title: "A Personal Programmer For Your Small Business"
-  description: "Small-businesses need websites in order to survive and thrive. Website can be horribly expensive and time consuming.<br/> 
+  description: "Professional websites are expensive and time consuming yet small-businesses need them in order to survive and thrive.<br/> 
   <br/> We make this process easier by providing professionally coded websites from as low as $250/month.<br/>
   <br/>This price includes your own personal web developer for the duration of your subscription, allowing you to constantly customize until you get exactly what you want."
   content: ""

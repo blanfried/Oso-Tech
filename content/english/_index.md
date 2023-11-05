@@ -15,7 +15,7 @@ banner:
 about:
   enable: true
   title: "A Personal Programmer For Your Small Business"
-  description: "Small-businesses need websites in order to survive. Oftentimes paying for and customizing a website can be horribly expensive and time consuming. We make this process easier by providing high-quality websites at an unbeatable price of $399 in four days maximum. <br/> <br/> Not only will you have a website in four days but you will have your own personal web developer for the following two months upon completion."
+  description: "Small-businesses need websites in order to survive. Oftentimes paying for and customizing a website can be horribly expensive and time consuming. We make this process easier by providing coded websites from as low as $250/month. <br/> <br/> Not only will you have a website in four days but you will have your own personal web developer for the following two months upon completion."
   content: "<br/> If you choose from one of our 56+ optimized templates, we guarantee you a fully functional and customized website in 4 days, or it's free. All you must do is contact us with your chosen design. <br/> <br/> We will respond within one business day detailing the information needed from you to get going. Once we have this information, we are off and your site will be live within four days. <br/> <br/> Once your site is completed and live you will still have your own personal web dev to interact with over the next two months free of additional charge. Therefore, you can rest knowing that you can continue changing and customizing your site even once it is finished."
   image: "images/wrapper-img.svg"
 

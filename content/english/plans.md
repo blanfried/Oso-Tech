@@ -48,11 +48,13 @@ pricing:
     link : "https://buy.stripe.com/4gwbKB9ZX6cWdC8cMS"
     services:
     - "**The Website:**"
-    - 3 Website Customizations Per Month
-    - SEO Upgrades and Monitoring
-    - Google Tag & Analytics Optimization and Monitoring
-    - 2 Blog Posts Per Month or 2 Additional Customizations
-    - Unlimited Troubleshooting and Error Correcting
+    -  Design
+    -  Copywriting
+    -  Web Hosting
+    -  Domain
+    -  High Performance (95+)
+    -  Marketing Functionality* (Google Ads, analytics, tag, etc.)
+    -  6-7 pages (tbd after consultation)
     - +
     - "**Once the Website is Finished:**"
     - 3 Website Customizations Per Month
@@ -71,11 +73,14 @@ pricing:
     link : "https://buy.stripe.com/3cs6qhb41bxgfKg3cj"
     services:
     - "**The Website:**"
-    - 3 Website Customizations Per Month
-    - SEO Upgrades and Monitoring
-    - Google Tag & Analytics Optimization and Monitoring
-    - 2 Blog Posts Per Month or 2 Additional Customizations
-    - Unlimited Troubleshooting and Error Correcting
+    -  Design
+    -  Copywriting
+    -  Web Hosting
+    -  Domain
+    -  High Performance (95+)
+    -  Marketing Functionality* (Google Ads, analytics, tag, etc.)
+    -  12-15 pages (tbd after consultation)
+    -  Full Compliance (Terms of Service, Privacy Policy, Cookie Page, ADA, WCAG, EEA, etc.)
     - +
     - "**Once the Website is Finished:**"
     - Unlimited Website Customizations Per Month

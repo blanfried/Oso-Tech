@@ -19,41 +19,41 @@ about:
 <br/>If you choose Osows, your revenue will increase, you will never need to worry about your website again, and you will have consistent IT support.
 "
 
-  # button:
-  #   enable : true
-  #   label : "Download Company Profile"
-  #   link : "#"
+  button:
+    enable : false
+    label : "Download Company Profile"
+    link : "#"
 
-  funfacts:
-  # funfacts loop
-  - icon : "fas fa-flask" #https://fontawesome.com/v5.15/icons
-    name : "Completed Projects"
-    count : "349"
+  # funfacts:
+  # # funfacts loop
+  # - icon : "fas fa-flask" #https://fontawesome.com/v5.15/icons
+  #   name : "Completed Projects"
+  #   count : "349"
 
-  # funfacts loop
-  - icon : "fas fa-fire-alt" #https://fontawesome.com/v5.15/icons
-    name : "Lines Of Code"
-    count : "35000"
+  # # funfacts loop
+  # - icon : "fas fa-fire-alt" #https://fontawesome.com/v5.15/icons
+  #   name : "Lines Of Code"
+  #   count : "35000"
 
-  # funfacts loop
-  - icon : "fas fa-glasses" #https://fontawesome.com/v5.15/icons
-    name : "Satisfied Customer"
-    count : "70"
+  # # funfacts loop
+  # - icon : "fas fa-fire-alt" #https://fontawesome.com/v5.15/icons
+  #   name : "Lines Of Code"
+  #   count : "35000"
 
-  # funfacts loop
-  - icon : "fas fa-trophy" #https://fontawesome.com/v5.15/icons
-    name : "Awards Winner"
-    count : "10"
+  # # funfacts loop
+  # - icon : "fas fa-fire-alt" #https://fontawesome.com/v5.15/icons
+  #   name : "Lines Of Code"
+  #   count : "35000"
 
-  # funfacts loop
-  - icon : "fas fa-glass-cheers" #https://fontawesome.com/v5.15/icons
-    name : "Satisfied Customer"
-    count : "75"
+  # # funfacts loop
+  # - icon : "fas fa-fire-alt" #https://fontawesome.com/v5.15/icons
+  #   name : "Lines Of Code"
+  #   count : "35000"
 
-  # funfacts loop
-  - icon : "fas fa-certificate" #https://fontawesome.com/v5.15/icons
-    name : "Awards Winner"
-    count : "20"
+  # # funfacts loop
+  # - icon : "fas fa-glasses" #https://fontawesome.com/v5.15/icons
+  #   name : "Satisfied Customers"
+  #   count : "70"
 
 ################################ feature #####################################
 features:

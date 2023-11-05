@@ -28,15 +28,15 @@ portfolio:
   title: "Start With An Additional 1.5 Billion Potential Clients"
   content: " With us, you get ahead of 97% of your competition by being accessible to 1.5 Billion more people around the globe. How is this so? <br/> <br/>
 
-  Our [Premium Packages](pricing/) include Terms of Service, Privacy Policy, and Cookie Policy Creation along with WCAG, ADA, EEA, and other accessibility legislation compliance.<br/>
+  Our [Premium Packages](plans/) include Terms of Service, Privacy Policy, and Cookie Policy Creation along with WCAG, ADA, EEA, and other accessibility legislation compliance.<br/>
   <br/> Your website will be built in accordance with the most up to date legislation and will tracked and updated daily if anything changes. <br/>
   
   <br/> Compliance not only protects you from litigation but also makes your business accessible to all individuals with disabilities (1.5 billion people globally). It is the best for your business and the right thing to do.
   "
   button:
     enable: true
-    label: "Learn More"
-    link: "pricing/"
+    label: "See Plans"
+    link: "plans/"
 
 
 ############################# Service ############################
@@ -61,9 +61,9 @@ cta:
 
 ############################# Funfacts ###############################
 funfacts:
-  enable: true
+  enable: false
   title: "Fun Facts About Us"
-  description: "'Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics'"
+  description: "Averages and Costs in Monthly terms."
   funfact_item:
   # funfacts item loop
   - icon: "fas fa-mug-hot" #https://fontawesome.com/v5.15/icons

@@ -33,6 +33,7 @@ weight = 6
 
 [[main]]
 name = "+1 (888) 716-9467"
+url = "contact/"
 weight = 7
 
 

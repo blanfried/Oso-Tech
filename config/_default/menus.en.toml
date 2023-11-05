@@ -12,9 +12,9 @@ url = "about/"
 weight = 2
 
 [[main]]
-name = "Services"
-url = "services/"
-weight = 3
+# name = "Services"
+# url = "services/"
+# weight = 3
 
 [[main]]
 name = "Plans"

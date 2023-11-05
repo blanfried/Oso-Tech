@@ -12,7 +12,11 @@ about:
   image : "images/company/about.jpg"
   title : "Devoted to Small Businesses"
   content : "
-<br/>Being one ourselves, we understand the stress and tribulations a small business has to go through. We are just lucky that we know how to code and all the legal matters that go into a website. Most small businesses are not so lucky and have hardly any time to put into this area.
+<br/>Being one ourselves, we understand the stress and tribulations a small business has to go through. We are just lucky that we know how to code and all the legal matters that go into a website. Most small businesses are not so lucky and have hardly any time to put into this area.<br/>
+
+<br/>It is for this reason that we are devoted to small business. We know what they need to survive and thrive in a protected manner. Not only this, but we empathize with small businesses and therefore provide reasonable prices and consistent customer service.<br/>
+
+<br/>If you choose Osows, your revenue will increase, you will never need to worry about your website again, and you will have consistent IT support.
 "
 
   # button:

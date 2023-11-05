@@ -13,7 +13,7 @@ pricing:
   - name : "Basic Programmer Package"
     price: "$83 - $99"
     content : "Perfect for small businesses with existing Shopify, Wix, and Wordpress type websites with no e-commerce."
-    link : "https://billing.osows.com/b/28og0Rc857h055C4gk"
+    link : "https://buy.stripe.com/28og0Rc857h055C4gk"
     services:
     - 3 Website Customizations Per Month
     - SEO Upgrades and Monitoring
@@ -27,7 +27,7 @@ pricing:
   - name : "Premium Programmer Package"
     price: "$166 - $199"
     content : "Everything on Basic Programmer + Unlimited + Legal + E-commerce."
-    link : "https://pay.osows.com/b/7sI8yp7RP1WGcy4eUZ"
+    link : "https://buy.stripe.com/7sI8yp7RP1WGcy4eUZ"
     services:
     - Unlimited Website Customizations Per Month
     - SEO Upgrades and Monitoring
@@ -45,7 +45,7 @@ pricing:
   - name : "Basic Website + Programmer Package"
     price: "$208 - $249"
     content : "A Basic Website + Basic Programmer"
-    link : "https://pay.osows.com/b/4gwbKB9ZX6cWdC8cMS"
+    link : "https://buy.stripe.com/4gwbKB9ZX6cWdC8cMS"
     services:
     - "**The Website:**"
     - 3 Website Customizations Per Month
@@ -68,7 +68,7 @@ pricing:
   - name : "Premium Website + Programmer Package"
     price: "$291 - $349"
     content : "A Premium Website + Premium Programmer"
-    link : "https://pay.osows.com/b/3cs6qhb41bxgfKg3cj"
+    link : "https://buy.stripe.com/3cs6qhb41bxgfKg3cj"
     services:
     - "**The Website:**"
     - 3 Website Customizations Per Month

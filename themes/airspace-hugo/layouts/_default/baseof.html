@@ -21,16 +21,27 @@ AUTHOR WEBSITE: https://gethugothemes.com
 	{{ end }}
 
 	<!-- termly consent banner -->
-	<script
-  type="text/javascript"
-  src="https://app.termly.io/embed.min.js"
-  data-auto-block="off"
-  data-website-uuid="b254a8bc-f399-4967-9554-b8202ece01e6"
-></script>
-<!-- consent preferences link -->
-<!-- <a href="#"
-      onclick="window.displayPreferenceModal();return false;"
-      id="termly-consent-preferences">Consent Preferences</a> -->
+	<script>
+	// Define a function to load the script
+	function loadTermlyScript() {
+	//   Create a new script element
+	  var script = document.createElement('script');
+	  script.type = 'text/javascript';
+	  script.src = 'https://app.termly.io/embed.min.js';
+	  script.setAttribute('data-auto-block', 'off');
+	  script.setAttribute('data-website-uuid', 'b254a8bc-f399-4967-9554-b8202ece01e6');
+	
+	  // Append the script to the document's body
+	  document.body.appendChild(script);
+	}
+	
+	// Add an event listener to wait for the page to finish loading
+	window.addEventListener('load', function () {
+	  // Call the function to load the script
+	  loadTermlyScript();
+	});
+	</script>
+
 </head>
 
 <body>

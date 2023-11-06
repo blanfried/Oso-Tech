@@ -3,6 +3,7 @@
     "tags": [
       "a",
       "aside",
+      "base",
       "blockquote",
       "body",
       "br",
@@ -216,6 +217,7 @@
       "testimonial-carousel",
       "testimonial-slider",
       "text-center",
+      "text-danger",
       "text-muted",
       "text-primary",
       "tf-ion-android-arrow-back",

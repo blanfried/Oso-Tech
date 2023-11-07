@@ -3,6 +3,7 @@
     "tags": [
       "a",
       "aside",
+      "base",
       "blockquote",
       "body",
       "br",
@@ -36,12 +37,14 @@
       "pre",
       "script",
       "section",
+      "source",
       "span",
       "strong",
       "style",
       "textarea",
       "title",
-      "ul"
+      "ul",
+      "video"
     ],
     "classes": [
       "about",

@@ -98,8 +98,8 @@ map_marker = "images/marker.png"
 [cookies]
 enable = true
 expire_days = 2
-content = "We use cookies for security, marketing, and functionality. By clicking “Accept,” you agree to the use of these cookies."
-button = "Accept"
+content = "We use cookies for security, marketing, and functionality. By continuing on this site, you agree to the use of these cookies. If you would like to know more, see our [Privacy Policy](privacy/)."
+button = "Got it"
 
 ######################## sidebar widgets #########################
 [widgets]

@@ -740,7 +740,7 @@ header .navbar-default .navbar-nav li a:hover {
   @media (max-width: 480px) {
     .slider {
       background-attachment: unset;
-      padding: 185px 0 185px; } }
+      padding: 190px 0 190px; } }
   .slider .block {
     color: #dadada;
     text-align: center; }

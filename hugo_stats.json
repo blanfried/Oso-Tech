@@ -3,6 +3,7 @@
     "tags": [
       "a",
       "aside",
+      "base",
       "blockquote",
       "body",
       "br",
@@ -36,14 +37,12 @@
       "pre",
       "script",
       "section",
-      "source",
       "span",
       "strong",
       "style",
       "textarea",
       "title",
-      "ul",
-      "video"
+      "ul"
     ],
     "classes": [
       "about",
@@ -188,7 +187,6 @@
       "post-single",
       "post-thumb",
       "post-title",
-      "preloader",
       "price-title",
       "pricing-item",
       "pricing-table",

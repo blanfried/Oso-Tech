@@ -1,53 +1,38 @@
 {{ if site.Params.preloader.enable }}
 <div class="preloader">
 
-  <!-- get preloader path -->
-  {{ $preloaderPath := site.Params.preloader.preloader }}
+  <!-- get image path -->
+  {{ $preloaderPath:= site.Params.preloader.preloader }}
   {{ if $preloaderPath }}
 
-  <!-- check preloader existence -->
+  <!-- check image existence -->
   {{ if fileExists (add `assets/` $preloaderPath) }}
-  {{ $preloader := resources.Get $preloaderPath }}
+  {{ $preloader:= resources.Get $preloaderPath }}
 
-  <!-- preloader extension -->
-  {{ $preloader_ext := path.Ext $preloaderPath }}
+  <!-- image extension -->
+  {{ $preloader_ext := path.Ext $preloader }}
+  <!-- image width -->
+  {{ $preloader_width := $preloader.Width }}
 
-  <!-- handle video files -->
-  {{ if eq $preloader_ext ".mp4" }}
-  <video autoplay loop muted playsinline>
-    <source src="{{ $preloader.RelPermalink }}" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <!-- not gif -->
+  {{ if ne $preloader_ext ".gif" }}
+  <!-- webp image -->
+  {{ $option_webp := add (add (string $preloader_width) "x") " webp" }}
+  {{ .Scratch.Set "preloader" ($preloader.Resize $option_webp).RelPermalink }}
+  <!-- fallback image -->
+  {{ $option := add (string $preloader_width) "x" }}
+  {{ .Scratch.Set "preloader_fallback" ($preloader.Resize $option).RelPermalink }}
+
+  <!-- gif image -->
   {{ else }}
-
-    <!-- handle image files -->
-    {{ $preloader := resources.Get $preloaderPath }}
-    <!-- image extension -->
-    {{ $preloader_ext := path.Ext $preloader }}
-    <!-- not gif -->
-    {{ if ne $preloader_ext ".gif" }}
-    <!-- webp image -->
-    {{ $option_webp := add (add (string $preloader.Width) "x") " webp" }}
-    {{ $preloader_webp := ($preloader.Resize $option_webp) }}
-    <!-- fallback image -->
-    {{ $option := add (string $preloader.Width) "x" }}
-    {{ $preloader_fallback := ($preloader.Resize $option) }}
-
-    <img class="img-fluid" loading="lazy" decoding="async" src="{{ $preloader_webp.RelPermalink }}" aria-label="preloader" title="preloader"
-      onerror="this.onerror=null;this.src='{{ $preloader_fallback.RelPermalink }}'" alt="preloader">
-    {{ else }}
-    <img class="img-fluid" loading="lazy" decoding="async" src="{{ $preloader.RelPermalink }}" aria-label="preloader" title="preloader" alt="preloader">
-    {{ end }}
-    <!-- /handle image files -->
-
+  {{ .Scratch.Set "preloader" $preloader.RelPermalink }}
   {{ end }}
-  <!-- /handle video files -->
 
+  <img class="img-fluid" loading="preload" decoding="async" src="{{.Scratch.Get `preloader`}}" aria-label="preloader" title="preloader"
+    onerror="this.onerror=null;this.src='{{.Scratch.Get `preloader_fallback`}}'" alt="preloader">
   {{ end }}
-  <!-- /check preloader existence -->
-
   {{ end }}
-  <!-- /get preloader path -->
+  <!-- /check image existence -->
 
 </div>
 {{ end }}

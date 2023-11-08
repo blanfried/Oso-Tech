@@ -4,7 +4,7 @@ favicon = "images/favicon.png"
 # logo
 logo = "images/logo.svg"
 # use `px` or `x` with logo_width, example: "100px".
-# Note: logo_width is not work with .svg file
+# Note: logo_width does not work with .svg file
 logo_width = "65px"
 # logo text will only show when logo is missing.
 logo_text = "Osows"

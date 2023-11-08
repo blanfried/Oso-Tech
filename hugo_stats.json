@@ -3,6 +3,7 @@
     "tags": [
       "a",
       "aside",
+      "base",
       "blockquote",
       "body",
       "br",
@@ -91,6 +92,7 @@
       "container-fluid",
       "copyright",
       "counter-box",
+      "cta-overly",
       "current",
       "dark-service",
       "dropdown",

@@ -5,9 +5,9 @@
   background-position: center center;
   padding: 275px 0 275px;
   position: relative;
-  @include large-desktop {
+  @include mobile{
     background-attachment: unset;
-    padding: 150px 0;
+    padding: 185px 0 185px;
   }
 
   .block {

@@ -737,10 +737,10 @@ header .navbar-default .navbar-nav li a:hover {
   background-position: center center;
   padding: 275px 0 275px;
   position: relative; }
-  @media (max-width: 1200px) {
+  @media (max-width: 480px) {
     .slider {
       background-attachment: unset;
-      padding: 150px 0; } }
+      padding: 185px 0 185px; } }
   .slider .block {
     color: #dadada;
     text-align: center; }

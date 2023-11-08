@@ -735,7 +735,7 @@ header .navbar-default .navbar-nav li a:hover {
   background-size: cover;
   background-attachment: fixed;
   background-position: center center;
-  padding: 170px 0 200px;
+  padding: 275px 0 275px;
   position: relative; }
   @media (max-width: 1200px) {
     .slider {

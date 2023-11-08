@@ -11,8 +11,8 @@
 
 <!-- logo height, width (if not svg) -->
 {{ if eq $logoExt `.svg` }}
-{{ .Scratch.Set "logo-width" "" }}
-{{ .Scratch.Set "logo-height" "" }}
+{{ .Scratch.Set "logo-width" "65px" }}
+{{ .Scratch.Set "logo-height" "58.5px" }}
 {{ else }}
 {{ .Scratch.Set "logo-width" $logo.Width }}
 {{ .Scratch.Set "logo-height" $logo.Height }}

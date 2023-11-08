@@ -112,6 +112,6 @@ url = "termsofservice/"
 weight = 9
 
 [[footer]]
-name = "Cookie Policy"
-url = "cookiepolicy/"
-weight = 10
+# name = "Cookie Policy"
+# url = "cookiepolicy/"
+# weight = 10

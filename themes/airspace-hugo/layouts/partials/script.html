@@ -21,12 +21,12 @@
 <!-- cookie -->
 {{ with site.Params.cookies }}
 {{ if .enable }}
-<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.1/js.cookie.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.1/js.cookie.min.js"></script>
 <div id="js-cookie-box" class="cookie-box cookie-box-hide">
-	{{.content | markdownify}}<span id="js-cookie-button" class="btn btn-sm btn-outline-primary ms-2">{{.button}}</span> -->
+	{{.content | markdownify}}<span id="js-cookie-button" class="btn btn-sm btn-outline-primary ms-2">{{.button}}</span>
 
 <!-- Cookie Script -->
-<!-- <script type="application/javascript">
+<script type="application/javascript">
 	(function ($) {
 		const cookieBox = document.getElementById('js-cookie-box');
 		const cookieButton = document.getElementById('js-cookie-button');
@@ -40,10 +40,10 @@
 			};
 		}
 	})(jQuery);
-</script> -->
+</script>
 
 <!-- cookie style -->
-<!-- <style>
+<style>
 .cookie-box {
   position: fixed;
   left: 0;
@@ -72,7 +72,7 @@
 .cookie-box-hide {
   display: none;
 }
-</style> -->
+</style>
 {{ end }}
 {{ end }}
 

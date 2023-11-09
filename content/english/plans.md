@@ -11,7 +11,7 @@ pricing:
   pricing_table:
   # pricing table loop
   - name : "Basic Programmer Package"
-    price: "$83 - $99"
+    price: "$99 - $119"
     content : "Perfect for small businesses with existing Shopify, Wix, and Wordpress type websites with no e-commerce."
     link : "https://buy.stripe.com/28og0Rc857h055C4gk"
     services:
@@ -25,7 +25,7 @@ pricing:
 
   # pricing table loop
   - name : "Premium Programmer Package"
-    price: "$166 - $199"
+    price: "$183 - $219"
     content : "Everything on Basic Programmer + Unlimited + Legal + E-commerce."
     link : "https://buy.stripe.com/7sI8yp7RP1WGcy4eUZ"
     services:
@@ -43,7 +43,7 @@ pricing:
 
 # pricing table loop
   - name : "Basic Website + Programmer Package"
-    price: "$208 - $249"
+    price: "$225 - $269"
     content : "A Basic Website + Basic Programmer"
     link : "https://buy.stripe.com/4gwbKB9ZX6cWdC8cMS"
     services:
@@ -68,7 +68,7 @@ pricing:
 
   # pricing table loop
   - name : "Premium Website + Programmer Package"
-    price: "$291 - $349"
+    price: "$333 - $399"
     content : "A Premium Website + Premium Programmer"
     link : "https://buy.stripe.com/3cs6qhb41bxgfKg3cj"
     services:

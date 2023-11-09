@@ -12,8 +12,8 @@ pricing:
   # pricing table loop
   - name : "Basic Programmer Package"
     price: "$99 - $119"
-    content : "Perfect for small businesses with existing Shopify, Wix, and Wordpress type websites or websites with no e-commerce."
-    link : "https://buy.stripe.com/28og0Rc857h055C4gk"
+    content : "Perfect for small businesses with no e-commerce or existing Shopify, Wix, and Wordpress type websites."
+    link : "https://buy.stripe.com/eVag0R7RPcBkbu0008"
     services:
     - Websites up to **7 pages** (blog pages vary, [Contact Us](contact/) with questions)
     - 3 Website Customizations Per Month
@@ -27,8 +27,8 @@ pricing:
   # pricing table loop
   - name : "Premium Programmer Package"
     price: "$183 - $219"
-    content : "Everything on Basic Programmer + Unlimited Support + Legal + E-commerce."
-    link : "https://buy.stripe.com/7sI8yp7RP1WGcy4eUZ"
+    content : "Perfect for small businesses with larger websites and e-commerce."
+    link : "https://buy.stripe.com/fZe15X8VTatc7dK7sB"
     services:
     - Websites up to **15 pages** (product and blog pages vary, [Contact Us](contact/) with questions)
     - 10 Website Customizations Per Month
@@ -47,7 +47,7 @@ pricing:
   - name : "Basic Website + Programmer Package"
     price: "$225 - $269"
     content : "A Basic Website + Basic Programmer Services"
-    link : "https://buy.stripe.com/4gwbKB9ZX6cWdC8cMS"
+    link : "https://buy.stripe.com/aEUcOFdc90SC55CbIS"
     services:
     - "**The Website:**"
     -  Design
@@ -72,7 +72,7 @@ pricing:
   - name : "Premium Website + Programmer Package"
     price: "$333 - $399"
     content : "A Premium Website + Premium Programmer Services"
-    link : "https://buy.stripe.com/3cs6qhb41bxgfKg3cj"
+    link : "https://buy.stripe.com/eVaaGxgolgRAcy4cMX"
     services:
     - "**The Website:**"
     -  Design

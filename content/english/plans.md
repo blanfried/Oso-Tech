@@ -12,9 +12,10 @@ pricing:
   # pricing table loop
   - name : "Basic Programmer Package"
     price: "$99 - $119"
-    content : "Perfect for small businesses with existing Shopify, Wix, and Wordpress type websites with no e-commerce."
+    content : "Perfect for small businesses with existing Shopify, Wix, and Wordpress type websites or websites with no e-commerce."
     link : "https://buy.stripe.com/28og0Rc857h055C4gk"
     services:
+    - Websites up to **7 pages** (blog pages vary, [Contact Us](contact/) with questions)
     - 3 Website Customizations Per Month
     - SEO Upgrades and Monitoring
     - Google Tag & Analytics Optimization and Monitoring
@@ -26,25 +27,26 @@ pricing:
   # pricing table loop
   - name : "Premium Programmer Package"
     price: "$183 - $219"
-    content : "Everything on Basic Programmer + Unlimited + Legal + E-commerce."
+    content : "Everything on Basic Programmer + Unlimited Support + Legal + E-commerce."
     link : "https://buy.stripe.com/7sI8yp7RP1WGcy4eUZ"
     services:
-    - Unlimited Website Customizations Per Month
+    - Websites up to **15 pages** (product and blog pages vary, [Contact Us](contact/) with questions)
+    - 10 Website Customizations Per Month
     - SEO Upgrades and Monitoring
     - Google Tag & Analytics Optimization and Monitoring
-    - Unlimited Blog or Product Posting
+    - Blog and Product Posting
     - Unlimited Troubleshooting and Error Correcting
     - Terms of Service, Privacy Policy, Cookie Policy Creation and Regulation
-    - Complete ADA & WCAG Compliance and Monitoring
+    - Complete ADA, WCAG, EEA Compliance and Monitoring
     - Website Legal Advisory
     - Toll-Free Number Creation and Setup
-    - Unlimited Logo Changes or Creations Per Month
-    - Unlimited New Website Pictures Per Month
+    - 5 Logo Changes or Creations
+    - 10 New Website Pictures Per Month
 
 # pricing table loop
   - name : "Basic Website + Programmer Package"
     price: "$225 - $269"
-    content : "A Basic Website + Basic Programmer"
+    content : "A Basic Website + Basic Programmer Services"
     link : "https://buy.stripe.com/4gwbKB9ZX6cWdC8cMS"
     services:
     - "**The Website:**"
@@ -69,7 +71,7 @@ pricing:
   # pricing table loop
   - name : "Premium Website + Programmer Package"
     price: "$333 - $399"
-    content : "A Premium Website + Premium Programmer"
+    content : "A Premium Website + Premium Programmer Services"
     link : "https://buy.stripe.com/3cs6qhb41bxgfKg3cj"
     services:
     - "**The Website:**"
@@ -83,17 +85,17 @@ pricing:
     -  Full Compliance (Terms of Service, Privacy Policy, Cookie Page, ADA, WCAG, EEA, etc.)
     - +
     - "**Once the Website is Finished:**"
-    - Unlimited Website Customizations Per Month
+    - 10 Website Customizations Per Month
     - SEO Upgrades and Monitoring
     - Google Tag & Analytics Optimization and Monitoring
-    - Unlimited Blog or Product Posting
+    - Blog and Product Posting
     - Unlimited Troubleshooting and Error Correcting
     - Terms of Service, Privacy Policy, Cookie Policy Creation and Regulation
-    - Complete ADA & WCAG Compliance and Monitoring
+    - Complete ADA, WCAG, EEA Compliance and Monitoring
     - Website Legal Advisory
     - Toll-Free Number Creation and Setup
-    - Unlimited Logo Changes or Creations Per Month
-    - Unlimited New Website Pictures Per Month
+    - 5 Logo Changes or Creations
+    - 10 New Website Pictures Per Month
     - "**After One Year, Price Can be Renegotiated**"
 
 ############################# call to action #################################

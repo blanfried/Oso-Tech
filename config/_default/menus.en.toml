@@ -29,7 +29,7 @@ weight = 5
 # Stripe Customer Portal 
 [[main]]
 name = "Account"
-url = "https://billing.osows.com/p/login/28odTm8gZgVm73G7ss"
+url = "https://billing.osows.com/p/login/28odTm8gZgVm73G7ss&"
 weight = 6
 
 [[main]]

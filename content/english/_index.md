@@ -16,7 +16,7 @@ about:
   enable: true
   title: "A Personal Programmer For Your Small Business"
   description: "Professional websites are expensive and time consuming yet small-businesses need them in order to survive and thrive.<br/> 
-  <br/> We make this process easier by providing professionally coded websites from as low as **$250/month**.<br/>
+  <br/> We make this process easier by providing professionally coded websites from as low as [**$225/month**](plans/).<br/>
   <br/>This price includes your own personal web developer for the duration of your subscription, allowing you to constantly customize until you get exactly what you want."
   content: ""
   image: "images/wrapper-img.svg"
@@ -28,7 +28,7 @@ portfolio:
   title: "Start With An Additional 1.5 Billion Potential Clients"
   content: " With us, you get ahead of 97% of your competition by being accessible to 1.5 Billion more people around the globe. How is this so? <br/> <br/>
 
-  Our [Premium Packages](plans/) include Terms of Service, Privacy Policy, and Cookie Policy Creation along with WCAG, ADA, EEA, and other accessibility legislation compliance.<br/>
+  Our [Premium Packages](plans/) include WCAG, ADA, EEA, and other accessibility legislation compliance.<br/>
   <br/> Your website will be built in accordance with the most up to date legislation and will tracked and updated daily if anything changes. <br/>
   
   <br/> Compliance not only protects you from litigation but also makes your business accessible to all individuals with disabilities (1.5 billion people globally). It is the best for your business and the right thing to do.
@@ -49,11 +49,8 @@ services:
 cta:
   enable: true
   bg_image: "images/call-to-action-bg.svg"
-  title: "We Are Devoted to Small Businesses"
-  content: "Whilst vital to your success, websites can be complicated and expensive. 
-  <br/>
-  <br/>
-  Let us simplify your process with custom pricing and services."
+  title: "Custom Pricing"
+  content: "Let us simplify your process with custom pricing and services."
   button:
     enable: true
     label: "Contact Us"

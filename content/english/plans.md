@@ -66,7 +66,7 @@ pricing:
     - Unlimited Troubleshooting and Error Correcting
     - 1 New Logo Change or Creation Per Month
     - Up to 3 New Website Pictures Per Month
-    - "**After One Year, Price Can be Renegotiated**"
+    - "**After One Year, Price is Reduced to Basic Programmer Package Pricing**"
 
   # pricing table loop
   - name : "Premium Website + Programmer Package"
@@ -96,7 +96,7 @@ pricing:
     - Toll-Free Number Creation and Setup
     - 5 Logo Changes or Creations
     - 10 New Website Pictures Per Month
-    - "**After One Year, Price Can be Renegotiated**"
+    - "**After One Year, Price is Reduced to Premium Programmer Package Pricing**"
 
 ############################# call to action #################################
 cta:

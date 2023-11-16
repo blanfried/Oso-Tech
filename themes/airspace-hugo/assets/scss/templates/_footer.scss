@@ -16,9 +16,13 @@
     ul {
       margin: 0px;
       padding: 0px;
+      font-size: 16px;
       li {
         display: inline-block;
-        padding: 0px 20px;
+        // padding: 0px 5px;
+        margin-right: 6px;
+        margin-left: 6px;
+        margin-bottom: 10px;
         a {
           display: inline-block;
           color: lighten( $black, 28.6 );
@@ -26,6 +30,9 @@
             color: $black;
           }
         }
+      }
+      @include mobile {
+        font-size: 14px;
       }
     }
   }

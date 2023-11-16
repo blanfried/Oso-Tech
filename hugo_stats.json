@@ -3,6 +3,7 @@
     "tags": [
       "a",
       "aside",
+      "base",
       "blockquote",
       "body",
       "br",
@@ -150,6 +151,7 @@
       "media-heading",
       "media-object",
       "middle-bar",
+      "mission-statements",
       "mobile",
       "mt-30",
       "mt-40",

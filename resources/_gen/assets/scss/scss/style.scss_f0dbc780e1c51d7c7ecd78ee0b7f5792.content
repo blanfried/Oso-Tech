@@ -1531,6 +1531,11 @@ header .navbar-default .navbar-nav li a:hover {
 .about .section-title {
   margin-bottom: 0px; }
 
+.mission-statements {
+  padding-top: 53px;
+  padding-left: 50px;
+  padding-right: 50px; }
+
 .instagram-feed a {
   margin: 6px;
   margin-right: 10px;
@@ -2260,14 +2265,20 @@ header .navbar-default .navbar-nav li a:hover {
     padding-bottom: 25px; }
     .footer .footer-menu ul {
       margin: 0px;
-      padding: 0px; }
+      padding: 0px;
+      font-size: 16px; }
       .footer .footer-menu ul li {
         display: inline-block;
-        padding: 0px 20px; }
+        margin-right: 6px;
+        margin-left: 6px;
+        margin-bottom: 10px; }
         .footer .footer-menu ul li a {
           display: inline-block;
           color: #494949; }
           .footer .footer-menu ul li a:hover {
             color: #000000; }
+      @media (max-width: 480px) {
+        .footer .footer-menu ul {
+          font-size: 14px; } }
   .footer .copyright a {
     font-weight: 600; }

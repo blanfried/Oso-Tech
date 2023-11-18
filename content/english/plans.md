@@ -15,7 +15,7 @@ pricing:
     content : "Perfect for small businesses with no e-commerce or existing Shopify, Wix, and Wordpress type websites."
     link : "https://billing.osows.com/b/eVag0R7RPcBkbu0008"
     services:
-    - Websites up to **7 pages** (blog pages vary, [Contact Us](contact/) with questions)
+    - Websites up to **7 pages** (blog pages vary, [Contact Us](../contact/) with questions)
     - 3 Website Customizations Per Month
     - SEO Upgrades and Monitoring
     - Google Tag & Analytics Optimization and Monitoring
@@ -30,7 +30,7 @@ pricing:
     content : "Perfect for small businesses with larger websites and e-commerce."
     link : "https://billing.osows.com/b/fZe15X8VTatc7dK7sB"
     services:
-    - Websites up to **15 pages** (product and blog pages vary, [Contact Us](contact/) with questions)
+    - Websites up to **15 pages** (product and blog pages vary, [Contact Us](../contact/) with questions)
     - 10 Website Customizations Per Month
     - SEO Upgrades and Monitoring
     - Google Tag & Analytics Optimization and Monitoring

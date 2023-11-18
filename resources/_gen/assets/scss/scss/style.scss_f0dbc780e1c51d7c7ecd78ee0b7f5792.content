@@ -1136,7 +1136,7 @@ header .navbar-default .navbar-nav li a:hover {
   .pricing-table .price-title > h3 {
     font-weight: 700;
     margin: 0 0 5px;
-    font-size: 15px; }
+    font-size: 24px; }
   .pricing-table .price-title > p {
     font-size: 14px;
     font-weight: 400;
@@ -1144,7 +1144,7 @@ header .navbar-default .navbar-nav li a:hover {
     margin-top: 5px; }
   .pricing-table .price-title .value {
     color: #0062ccc9;
-    font-size: 50px;
+    font-size: 35px;
     padding: 10px 0; }
 
 .product-item {

@@ -1,7 +1,7 @@
 ---
 title: "Our Privacy Policy"
 description: ""
-subtitle : "Scroll down to the table of contents for specifics and if you have any questions, [Contact Us](contact/)!"
+subtitle : "Scroll down to the table of contents for specifics and if you have any questions, [Contact Us](../contact/)!"
 lastmod: 2023-10-10T00:00:00
 bg_image: "images/slider-bg.svg"
 layout: "faq"

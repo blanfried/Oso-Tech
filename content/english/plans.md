@@ -21,8 +21,8 @@ pricing:
     - Google Tag & Analytics Optimization and Monitoring
     - 2 Blog Posts Per Month or 2 Additional Customizations
     - Unlimited Troubleshooting and Error Correcting
-    - 1 New Logo Change or Creation Per Month
-    - Up to 3 New Website Pictures Per Month
+    - 1 New Logo Change or Creation
+    - 3 New Website Pictures
 
   # pricing table loop
   - name : "Premium Programmer Package"
@@ -41,7 +41,7 @@ pricing:
     - Website Legal Advisory
     - Toll-Free Number Creation and Setup
     - 5 Logo Changes or Creations
-    - 10 New Website Pictures Per Month
+    - 10 New Website Pictures
 
 # pricing table loop
   - name : "Basic Website + Programmer Package"

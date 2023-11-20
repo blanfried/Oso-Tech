@@ -3,6 +3,7 @@
     "tags": [
       "a",
       "aside",
+      "base",
       "blockquote",
       "body",
       "br",
@@ -85,6 +86,7 @@
       "col-xs-12",
       "collapse",
       "collapsed",
+      "column",
       "contact-box",
       "contact-form",
       "container",

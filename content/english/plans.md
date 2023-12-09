@@ -59,7 +59,7 @@ pricing:
     -  6-7 pages (tbd after consultation)
     - +
     - "**Once the Website is Finished:**"
-    - 3 Website Customizations Per Month
+    - 3 Website Customizations Per Mont
     - SEO Upgrades and Monitoring
     - Google Tag & Analytics Optimization and Monitoring
     - 2 Blog Posts Per Month or 2 Additional Customizations

@@ -1536,6 +1536,9 @@ header .navbar-default .navbar-nav li a:hover {
   padding-left: 50px;
   padding-right: 50px; }
 
+.tabCommon {
+  margin-left: 30%; }
+
 .instagram-feed a {
   margin: 6px;
   margin-right: 10px;

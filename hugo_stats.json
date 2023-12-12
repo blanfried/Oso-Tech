@@ -3,13 +3,11 @@
     "tags": [
       "a",
       "aside",
-      "base",
       "blockquote",
       "body",
       "br",
       "button",
       "div",
-      "em",
       "figcaption",
       "figure",
       "footer",
@@ -279,8 +277,6 @@
       "opportunity",
       "simplicity",
       "subject",
-      "table-of-contents",
-      "terms-of-service",
       "welcome-to-airspace"
     ]
   }

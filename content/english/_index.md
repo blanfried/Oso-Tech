@@ -58,36 +58,37 @@ cta:
 
 ############################# Funfacts ###############################
 funfacts:
-  enable: false
-  title: "Fun Facts About Us"
-  description: "Averages and Costs in Monthly terms."
+  enable: true
+  title: "Fun Facts"
+  description: "Monthly averages for small businesses*
+  "
   funfact_item:
   # funfacts item loop
-  - icon: "fas fa-mug-hot" #https://fontawesome.com/v5.15/icons
-    name: "Cups Of Coffee"
-    count: "1039856"
+  - icon: "fas fa-dollar-sign" #https://fontawesome.com/v5.15/icons
+    name: "Average In-House Web <br/> Developer Cost"
+    count: "5000"
 
   # funfacts item loop
-  - icon: "fas fa-glasses" #https://fontawesome.com/v5.15/icons
-    name: "Articles Written"
-    count: "45"
+  - icon: "fas fa-dollar-sign" #https://fontawesome.com/v5.15/icons
+    name: "Osows Personal Web <br/> Developer Cost"
+    count: "99"
 
   # funfacts item loop
-  - icon: "fas fa-keyboard" #https://fontawesome.com/v5.15/icons
-    name: "Projects Completed"
-    count: "125"
+  - icon: "fas fa-dollar-sign" #https://fontawesome.com/v5.15/icons
+    name: "Average Professional <br/> Website Cost"
+    count: "1200"
 
   # funfacts item loop
-  - icon: "fas fa-clock" #https://fontawesome.com/v5.15/icons
-    name: "Combined Projects"
-    count: "200"
+  - icon: "fas fa-dollar-sign" #https://fontawesome.com/v5.15/icons
+    name: "Osows Professional <br/> Website Cost"
+    count: "300"
 
   testimonial_slider:
   # testimonial item loop
   - name: "Baer Lanfried"
     image: "images/clients/avater-1.jpg"
     designation: "CEO"
-    content: "We use the most current tech, are always available over phone or email, and create simple yet elegant websites according to your needs."
+    content: "We use the most current tech, are always available over phone or email, and create simple yet elegant websites."
 
   # testimonial item loop
   # - name: "Randi Renin"

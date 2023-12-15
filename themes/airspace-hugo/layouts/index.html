@@ -102,9 +102,9 @@
           <ul class="counter-box clearfix">
             {{ range .funfact_item }}
             <li class="counter-item">
-              <i class="{{ .icon }}"></i>
-              <h4 class="count" data-count="{{ .count }}">0</h4>
-              <span>{{ .name | markdownify }}</span>
+              <i class="count {{ .icon }}" data-count="{{ .count }}">0</i>
+              <!-- <h4 class="count" data-count="{{ .count }}">0</h4> -->
+              <h3>{{ .name | markdownify }}</h3>
             </li>
             {{ end }}
           </ul>

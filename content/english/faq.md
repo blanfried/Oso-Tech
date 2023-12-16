@@ -8,55 +8,66 @@ layout: "faq"
 draft: false
 ---
 
-### Welcome to Airspace!
+#### 1. The Pages Included
+* Up to 6 pages
+  > 1. Home
+  > 2. About
+  > 3. Services
+  > 4. Contact
+  > 5. 1 “Products” or “Plans” page
+  > 6. Terms of Service, FAQ, Refund Policy, Cancellation Policy, or Privacy Policy
+* If needed, an Account page powered by Stripe is included at no additional cost
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia ullam sint quas pariatur ipsam nemo
-repellendus suscipit quod accusantium numquam tempora assumenda sequi, velit voluptatem soluta voluptatibus
-nesciunt ducimus iure. Excepturi voluptatum ullam tenetur perspiciatis alias delectus beatae voluptatibus
-magni facere aspernatur, qui, quas nesciunt blanditiis assumenda a expedita accusantium quos consectetur neque
-nemo. Necessitatibus est quod quo deserunt, dicta aut voluptatem blanditiis, alias quos sed vel unde enim
-dolore aliquam quis reiciendis qui vitae reprehenderit. Similique nemo accusamus, vel possimus error cumque
-quas, tempora repellendus velit, unde cupiditate impedit deserunt fugit labore et nostrum sapiente est
-obcaecati maiores voluptates.
+---
 
-#### 1.Overview
+#### 2. Additional Pages
+* May purchase additional pages
+  > * Prices vary depending on the page
+* Some Examples Include:
+  > * FAQ
+  > * Additional Information
+  > * Mission
+  > * Vision
+  > * Portfolio
+  > * Our Users
+  > * Our Clients
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas iusto, alias, tempora fuga quam eveniet
-neque excepturi aliquid. Eligendi, mollitia.
+---
 
-#### 2. Data We Collect
+#### 3. Blogs
+* If you would like a blog on your website, we charge an additional $100 per month or $1000 per year to your plan.
+  > * With this, you receive a Blog Landing Page and up to 5 Blog Posts per month.
+  > * We will upload your blogs to your website, but we will not write the blogs for you.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias, earum, quibusdam? Accusantium, eaque at
-quasi dicta quis consectetur. Temporibus, natus illo quasi, magni neque fugiat ducimus omnis, ab ullam
-reprehenderit obcaecati. Inventore ut nisi repellendus dolores odit. Ea molestias perspiciatis enim, tenetur
-impedit suscipit quidem optio asperiores quibusdam. Minus, vel.
+---
 
-#### 3. How We Use Data
+#### 4. Terms of Service and Privacy Policy
+* If you would like Terms of Service and Privacy Policy pages on your website, we charge an additional $30 per month or $300 per year to your plan.
+  > * We will create both the pages on your website.
+  > * We will create both the Terms of Service and Privacy Policy for you once we receive the necessary information from you to do so.
+  > * These pages will be monitored and updated by legal professionals to ensure their continued validity and compliance.
+* You may also add any of the following for a flat rate of $50 each:
+  > * Disclaimer
+  > * Cookie Policy
+  > * EULA
+  > * Return/Refund Policy
+  > * Shipping Policy
+  > * Acceptable Use Policy
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus repellat id, laboriosam ipsa
-repudiandae quisquam, suscipit officiis, praesentium itaque facilis distinctio dolorum. Velit reiciendis
-libero laudantium corporis, delectus impedit sunt.
+---
 
-#### 4. How We Disclose Data.
+#### 5. Login and Authentication Pages
+* We currently do not offer any Login or Authentication pages other than the free Stripe Account page mentioned in “The Pages Included”.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur itaque ut culpa totam ratione! Iste
-possimus beatae consequuntur, fugit iusto fugiat id, dignissimos culpa obcaecati voluptatum omnis est
-quibusdam quos, et illo rerum quae dolorem error quis suscipit asperiores facilis? Ratione, facere architecto
-modi incidunt voluptatibus iusto maiores, at libero accusamus aliquam dolor minus autem possimus illum maxime,
-fugit fuga! A libero adipisci molestias praesentium distinctio odio, alias accusantium, dolorum itaque,
-necessitatibus labore! Facilis explicabo pariatur laudantium quibusdam consequatur ex odio labore sequi animi.
-Voluptatem impedit, maiores, cupiditate, iure possimus neque quaerat natus aut minima quibusdam tempora
-magnam, vero itaque!
+---
 
-#### 5. Security
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae blanditiis quod saepe, inventore ipsum sint
-cum iste quae ratione nobis laborum minima autem totam similique, quia neque deleniti! Provident, suscipit.
-
-#### 6. Advertising.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, eaque repellendus placeat aperiam fugit.
-Quod inventore quis quos, molestias nostrum tempora quae adipisci dolorem ipsam repellendus officia,
-voluptatem assumenda porro possimus, eius eum enim qui natus! Quas numquam voluptas reiciendis eveniet ab at
-provident omnis mollitia ipsa. Asperiores vero rem cum minima voluptas, vitae magni accusantium quae. Sed,
-expedita, ad.
+#### 6. Refunds and Cancellation
+* We currently allow cancellations and refunds if done under the following terms:
+  > * Cancellations
+  >   > * In-House Programmer Package
+  > * Refunds
+  >   > * You will receive a 100% refund if you cancel your plan within three days of the original purchase.
+  >   >   > * To do so you must contact us saying you wish to cancel and also provide your order number.
+  >   > * Beyond three days you might not receive any refund. We encourage you to contact us anyway and hopefully we can work something out.
+  >   >   > * Any negotiated refund will be based on the amount of days since your original purchase and the labor already spent.
+  >   >   > * In most cases, however, you will not receive any refund beyond the three day mark.

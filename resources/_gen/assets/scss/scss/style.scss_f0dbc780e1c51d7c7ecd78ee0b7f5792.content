@@ -1141,7 +1141,7 @@ header .navbar-default .navbar-nav li a:hover {
   margin-bottom: 30px; }
   .pricing-table .pricing-item a.btn-main, .pricing-table .pricing-item a.btn-transparent, .pricing-table .pricing-item a.btn-small {
     margin-top: 20px;
-    font-size: 14px; }
+    font-size: 20px; }
   .pricing-table .pricing-item li {
     font-weight: 400;
     padding: 6px 0;

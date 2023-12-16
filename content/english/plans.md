@@ -1,6 +1,6 @@
 ---
 title: "Our Plans"
-description: "Contact us directly for custom plans and pricing."
+description: "See Our FAQ For More Details"
 bg_image: "images/slider-bg.svg"
 layout: "pricing"
 draft: false
@@ -15,7 +15,7 @@ pricing:
     content : "Perfect For Businesses With an Existing Website."
     link : "https://billing.osows.com/b/fZe15X8VTatc7dK7sB"
     services:
-    - Websites Up To **6 Pages** (Product and Blog Pages Vary, [Contact Us](../contact/) With Questions)
+    - Websites Up To **6 Pages** (See our [FAQ](../faq/) or [Contact Us](../contact/) for more details)
     - 10 Website Customizations Per Month
     - SEO and Performance Upgrades and Monitoring
     - Google Tag & Analytics Optimization and Monitoring
@@ -27,7 +27,7 @@ pricing:
     - Toll-Free Number Creation and Setup
     - 5 Logo Changes or Creations
     - 10 New Website Pictures
-    - "**Additional Pages Can Be Added For a Fee**"
+    - "**Additional Pages Can Be Added For a Fee** (See our [FAQ](../faq/) for more details)"
 
   # pricing table loop
   - name : "Professionally Coded Website Package"
@@ -36,15 +36,16 @@ pricing:
     link : "https://billing.osows.com/b/eVaaGxgolgRAcy4cMX"
     services:
     - "**The Website:**"
+    -  Up To **6 Pages** (See our [FAQ](../faq/) or [Contact Us](../contact/) for more details)
     -  Design
     -  Copywriting
     -  Web Hosting
     -  Domain
     -  Highest Possible SEO and Performance (95+)
     -  Marketing Functionality (Google Ads, analytics, tag, etc.)
-    -  Up To **6 Pages** (product and blog pages vary, [Contact Us](../contact/) with questions)
     -  Full Compliance (Terms of Service, Privacy Policy, Cookie Page, ADA, WCAG, EEA, etc.)
-    -  "**Additional Pages Can Be Added For a Fee**"
+    - "**This Plan Comes With an In-House Programmer**"
+    -  "**Additional Pages Can Be Added For a Fee** (See Our [FAQ](../faq/) for more details)"
     - +
     - "**Once the Website is Finished:**"
     - 10 Website Customizations Per Month
@@ -58,7 +59,6 @@ pricing:
     - Toll-Free Number Creation and Setup
     - 5 Logo Changes or Creations
     - 10 New Website Pictures Per Month
-    - "**Comes With In-House Programmer**"
     - "**After One Year, Price Reduces to In-House Programmer Package**"
 
   # pricing table loop

@@ -8,8 +8,8 @@ draft: false
 ################################ pricing ################################
 pricing:
   enable : true
-  # pricing_table:
-  # # pricing table loop
+  pricing_table:
+  # pricing table loop
   # - name : "Basic Programmer Package"
   #   price: "$99 - $119"
   #   content : "Perfect for small businesses with no e-commerce or existing Shopify, Wix, and Wordpress type websites."

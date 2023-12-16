@@ -21,8 +21,8 @@ about:
 
   button:
     enable : false
-    label : "Download Company Profile"
-    link : "#"
+    label : "See Our Blog For More Details"
+    link : "../blog/"
 
   # funfacts:
   # # funfacts loop

@@ -38,6 +38,11 @@
           </div>
           {{ with .content }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
         </div>
+        {{ with .button }}
+        {{ if .enable }}
+        <a href="{{ .link | relLangURL }}" class="btn service-btn">{{ .label }}</a>
+        {{ end }}
+        {{ end }}
       </div>
       <!-- <div class="col-md-5 col-sm-12">
         <div class="block">

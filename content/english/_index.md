@@ -4,7 +4,7 @@ banner:
   enable: true
   bg_image: "images/slider-bg.svg"
   bg_overlay: true
-  title: "Your Personal Programmer"
+  title: "Your In-House Programmer"
   content: ""
   button:
     enable: true
@@ -14,12 +14,38 @@ banner:
 ############################# About #################################
 about:
   enable: true
-  title: "A Personal Programmer For Your Small Business"
-  description: "Professional websites are expensive and time consuming yet small-businesses need them in order to survive and thrive.<br/> 
-  <br/> We make this process easier by providing professionally coded websites from as low as [**$225/month**](plans/).<br/>
-  <br/>This price includes your own personal web developer for the duration of your subscription, allowing you to constantly customize until you get exactly what you want."
-  content: ""
+  title: "What We Do For Small Businesses"
+  description: " With Osows there are two paths:
+    <br/> <br/>
+  "
+
+
+
+
+  # "Professional websites are expensive and time consuming yet small-businesses need them in order to survive and thrive.<br/> 
+  # <br/> We make this process easier by providing professionally coded websites from as low as [**$225/month**](plans/).<br/>
+  # <br/>This price includes your own personal web developer for the duration of your subscription, allowing you to constantly customize until you get exactly what you want."
+  content: "  &nbsp; **1. In-House Programmer Package**
+  <br/>
+  <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - You have an existing website.
+  <br/>
+  <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - We look after it for you, maximize SEO, and are always on call to customize or troubleshoot.
+  <br/>
+  <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - You sit back, watch it boost sales, and never worry about it again.
+  <br/> <br/>
+  &nbsp; **2. Professionally Coded Website + In-House Programmer Package**
+  <br/>
+  <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - We professionally code a website for your business.
+  <br/>
+  <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Superb SEO and performance beyond anything shopify, wordpress, Wix, or any CMS website could do.
+  <br/>
+  <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Once launched, we are your In-House Programmer as long as you need a website.
+  <br/> <br/>"
   image: "images/wrapper-img.svg"
+  button:
+    enable: true
+    label: "More About Our Services"
+    link: "services/"
 
 ######################### Portfolio ###############################
 portfolio:
@@ -28,7 +54,7 @@ portfolio:
   title: "Start With An Additional 1.5 Billion Potential Clients"
   content: " With us, you get ahead of 97% of your competition by being accessible to 1.5 Billion more people around the globe. How is this so? <br/> <br/>
 
-  Our [Premium Packages](plans/) include WCAG, ADA, EEA, and other accessibility legislation compliance.<br/>
+  Our [Packages](plans/) include WCAG, ADA, EEA, and other accessibility legislation compliance.<br/>
   <br/> Your website will be built in accordance with the most up to date legislation and will tracked and updated daily if anything changes. <br/>
   
   <br/> Compliance not only protects you from litigation but also makes your business accessible to all individuals with disabilities (1.5 billion people globally). It is the best for your business and the right thing to do.
@@ -60,7 +86,7 @@ cta:
 funfacts:
   enable: true
   title: "Fun Facts"
-  description: "Monthly averages for small businesses*
+  description: "Monthly averages for small businesses in the US*
   "
   funfact_item:
   # funfacts item loop
@@ -70,7 +96,7 @@ funfacts:
 
   # funfacts item loop
   - icon: "fas fa-dollar-sign" #https://fontawesome.com/v5.15/icons
-    name: "Osows Personal Web <br/> Developer Cost"
+    name: "Osows In-House Web <br/> Developer Cost"
     count: "99"
 
   # funfacts item loop
@@ -87,7 +113,7 @@ funfacts:
   # testimonial item loop
   - name: "Baer Lanfried"
     image: "images/clients/avater-1.jpg"
-    designation: "CEO"
+    designation: "Founder"
     content: "We use the most current tech, are always available over phone or email, and create simple yet elegant websites."
 
   # testimonial item loop

@@ -291,13 +291,23 @@ input[type="tel"] {
       margin-bottom: 20px; } }
   .section-title h2 {
     font-weight: 600;
+    font-size: 40px;
     margin: 0px;
     padding: 30px 0px; }
   .section-title p {
     font-style: italic;
     color: black;
-    font-family: "Volkhov", serif; }
+    font-family: "Volkhov", serif;
+    font-size: 20px; }
 
+.service-btn {
+  margin-left: 30%;
+  background: #4d4d4d;
+  color: #ffffff;
+  padding: 10px 20px; }
+  @media (max-width: 480px) {
+    .service-btn {
+      margin-left: 0%; } }
 .section-subtitle {
   font-size: 28px;
   font-weight: 600;
@@ -878,11 +888,13 @@ header .navbar-default .navbar-nav li a:hover {
   .feature h2 {
     margin: 9px;
     padding-top: 30px;
-    padding-bottom: 30px; }
+    padding-bottom: 30px;
+    font-size: 40px; }
   .feature p {
     color: black;
     margin-bottom: 20px;
-    margin: 9px; }
+    margin: 9px;
+    font-size: 20px; }
   .feature .btn-view-works {
     background: #4d4d4d;
     color: #ffffff;

@@ -15,9 +15,9 @@ pricing:
     content : "Perfect for small businesses with larger websites and e-commerce."
     link : "https://billing.osows.com/b/fZe15X8VTatc7dK7sB"
     services:
-    - Websites up to **15 pages** (product and blog pages vary, [Contact Us](../contact/) with questions)
+    - Websites up to **10 pages** (product and blog pages vary, [Contact Us](../contact/) with questions)
     - 10 Website Customizations Per Month
-    - SEO Upgrades and Monitoring
+    - SEO and Performance Upgrades and Monitoring
     - Google Tag & Analytics Optimization and Monitoring
     - Blog and Product Posting
     - Unlimited Troubleshooting and Error Correcting
@@ -39,9 +39,9 @@ pricing:
     -  Copywriting
     -  Web Hosting
     -  Domain
-    -  High Performance (95+)
+    -  Highest Possible SEO and Performance (95+)
     -  Marketing Functionality (Google Ads, analytics, tag, etc.)
-    -  12-15 pages (tbd after consultation)
+    -  8-10 pages (product and blog pages vary, [Contact Us](../contact/) with questions)
     -  Full Compliance (Terms of Service, Privacy Policy, Cookie Page, ADA, WCAG, EEA, etc.)
     - +
     - "**Once the Website is Finished:**"
@@ -56,9 +56,9 @@ pricing:
     - Toll-Free Number Creation and Setup
     - 5 Logo Changes or Creations
     - 10 New Website Pictures Per Month
-    - Comes With In-House Programmer
-    - "**After One Year, Price Reduces to In-House Programmer Package**"
-    
+    - "**Comes With In-House Programmer***"
+    - "**After One Year, Price Reduces to In-House Programmer Package***"
+
   # pricing table loop
   # - name : "Basic Programmer Package"
   #   price: "$99 - $119"

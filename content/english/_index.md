@@ -94,7 +94,7 @@ funfacts:
   # funfacts item loop
   - icon: "fas fa-dollar-sign" #https://fontawesome.com/v5.15/icons
     name: "Osows In-House Web <br/> Developer Cost"
-    count: "99"
+    count: "183"
 
   # funfacts item loop
   - icon: "fas fa-dollar-sign" #https://fontawesome.com/v5.15/icons
@@ -104,7 +104,7 @@ funfacts:
   # funfacts item loop
   - icon: "fas fa-dollar-sign" #https://fontawesome.com/v5.15/icons
     name: "Osows Professional <br/> Website Cost"
-    count: "300"
+    count: "333"
 
   testimonial_slider:
   # testimonial item loop

@@ -36,7 +36,9 @@
             {{ with .title }}<h2>{{ . | markdownify }}</h2>{{ end }}
             {{ with .description }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
           </div>
+          <div class="index-about-content">
           {{ with .content }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
+        </div>
         </div>
         {{ with .button }}
         {{ if .enable }}

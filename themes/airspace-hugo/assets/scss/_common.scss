@@ -333,6 +333,14 @@ input[type="tel"] {
   }
 }
 
+.index-about-content {
+  p {
+    color: darken( $light, 100);
+    font-size: 20px;
+  }
+}
+
+
 .service-btn {
   // margin-left: 30%;
   background: lighten( $black, 30 );

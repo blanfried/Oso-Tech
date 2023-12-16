@@ -300,6 +300,10 @@ input[type="tel"] {
     font-family: "Volkhov", serif;
     font-size: 20px; }
 
+.index-about-content p {
+  color: black;
+  font-size: 20px; }
+
 .service-btn {
   background: #4d4d4d;
   color: #ffffff;

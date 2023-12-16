@@ -18,7 +18,7 @@ about:
   description: " With Osows there are two paths:
     <br/> <br/>"
 
-  content: "**1. In-House Programmer Package**
+  content: "**1. In-House Programmer**
   <br/>
   <br/> You have an existing website.
   <br/>
@@ -26,7 +26,7 @@ about:
   <br/>
   <br/> You sit back, watch it boost sales, and never worry about it again.
   <br/> <br/> <br/>
-            **2. Professionally Coded Website + In-House Programmer Package**
+            **2. Professionally Coded Websites**
   <br/>
   <br/> We professionally code a website for your business.
   <br/>

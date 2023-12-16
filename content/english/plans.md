@@ -12,10 +12,10 @@ pricing:
   # pricing table loop
   - name : "In-House Programmer Package"
     price: "$183 - $219"
-    content : "Perfect for small businesses with larger websites and e-commerce."
+    content : "Perfect for small businesses with an existing website."
     link : "https://billing.osows.com/b/fZe15X8VTatc7dK7sB"
     services:
-    - Websites up to **10 pages** (product and blog pages vary, [Contact Us](../contact/) with questions)
+    - Websites Up To **7 Pages** (Product and Blog Pages Vary, [Contact Us](../contact/) With Questions)
     - 10 Website Customizations Per Month
     - SEO and Performance Upgrades and Monitoring
     - Google Tag & Analytics Optimization and Monitoring
@@ -27,6 +27,7 @@ pricing:
     - Toll-Free Number Creation and Setup
     - 5 Logo Changes or Creations
     - 10 New Website Pictures
+    - "**Additional Pages Can Be Added For a Fee**"
 
   # pricing table loop
   - name : "Professionally Coded Website Package"
@@ -41,8 +42,9 @@ pricing:
     -  Domain
     -  Highest Possible SEO and Performance (95+)
     -  Marketing Functionality (Google Ads, analytics, tag, etc.)
-    -  8-10 pages (product and blog pages vary, [Contact Us](../contact/) with questions)
+    -  Up To **7 Pages** (product and blog pages vary, [Contact Us](../contact/) with questions)
     -  Full Compliance (Terms of Service, Privacy Policy, Cookie Page, ADA, WCAG, EEA, etc.)
+    -  "**Additional Pages Can Be Added For a Fee**"
     - +
     - "**Once the Website is Finished:**"
     - 10 Website Customizations Per Month
@@ -56,8 +58,8 @@ pricing:
     - Toll-Free Number Creation and Setup
     - 5 Logo Changes or Creations
     - 10 New Website Pictures Per Month
-    - "**Comes With In-House Programmer***"
-    - "**After One Year, Price Reduces to In-House Programmer Package***"
+    - "**Comes With In-House Programmer**"
+    - "**After One Year, Price Reduces to In-House Programmer Package**"
 
   # pricing table loop
   # - name : "Basic Programmer Package"

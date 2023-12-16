@@ -814,7 +814,7 @@ header .navbar-default .navbar-nav li a:hover {
     font-size: 20px; }
   .call-to-action .btn-main, .call-to-action .btn-transparent, .call-to-action .btn-small {
     padding: 15px 35px;
-    font-size: 14px;
+    font-size: 15px;
     margin-top: 30px;
     margin-bottom: 30px; }
 
@@ -1140,11 +1140,13 @@ header .navbar-default .navbar-nav li a:hover {
   box-shadow: 0 8px 15px 0 rgba(5, 57, 106, 0.06);
   margin-bottom: 30px; }
   .pricing-table .pricing-item a.btn-main, .pricing-table .pricing-item a.btn-transparent, .pricing-table .pricing-item a.btn-small {
-    margin-top: 20px; }
+    margin-top: 20px;
+    font-size: 14px; }
   .pricing-table .pricing-item li {
     font-weight: 400;
     padding: 6px 0;
-    color: #626262; }
+    color: #626262;
+    font-size: 15px; }
     .pricing-table .pricing-item li i {
       margin-right: 6px;
       color: #0062ccc9; }
@@ -1154,9 +1156,9 @@ header .navbar-default .navbar-nav li a:hover {
   .pricing-table .price-title > h3 {
     font-weight: 700;
     margin: 0 0 5px;
-    font-size: 24px; }
+    font-size: 30px; }
   .pricing-table .price-title > p {
-    font-size: 14px;
+    font-size: 18px;
     font-weight: 400;
     line-height: 18px;
     margin-top: 5px; }

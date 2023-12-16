@@ -72,11 +72,11 @@ services:
 cta:
   enable: true
   bg_image: "images/call-to-action-bg.svg"
-  title: "Custom Pricing"
-  content: "Let us simplify your process with custom pricing and services."
+  title: "Tell Us What You Need"
+  content: "Need something specific or having trouble finding something?"
   button:
     enable: true
-    label: "Contact Us"
+    label: "Contact Us!"
     link: "contact/"
 
 ############################# Funfacts ###############################

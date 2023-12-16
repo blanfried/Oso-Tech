@@ -807,12 +807,14 @@ header .navbar-default .navbar-nav li a:hover {
   .call-to-action h2 {
     color: #ffffff;
     margin: 0px;
-    padding: 30px 0px; }
+    padding: 30px 0px;
+    font-size: 40px; }
   .call-to-action p {
-    color: #ffffff; }
+    color: #ffffff;
+    font-size: 20px; }
   .call-to-action .btn-main, .call-to-action .btn-transparent, .call-to-action .btn-small {
     padding: 15px 35px;
-    font-size: 12px;
+    font-size: 14px;
     margin-top: 30px;
     margin-bottom: 30px; }
 

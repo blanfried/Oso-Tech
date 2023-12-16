@@ -16,15 +16,8 @@ about:
   enable: true
   title: "What We Do For Small Businesses"
   description: " With Osows there are two paths:
-    <br/> <br/>
-  "
+    <br/> <br/>"
 
-
-
-
-  # "Professional websites are expensive and time consuming yet small-businesses need them in order to survive and thrive.<br/> 
-  # <br/> We make this process easier by providing professionally coded websites from as low as [**$225/month**](plans/).<br/>
-  # <br/>This price includes your own personal web developer for the duration of your subscription, allowing you to constantly customize until you get exactly what you want."
   content: "**1. In-House Programmer Package**
   <br/>
   <br/> - You have an existing website.

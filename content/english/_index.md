@@ -26,7 +26,7 @@ about:
   <br/>
   <br/> You sit back, watch it boost sales, and never worry about it again.
   <br/> <br/> <br/>
-            **2. Professionally Coded Websites**
+            **2. Professionally Coded Website**
   <br/>
   <br/> We professionally code a website for your business.
   <br/>

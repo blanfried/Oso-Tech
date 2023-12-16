@@ -12,10 +12,10 @@ pricing:
   # pricing table loop
   - name : "In-House Programmer Package"
     price: "$183 - $219"
-    content : "Perfect for small businesses with an existing website."
+    content : "Perfect For Businesses With an Existing Website."
     link : "https://billing.osows.com/b/fZe15X8VTatc7dK7sB"
     services:
-    - Websites Up To **7 Pages** (Product and Blog Pages Vary, [Contact Us](../contact/) With Questions)
+    - Websites Up To **6 Pages** (Product and Blog Pages Vary, [Contact Us](../contact/) With Questions)
     - 10 Website Customizations Per Month
     - SEO and Performance Upgrades and Monitoring
     - Google Tag & Analytics Optimization and Monitoring
@@ -32,7 +32,7 @@ pricing:
   # pricing table loop
   - name : "Professionally Coded Website Package"
     price: "$333 - $399"
-    content : "A Premium Website + Premium Programmer Services"
+    content : "Perfect For Businesses Looking to Increase Their Web Traffic or With No Existing Website."
     link : "https://billing.osows.com/b/eVaaGxgolgRAcy4cMX"
     services:
     - "**The Website:**"
@@ -42,7 +42,7 @@ pricing:
     -  Domain
     -  Highest Possible SEO and Performance (95+)
     -  Marketing Functionality (Google Ads, analytics, tag, etc.)
-    -  Up To **7 Pages** (product and blog pages vary, [Contact Us](../contact/) with questions)
+    -  Up To **6 Pages** (product and blog pages vary, [Contact Us](../contact/) with questions)
     -  Full Compliance (Terms of Service, Privacy Policy, Cookie Page, ADA, WCAG, EEA, etc.)
     -  "**Additional Pages Can Be Added For a Fee**"
     - +

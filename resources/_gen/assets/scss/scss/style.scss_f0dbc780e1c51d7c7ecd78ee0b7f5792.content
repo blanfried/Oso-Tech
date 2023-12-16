@@ -1146,7 +1146,7 @@ header .navbar-default .navbar-nav li a:hover {
     font-weight: 400;
     padding: 6px 0;
     color: #626262;
-    font-size: 15px; }
+    font-size: 18px; }
     .pricing-table .pricing-item li i {
       margin-right: 6px;
       color: #0062ccc9; }

@@ -301,13 +301,10 @@ input[type="tel"] {
     font-size: 20px; }
 
 .service-btn {
-  margin-left: 30%;
   background: #4d4d4d;
   color: #ffffff;
   padding: 10px 20px; }
-  @media (max-width: 480px) {
-    .service-btn {
-      margin-left: 0%; } }
+
 .section-subtitle {
   font-size: 28px;
   font-weight: 600;

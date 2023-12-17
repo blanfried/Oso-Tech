@@ -27,19 +27,21 @@ featured_service:
     - name : "If You Love Your Existing Website"
       icon : "fas fa-heart"
       color : "primary"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
+      content : "Or you just are not ready to make the switch to a professionally coded website."
 
     # featured service item loop
-    - name : "Product Branding"
-      icon : "fas fa-leaf"
+    - name : "We Can Still Maximize SEO!"
+      icon : "fas fa-sort-amount-up"
       color : "primary-dark"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
+      content : "We will dive into the code behind your website. After removing unnecessary clunk and making a few tweaks, it will perform as best as it possibly can."
 
     # featured service item loop
-    - name : "Game Development"
-      icon : "fas fa-lightbulb"
+    - name : "We Will Stay With You"
+      icon : "fas fa-handshake"
       color : "primary-darker"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
+      content : "As your business scales we continually update your site to maintain SEO.
+<br/>
+<br/>We take care of the technical, so you have creative freedom."
 
 
 ############################# Service ###############################

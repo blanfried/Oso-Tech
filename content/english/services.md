@@ -8,15 +8,14 @@ draft: false
 ########################### about service #############################
 about:
   enable : true
-  title : "Creative UX/UI Design Agency"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate soluta corporis odit, optio
-          cum! Accusantium numquam ab, natus excepturi architecto earum ipsa aliquam, illum, omnis rerum, eveniet
-          officia nihil. Eum quod iure nulla, soluta architecto distinctio. Nesciunt odio ullam expedita, neque fugit
-          maiores sunt perferendis placeat autem animi, nihil quis suscipit quibusdam ut reiciendis doloribus natus nemo
-          id quod illum aut culpa perspiciatis consequuntur tempore? Facilis nam vitae iure quisquam eius harum
-          consequatur sapiente assumenda, officia voluptas quas numquam placeat, alias molestias nisi laudantium
-          nesciunt perspiciatis suscipit hic voluptate corporis id distinctio earum. Dolor reprehenderit fuga dolore
-          officia adipisci neque!"
+  title : "Professionally Coded Website"
+  content : "
+<br/> Website Builders like Shopify, Wordpress, Wix, etc. have a lot of extra code. Whilst this code makes it easy to build a website, the website built from it is slowed down for the user.
+<br/>
+<br/> We achieve maximum SEO and performance using static websites with dynamic capabilities. This means our sites are lean. They load rapidly and do not lack capability.
+<br/>
+<br/> Therefore, with Osows your custom website will be blazing fast. Google will favor it and your users will love it, thus leading to exponential conversion rates and a massive boost in revenue over time.
+          "
   image : "images/company/company-group-pic.jpg"
 
 
@@ -25,8 +24,8 @@ featured_service:
   enable : true
   service_item:
     # featured service item loop
-    - name : "Interface Design"
-      icon : "fas fa-flask"
+    - name : "If You Love Your Existing Website"
+      icon : "fas fa-heart"
       color : "primary"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
 

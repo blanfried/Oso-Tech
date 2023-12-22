@@ -48,7 +48,7 @@ featured_service:
 services:
   enable : true
   title : "Our Services"
-  description : "For more information, see [Plans](plans/) or [Contact Us](contact/)!"
+  description : "For more information, see [Plans](../plans/) or [Contact Us](../contact/)!"
   service_item:
     # service item loop
     - icon : fas fa-bullseye #https://fontawesome.com/v5.15/icons

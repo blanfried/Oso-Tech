@@ -9,7 +9,7 @@ information:
   - label : "Type of Website"
     info : "Personal"
   - label : "Time to Completion"
-    info : "~ 1 Month"
+    info : "1-2 Months"
 ---
 
 <!-- ## Title

@@ -3,7 +3,6 @@
     "tags": [
       "a",
       "aside",
-      "base",
       "blockquote",
       "body",
       "br",
@@ -99,8 +98,6 @@
       "counter-item",
       "cta-overly",
       "current",
-      "d-lg-block",
-      "d-none",
       "dark-service",
       "dropdown",
       "dropdown-item",

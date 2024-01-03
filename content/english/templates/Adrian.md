@@ -23,39 +23,6 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, 
 reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate
 at provident soluta consequatur. -->
 
-  <style>
-    /* CSS content here */
-    /* Button styles */
-    .button {
-      background-color: black;
-      border-radius: 7px;
-      color: white;
-      padding: 10px;
-      margin: 10px;
-      cursor: pointer;
-    }
-
-    .button:hover {
-      background-color: grey;
-    }
-
-    /* Iframe styles */
-    #myIframe {
-      transition: all 0.3s ease;
-      border: 1px solid;
-      border-radius: 5px;
-    }
-
-    #myIframe.desktop {
-      width: 100%;
-      height: 800px;
-    }
-
-    #myIframe.mobile {
-      width: 80%;
-      height: 500px;
-    }
-  </style>
 
   <!-- Markdown content rendered as HTML here -->
   <button class="button" id="mobileButton">Mobile/Tablet</button>

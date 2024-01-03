@@ -7,11 +7,11 @@
 <section class="portfolio-single-page section-sm">
   <div class="container">
     <div class="row">
-      <div class="col-md-8">
-        <!-- {{ with .Params.image }}
+      <!-- <div class="col-md-8">
+        {{ with .Params.image }}
         <img class="img-responsive w-100" src="{{ . | relURL }}" alt="">
-        {{ end }} -->
-      </div>
+        {{ end }}
+      </div> -->
       <div class="col-md-12">
         <div class="project-details">
           <h4>Project Details</h4>
@@ -27,6 +27,9 @@
       <div class="col-md-12">
         <div class="project-content mt-50">
           {{ .Content }}
+          <button class="button" id="mobileButton">Mobile/Tablet</button>
+          <button class="button" id="desktopButton">Desktop</button>
+          <iframe id="myIframe" class="mobile" src="https://osows.github.io/{{ .Title | urlize }}/"></iframe>
         </div>
       </div>
     </div>

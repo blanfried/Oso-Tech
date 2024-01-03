@@ -21,8 +21,8 @@ about:
 
   button:
     enable : false
-    label : "Download Company Profile"
-    link : "#"
+    label : "See Our Blog For More Details"
+    link : "../blog/"
 
   # funfacts:
   # # funfacts loop
@@ -61,6 +61,11 @@ features:
   title : ""
   feature_item:
   # feature item loop
+  - icon : "fas fa-shapes" #https://fontawesome.com/v5.15/icons
+    name : "Simplicity"
+    content : ""
+
+  # feature item loop
   - icon : "fas fa-universal-access" #https://fontawesome.com/v5.15/icons
     name : "Accessibility"
     content : ""
@@ -70,10 +75,7 @@ features:
     name : "Opportunity"
     content : ""
 
-  # feature item loop
-  - icon : "fas fa-shapes" #https://fontawesome.com/v5.15/icons
-    name : "Simplicity"
-    content : ""
+
 
 
 #################################### testimonial & mission vision #######################################
@@ -84,6 +86,16 @@ testimonial:
 mission_vision:
   enable : true
   tabs:
+  # tab item loop
+  - name : "Simplicity"
+    content : "<br/>How do we achieve **Simplicity**?
+<br/>
+<br/>    - **Static Sites:** Using coding languages like Hugo and third-party integrations like Stripe we create static sites with dynamic capability. This allows our sites to consistently outperform Wordpress, Shopify, Wix, and other CMS platforms.
+<br/>
+<br/>    - **Clean Designs:** A clean design shows the user what you do and why they should choose you without them having to weed through so much fluff.
+<br/>
+<br/>    - **Intuitive Interactions:** Call us! Email us! We are human and we answer or respond with lightning speed, transparency, and fun throughout the whole process. "
+
   # tab item loop
   - name : "Accessibility"
     content : "<br/>We strive for **Accessibility** on two fronts:
@@ -104,15 +116,6 @@ mission_vision:
 <br/>    - **Better:** We optimize our sites to ensure their revenue will explode.
 "
 
-  # tab item loop
-  - name : "Simplicity"
-    content : "<br/>How do we achieve **Simplicity**?
-<br/>
-<br/>    - **Static Sites:** Using coding languages like Hugo and third-party integrations like Stripe we create static sites with dynamic capability. This allows our sites to consistently outperform Wordpress, Shopify, Wix, and other CMS platforms.
-<br/>
-<br/>    - **Clean Designs:** A clean design shows the user what you do and why they should choose you without them having to weed through so much fluff.
-<br/>
-<br/>    - **Intuitive Interactions:** Call us! Email us! We are human and we answer or respond with lightning speed, transparency, and fun throughout the whole process. "
 
 
 ############################# call to action #################################

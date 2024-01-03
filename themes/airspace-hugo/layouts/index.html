@@ -30,16 +30,23 @@
 <section class="about section">
   <div class="container">
     <div class="row">
-      <div class="col-md-12 col-sm-12">
+      <div class="col-md-12 col-sm-12 text-center">
         <div class="block">
           <div class="section-title">
             {{ with .title }}<h2>{{ . | markdownify }}</h2>{{ end }}
             {{ with .description }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
           </div>
+          <div class="index-about-content">
           {{ with .content }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
         </div>
+        </div>
+        {{ with .button }}
+        {{ if .enable }}
+        <a href="{{ .link | relLangURL }}" class="btn service-btn">{{ .label }}</a>
+        {{ end }}
+        {{ end }}
       </div>
-      <!-- <div class="col-md-5 col-sm-12">
+      <!-- <div class="col-md-5 d-sm-none">
         <div class="block">
           <img src="{{ .image | relURL }}" class="img-responsive" alt="Img">
         </div>
@@ -102,9 +109,9 @@
           <ul class="counter-box clearfix">
             {{ range .funfact_item }}
             <li class="counter-item">
-              <i class="{{ .icon }}"></i>
-              <h4 class="count" data-count="{{ .count }}">0</h4>
-              <span>{{ .name | markdownify }}</span>
+              <i class="count {{ .icon }}" data-count="{{ .count }}">0</i>
+              <!-- <h4 class="count" data-count="{{ .count }}">0</h4> -->
+              <h3 class="fun-facts-subtitles">{{ .name | markdownify }}</h3>
             </li>
             {{ end }}
           </ul>

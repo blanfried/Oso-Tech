@@ -3,7 +3,7 @@ title: "Academia"
 description: "Brochure Style Website. Customizable For Freelancer or Small Business Use."
 draft: false
 image : "images/portfolio/Academia-Template.jpg"
-bg_image: "images/feature-bg.svg"
+bg_image: "images/slider-bg.svg"
 category: [ "Personal", "Brochure" ]
 information:
   - label : "Type of Website"

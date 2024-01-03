@@ -3,7 +3,7 @@ title: "Adrian"
 description: "E-commerce Style Website. Customizable For Freelancer or Small Business Use."
 draft: false
 image : "images/portfolio/Adrian-Template.jpg"
-bg_image: "images/feature-bg.svg"
+bg_image: "images/slider-bg.svg"
 category: [ "E-commerce" ]
 information:
   - label : "Type of Website"

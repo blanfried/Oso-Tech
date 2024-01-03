@@ -376,12 +376,32 @@ input[type="tel"] {
     text-align: center;
 
     h1 {
-      color: $white;
       font-weight: 2000;
       font-size: 430%;
+      line-height: 1.33em;
       letter-spacing: 0.15em;
+      padding-bottom: 15px;
+      color: $white;
+      font-display: swap;
       margin-top: 0;
-      text-transform: capitalize;
+
+      @include tablet {
+        font-weight: 400;
+        font-size: 45px;
+        margin-top: 0;
+        }
+
+      @include mobile {
+        font-weight: 400;
+        font-size: 40px;
+        margin-top: 0;
+        }
+
+      @include mobile-xs {
+        font-weight: 400;
+        font-size: 35px;
+        margin-top: 0;
+        }
     }
 
     p {

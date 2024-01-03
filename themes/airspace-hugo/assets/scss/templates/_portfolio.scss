@@ -120,22 +120,29 @@
   }
 
   .button {
-    // background-color: #0062CCC9;
-    // // border-radius: 7px;
-    // color: white;
-    // padding: 10px;
-    // margin: 10px;
-    // cursor: pointer;
+    border-radius: 7px;
+    padding: 10px;
+    margin: 10px;
     background: $color-primary;
     color: $white;
     display: inline-block;
     font-size: 16px;
     letter-spacing: 1px;
-    padding: 14px 20px;
-    // text-transform: uppercase;
-    border-radius: 0;
+    // padding: 14px 20px;
+    // border-radius: 0;
     @include transition (all, 0.2s, ease);
-  
+
+    @include tablet {
+      display: none;
+      }
+
+    @include mobile {
+      display: none;
+      }
+
+    @include mobile-xs {
+      display: none;
+      }
   }
 
   .button:hover {
@@ -147,15 +154,32 @@
     transition: all 0.3s ease;
     border: 1px solid;
     border-radius: 5px;
+    width: 100%;
+    height: 500px;
   }
 
-  #myIframe.desktop {
-    width: 100%;
-    height: 800px;
-  }
+  // #myIframe.desktop {
+  //   width: 100%;
+  //   height: 800px;
+  //   }
 
   #myIframe.mobile {
     width: 80%;
     height: 500px;
+
+    @include tablet {
+    width: 100%;
+    height: 500px;
+      }
+
+    @include mobile {
+      width: 100%;
+      height: 500px;
+        }
+
+    @include mobile-xs {
+      width: 100%;
+      height: 500px;
+        }
   }
 }

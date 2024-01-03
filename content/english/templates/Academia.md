@@ -1,6 +1,6 @@
 ---
 title: "Academia"
-description: "Brochure Style Website. Customizable For Business or Personal Use."
+description: "Brochure Style Website. Customizable For Freelancer or Small Business Use."
 draft: false
 image : "images/portfolio/Academia-Template.jpg"
 bg_image: "images/feature-bg.svg"

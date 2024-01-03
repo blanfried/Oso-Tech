@@ -989,12 +989,18 @@ header .navbar-default .navbar-nav li a:hover {
   .portfolio-single-page .project-details ul li {
     margin-bottom: 10px; }
   .portfolio-single-page .button {
-    background-color: #0062CCC9;
-    border-radius: 7px;
-    color: white;
-    padding: 10px;
-    margin: 10px;
-    cursor: pointer; }
+    background: #0062ccc9;
+    color: #ffffff;
+    display: inline-block;
+    font-size: 16px;
+    letter-spacing: 1px;
+    padding: 14px 20px;
+    border-radius: 0;
+    -webkit-transition: all 0.2s ease;
+    -moz-transition: all 0.2s ease;
+    -ms-transition: all 0.2s ease;
+    -o-transition: all 0.2s ease;
+    transition: all 0.2s ease; }
   .portfolio-single-page .button:hover {
     background-color: #023062; }
   .portfolio-single-page #myIframe {

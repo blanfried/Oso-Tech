@@ -12,11 +12,6 @@ url = "about/"
 weight = 2
 
 [[main]]
-name = "Services"
-url = "services/"
-weight = 3
-
-[[main]]
 name = "Plans"
 url = "plans/"
 weight = 4
@@ -26,41 +21,48 @@ name = "Contact"
 url = "contact/"
 weight = 5
 
-# Stripe Customer Portal 
+
 [[main]]
-name = "Account"
-url = "https://billing.osows.com/p/login/28odTm8gZgVm73G7ss"
 weight = 6
+name = "More"
+hasChildren = true
 
-[[main]]
-name = "+1 (888) 716-9467"
-url = "contact/"
-weight = 7
+  [[main]]
+  parent = "More"
+  name = "Services"
+  url = "services/"
+  weight = 1
 
+  [[main]]
+  parent = "More"
+  name = "Templates"
+  url = "templates/"
+  weight = 2
 
-
-# [[main]]
-# weight = 7
-# name = "More"
-# hasChildren = true
-
-  # [[main]]
-  # parent = "More"
-  # name = "Templates"
-  # url = "templates/"
-  # weight = 2
+  [[main]]
+  parent = "More"
+  name = "FAQ"
+  url = "faq/"
+  weight = 3
 
   # [[main]]
   # parent = "More"
   # name = "Blog"
   # url = "blog/"
-  # weight = 3
-
-  # [[main]]
-  # parent = "More"
-  # name = "FAQ"
-  # url = "faq/"
   # weight = 4
+
+
+# Stripe Customer Portal 
+[[main]]
+name = "Account"
+url = "https://billing.osows.com/p/login/28odTm8gZgVm73G7ss"
+weight = 7
+
+[[main]]
+name = "+1 (888) 716-9467"
+url = "contact/"
+weight = 8
+
 
 
 

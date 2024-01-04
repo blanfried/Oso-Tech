@@ -692,7 +692,7 @@ header .navbar-default .navbar-nav li a:hover {
       .navigation .navbar .navbar-nav select {
         margin: 10px 15px; }
     .navigation .navbar .current > .dropdown-toggle {
-      color: #000000; }
+      color: #7b7b7b; }
     .navigation .navbar .dropdown-menu {
       border-radius: 0;
       border: none;

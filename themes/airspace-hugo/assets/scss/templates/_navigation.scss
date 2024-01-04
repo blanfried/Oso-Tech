@@ -74,7 +74,10 @@
       border: none;
       left: -5px;
       box-shadow: 0px 0 25px 0 rgba(0, 0, 0, 0.08);
+
+      @include mobile {
       margin-top: 10px;
+      }
 
       a {
         text-transform: none;
@@ -97,6 +100,7 @@
       }
 
       .dropdown-item {
+        padding-left: 5px;
         @include mobile {
           padding: 10px 10px 10px 10px;
           // line-height: 0px;

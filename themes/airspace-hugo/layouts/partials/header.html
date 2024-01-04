@@ -40,7 +40,7 @@
               {{ range .Children }}
               {{ $childURL := .URL | absLangURL }}
               {{ $active := eq $childURL $pageURL }}
-              <li class="text-center"><a class="dropdown-item {{ if $active }}current{{ end }} text-center" {{if findRE `^http` .URL}}target="_blank" rel="noopener" {{end}}
+              <li><a class="dropdown-item {{ if $active }}current{{ end }} text-center" {{if findRE `^http` .URL}}target="_blank" rel="noopener" {{end}}
                 href="{{if findRE `^#` .URL}}{{if not $.IsHome}}{{site.BaseURL | relLangURL}}{{end}}{{.URL}}{{else}}{{.URL | relLangURL}}{{end}}">{{ .Name }}</a></li>
               {{ end }}
             </ul>

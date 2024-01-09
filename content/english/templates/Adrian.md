@@ -1,12 +1,12 @@
 ---
 title: "Adrian"
-description: "E-commerce Style Website. Customizable For Freelancer or Small Business Use."
+description: "E-commerce Style Website"
 draft: false
-image : "images/portfolio/Adrian-Template.jpg"
+image : "images/portfolio/adrian.jpg"
 bg_image: "images/slider-bg.svg"
 category: [ "E-commerce" ]
 information:
-  - label : "Type of Website"
+  - label : "Type"
     info : "E-commerce"
   - label : "Time to Completion"
     info : "1-2 Months"

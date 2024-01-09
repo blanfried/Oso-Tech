@@ -1,6 +1,6 @@
 ---
 title: "Our Templates"
-description: "Choose your design | Every template is fully customizable | (More designs coming soon!)"
+description: "All templates are customizable for Personal, Freelancer, or Small Business Use | (More designs coming soon!)"
 draft: false
 bg_image: "images/slider-bg.svg"
 ---

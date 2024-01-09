@@ -71,3 +71,13 @@ draft: false
   >   > * Beyond three days you might not receive any refund. We encourage you to contact us anyway and hopefully we can work something out.
   >   >   > * Any negotiated refund will be based on the amount of days since your original purchase and the labor already spent.
   >   >   > * In most cases, however, you will not receive any refund beyond the three day mark.
+
+---
+
+#### 7. Templates
+* The credit for our Templates properly goes to:
+  > * GetHugoThemes.com
+  > * Themefisher.com
+* We have opted to host these sites as previews ourselves for cohesion purposes on Osows.com. Our Web Developers are skilled in the conversion of these templates into new customized forms for our clients. We have all rights necessary to conduct said conversion for our clients and use these templates as we see fit.
+
+---

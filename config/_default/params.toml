@@ -12,7 +12,7 @@ logo_text = "Osows"
 navbar_fixed = true
 # OpenGraph / Twitter Card metadata
 description = "This is meta description"
-author = "Themefisher"
+author = "Osows"
 image = "images/logo.svg" # this image will be used as fallback if a page has no image of its own
 # Whether to display text descriptors (like "E-mail: ", "Phone: ") before the address block elements
 address_descriptors = false
@@ -24,7 +24,7 @@ location = """
 New York, New York
 """
 # copyright
-copyright = "Copyright **Oso Group Inc.**"
+copyright = "Copyright **Oso Group Incorporated**"
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
 custom_script= ""
 # google tag manager, see https://developers.google.com/tag-manager/

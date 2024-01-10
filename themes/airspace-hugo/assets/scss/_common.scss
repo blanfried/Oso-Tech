@@ -112,14 +112,15 @@ input[type="tel"] {
 // Button Style
 
 .btn-main {
-  background: $color-primary;
-  color: $white;
+  background: #08125c;
+  // background: #d0e3ff;
+  color: #f7f2eb;
   display: inline-block;
   font-size: 16px;
   letter-spacing: 1px;
   padding: 14px 20px;
   // text-transform: uppercase;
-  border-radius: 0;
+  border-radius: 20px;
   @include transition (all, 0.2s, ease);
 
   &.btn-icon {
@@ -131,8 +132,8 @@ input[type="tel"] {
   }
 
   &:hover {
-    background: darken($color-primary, 20.3%);
-    color: $white;
+    background: #d0e3ff;
+    // color: $white;
   }
 }
 

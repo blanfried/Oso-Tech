@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,800&display=swap');
+
 .slider {
   background-repeat: no-repeat;
   background-size: cover;
@@ -17,10 +19,8 @@
     h1 {
       font-weight: 400;
       font-size: 45px;
-      line-height: 1.33em;
-      letter-spacing: 0.1em;
-      padding-bottom: 15px;
-      color: #ffff;
+      font-family: 'Poppins', sans-serif;      padding-bottom: 15px;
+      color: #f7f2eb;
       font-display: swap;
       // text-transform: uppercase;
 

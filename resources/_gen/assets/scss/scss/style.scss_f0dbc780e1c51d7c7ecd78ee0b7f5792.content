@@ -2,7 +2,6 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:300,400,500,600);
 @import url(https://fonts.googleapis.com/css?family=Volkhov:400italic);
-@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,800&display=swap");
 body {
   line-height: 1.5;
   font-family: "Roboto", sans-serif;
@@ -152,6 +151,7 @@ input[type="tel"] {
   display: inline-block;
   font-size: 16px;
   letter-spacing: 1px;
+  font-family: 'Lora', serif;
   padding: 14px 20px;
   border-radius: 20px;
   -webkit-transition: all 0.2s ease;
@@ -792,11 +792,11 @@ header .navbar-default .navbar-nav li a:hover {
     text-align: center; }
     .slider .block h1 {
       font-weight: 400;
-      font-size: 45px;
+      font-size: 65px;
       font-family: 'Poppins', sans-serif;
-      padding-bottom: 15px;
       color: #f7f2eb;
-      font-display: swap; }
+      font-display: swap;
+      padding-bottom: 30px; }
       @media (max-width: 768px) {
         .slider .block h1 {
           font-weight: 400;
@@ -1600,11 +1600,15 @@ header .navbar-default .navbar-nav li a:hover {
 .about .block h2 {
   padding-top: 10px;
   padding-bottom: 30px;
-  margin: 0; }
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  font-size: 55px; }
 
 .about .block p {
   padding-top: 0px;
-  line-height: 28px; }
+  line-height: 23px;
+  font-family: 'Lora', sans-serif;
+  font-size: 20px; }
 
 .about .block img {
   width: 100%; }

@@ -4,7 +4,7 @@ banner:
   enable: true
   bg_image: "images/feature-bg.svg"
   bg_overlay: true
-  title: "Your In-House Programmer"
+  title: "Your Programmer"
   content: ""
   button:
     enable: true

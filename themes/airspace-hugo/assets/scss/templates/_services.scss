@@ -1,6 +1,7 @@
 .service {
   text-align: center;
   padding: 90px 0;
+  color: #4D4D4D;
 
   @include tablet {
     padding-top: 20px;
@@ -15,7 +16,7 @@
     i {
       font-size: 50px;
       // color: $color-primary;
-      color: #08125c;
+      color: #d0e3ff;
     }
 
     h4 {
@@ -23,12 +24,14 @@
       margin: 0;
       margin-top: 10px;
       font-weight: 500;
+      color: #4D4D4D;
       // text-transform: uppercase;
     }
 
     p {
       padding-top: 10px;
       margin: 0;
+      color: #4D4D4D;
     }
   }
 }
@@ -67,6 +70,7 @@
 .service-about {
   p {
     line-height: 28px;
+    color: #4D4D4D;
   }
 }
 

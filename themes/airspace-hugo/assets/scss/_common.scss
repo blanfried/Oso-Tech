@@ -314,6 +314,7 @@ input[type="tel"] {
 
 .section-title {
   margin-bottom: 70px;
+  color: #4D4D4D;
 
   @include tablet {
     margin-bottom: 20px;
@@ -324,14 +325,16 @@ input[type="tel"] {
     font-weight: 600;
     font-size: 40px;
     margin: 0px;
+    color: #4D4D4D;
     padding: 30px 0px;
   }
 
   p {
     font-style: italic;
-    color: darken( $light, 100);
+    // color: darken( $light, 100);
     font-family: $font-secondary;
     font-size: 20px;
+    color: #4D4D4D;
   }
 }
 
@@ -440,6 +443,7 @@ input[type="tel"] {
 
 .fun-facts-subtitles {
   font-size: 17px;
+  color: #4D4D4D;
 }
 
 
@@ -733,7 +737,7 @@ input[type="tel"] {
     width: 100%;
     height: 100%;
     // background: darken($color-primary, 25);
-    background: #08125c;
+    // background: #08125c;
     opacity: 1;
   }
 }

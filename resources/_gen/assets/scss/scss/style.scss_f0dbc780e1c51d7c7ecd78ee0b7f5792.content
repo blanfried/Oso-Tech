@@ -285,7 +285,8 @@ input[type="tel"] {
     margin-bottom: 30px; }
 
 .section-title {
-  margin-bottom: 70px; }
+  margin-bottom: 70px;
+  color: #4D4D4D; }
   @media (max-width: 768px) {
     .section-title {
       margin-bottom: 20px; } }
@@ -293,12 +294,13 @@ input[type="tel"] {
     font-weight: 600;
     font-size: 40px;
     margin: 0px;
+    color: #4D4D4D;
     padding: 30px 0px; }
   .section-title p {
     font-style: italic;
-    color: black;
     font-family: "Volkhov", serif;
-    font-size: 20px; }
+    font-size: 20px;
+    color: #4D4D4D; }
 
 .index-about-content p {
   color: black;
@@ -369,7 +371,8 @@ input[type="tel"] {
     font-weight: 300; }
 
 .fun-facts-subtitles {
-  font-size: 17px; }
+  font-size: 17px;
+  color: #4D4D4D; }
 
 .page-wrapper {
   padding: 70px 0; }
@@ -545,7 +548,6 @@ input[type="tel"] {
     right: 0;
     width: 100%;
     height: 100%;
-    background: #08125c;
     opacity: 1; }
 
 .owl-dots .owl-dot.active span,
@@ -673,7 +675,7 @@ header .navbar-default .navbar-nav li a:hover {
           padding-top: 0px;
           padding-right: 0px; } }
       .navigation .navbar .navbar-nav a {
-        color: #7b7b7b;
+        color: #4D4D4D;
         padding: 0px 15px;
         font-weight: 500;
         font-size: 14px; }
@@ -681,7 +683,7 @@ header .navbar-default .navbar-nav li a:hover {
           .navigation .navbar .navbar-nav a {
             font-size: 16px; } }
         .navigation .navbar .navbar-nav a:hover, .navigation .navbar .navbar-nav a:focus {
-          color: #0062ccc9;
+          color: #081F5C;
           background: transparent; }
       .navigation .navbar .navbar-nav a.current {
         color: #000000;
@@ -833,22 +835,25 @@ header .navbar-default .navbar-nav li a:hover {
       padding-top: 20px;
       padding-bottom: 20px; } }
   .call-to-action h2 {
-    color: #ffffff;
+    color: #4D4D4D;
     margin: 0px;
     padding: 30px 0px;
     font-size: 40px; }
   .call-to-action p {
-    color: #ffffff;
+    color: #4D4D4D;
     font-size: 20px; }
   .call-to-action .btn-main, .call-to-action .btn-transparent, .call-to-action .btn-small {
     padding: 15px 35px;
     font-size: 15px;
     margin-top: 30px;
-    margin-bottom: 30px; }
+    margin-bottom: 30px;
+    color: #4D4D4D;
+    border-color: #4D4D4D; }
 
 .service {
   text-align: center;
-  padding: 90px 0; }
+  padding: 90px 0;
+  color: #4D4D4D; }
   @media (max-width: 768px) {
     .service {
       padding-top: 20px;
@@ -859,15 +864,17 @@ header .navbar-default .navbar-nav li a:hover {
     margin-bottom: 70px; }
     .service .service-item i {
       font-size: 50px;
-      color: #08125c; }
+      color: #d0e3ff; }
     .service .service-item h4 {
       padding-top: 15px;
       margin: 0;
       margin-top: 10px;
-      font-weight: 500; }
+      font-weight: 500;
+      color: #4D4D4D; }
     .service .service-item p {
       padding-top: 10px;
-      margin: 0; }
+      margin: 0;
+      color: #4D4D4D; }
 
 .dark-service .title {
   color: #ffffff; }
@@ -890,7 +897,8 @@ header .navbar-default .navbar-nav li a:hover {
     margin: 0; }
 
 .service-about p {
-  line-height: 28px; }
+  line-height: 28px;
+  color: #4D4D4D; }
 
 .service-arrow .block {
   padding: 70px 30px; }
@@ -924,9 +932,9 @@ header .navbar-default .navbar-nav li a:hover {
     padding-top: 30px;
     padding-bottom: 30px;
     font-size: 40px;
-    color: #ffff; }
+    color: #4D4D4D; }
   .feature p {
-    color: #ffff;
+    color: #4D4D4D;
     margin-bottom: 20px;
     margin: 9px;
     font-size: 20px; }
@@ -1073,7 +1081,8 @@ header .navbar-default .navbar-nav li a:hover {
     width: 50%;
     float: left;
     text-align: center;
-    margin: 30px 0 30px; }
+    margin: 30px 0 30px;
+    color: #4D4D4D; }
     @media (max-width: 768px) {
       .testimonial .counter-box li {
         margin-top: 0px; } }
@@ -1082,11 +1091,13 @@ header .navbar-default .navbar-nav li a:hover {
     padding: 24px; }
     .testimonial .testimonial-carousel i {
       font-size: 35px;
-      margin-bottom: 20px; }
+      margin-bottom: 20px;
+      color: #4D4D4D; }
     .testimonial .testimonial-carousel p {
       font-family: "Volkhov", serif;
       line-height: 28px;
-      padding-bottom: 20px; }
+      padding-bottom: 20px;
+      color: #4D4D4D; }
     .testimonial .testimonial-carousel .user img {
       padding-bottom: 0px;
       border-radius: 500px;
@@ -1601,6 +1612,7 @@ header .navbar-default .navbar-nav li a:hover {
   padding-top: 10px;
   padding-bottom: 30px;
   font-family: 'Lora', serif;
+  color: #4D4D4D;
   margin: 0;
   font-size: 48px; }
 
@@ -1608,7 +1620,8 @@ header .navbar-default .navbar-nav li a:hover {
   padding-top: 0px;
   line-height: 23px;
   font-family: 'Lora', sans-serif;
-  font-size: 20px; }
+  font-size: 20px;
+  color: #4D4D4D; }
 
 .about .block img {
   width: 100%; }
@@ -2360,6 +2373,7 @@ header .navbar-default .navbar-nav li a:hover {
   .footer p {
     font-size: 13px;
     line-height: 25px;
+    color: #4D4D4D;
     color: #919191; }
   .footer a {
     color: #595959; }
@@ -2376,7 +2390,7 @@ header .navbar-default .navbar-nav li a:hover {
         margin-bottom: 10px; }
         .footer .footer-menu ul li a {
           display: inline-block;
-          color: #494949; }
+          color: #4D4D4D; }
           .footer .footer-menu ul li a:hover {
             color: #000000; }
       @media (max-width: 480px) {

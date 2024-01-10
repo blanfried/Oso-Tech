@@ -2,7 +2,7 @@
 ############################### Banner ##############################
 banner:
   enable: true
-  bg_image: "images/slider-bg.svg"
+  bg_image: "images/feature-bg.svg"
   bg_overlay: true
   title: "Your In-House Programmer"
   content: ""

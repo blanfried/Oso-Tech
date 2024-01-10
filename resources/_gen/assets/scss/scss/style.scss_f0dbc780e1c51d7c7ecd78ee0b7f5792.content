@@ -6,7 +6,7 @@ body {
   line-height: 1.5;
   font-family: "Roboto", sans-serif;
   -webkit-font-smoothing: antialiased;
-  background-color: #f5f5f54d; }
+  background-color: #f7f2eb; }
 
 h1,
 h2,
@@ -653,7 +653,7 @@ header .navbar-default .navbar-nav li a:hover {
           color: #000000; }
 
 .navigation {
-  background: rgba(245, 245, 245, 0.99);
+  background: #f7f2eb;
   padding-bottom: 0px;
   z-index: 9991;
   box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.25); }
@@ -794,7 +794,7 @@ header .navbar-default .navbar-nav li a:hover {
       font-weight: 400;
       font-size: 45px;
       line-height: 1.33em;
-      letter-spacing: 0.2em;
+      letter-spacing: 0.1em;
       padding-bottom: 15px;
       color: #ffff;
       font-display: swap; }
@@ -860,7 +860,7 @@ header .navbar-default .navbar-nav li a:hover {
     margin-bottom: 70px; }
     .service .service-item i {
       font-size: 50px;
-      color: #0062ccc9; }
+      color: #08125c; }
     .service .service-item h4 {
       padding-top: 15px;
       margin: 0;
@@ -924,9 +924,10 @@ header .navbar-default .navbar-nav li a:hover {
     margin: 9px;
     padding-top: 30px;
     padding-bottom: 30px;
-    font-size: 40px; }
+    font-size: 40px;
+    color: #ffff; }
   .feature p {
-    color: black;
+    color: #ffff;
     margin-bottom: 20px;
     margin: 9px;
     font-size: 20px; }
@@ -2349,7 +2350,7 @@ header .navbar-default .navbar-nav li a:hover {
     margin-bottom: 40px; }
 
 .footer {
-  background: #f1f1f1;
+  background: #f7f2eb;
   min-height: 205px;
   text-align: center;
   padding-top: 67px; }

@@ -164,7 +164,7 @@ input[type="tel"] {
     vertical-align: middle;
     margin-right: 5px; }
   .btn-main:hover, .btn-small:hover, .btn-transparent:hover {
-    background: #d0e3ff; }
+    background: transparent; }
 
 .btn-solid-border {
   border: 1px solid #ffffff;
@@ -802,15 +802,15 @@ header .navbar-default .navbar-nav li a:hover {
       @media (max-width: 768px) {
         .slider .block h1 {
           font-weight: 400;
-          font-size: 45px; } }
+          font-size: 60px; } }
       @media (max-width: 480px) {
         .slider .block h1 {
           font-weight: 400;
-          font-size: 40px; } }
+          font-size: 55px; } }
       @media (max-width: 400px) {
         .slider .block h1 {
           font-weight: 400;
-          font-size: 35px; } }
+          font-size: 45px; } }
     .slider .block p {
       margin-bottom: 45px;
       color: #b5b5b5;
@@ -848,9 +848,10 @@ header .navbar-default .navbar-nav li a:hover {
     margin-top: 30px;
     margin-bottom: 30px;
     color: #4D4D4D;
-    border-color: #4D4D4D; }
-  .call-to-action .btn-main:hover, .call-to-action .btn-transparent:hover, .call-to-action .btn-small:hover {
+    border-color: #4D4D4D;
     background-color: #D0E3FF; }
+  .call-to-action .btn-main:hover, .call-to-action .btn-transparent:hover, .call-to-action .btn-small:hover {
+    background-color: transparent; }
 
 .service {
   text-align: center;
@@ -946,6 +947,8 @@ header .navbar-default .navbar-nav li a:hover {
     padding: 10px 20px;
     margin-bottom: 30px;
     margin: 9px; }
+  .feature .btn-view-works:hover {
+    color: black; }
 
 .portfolio-work {
   padding: 80px 0; }

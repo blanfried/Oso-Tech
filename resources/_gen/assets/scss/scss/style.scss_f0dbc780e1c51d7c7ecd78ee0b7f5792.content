@@ -851,7 +851,8 @@ header .navbar-default .navbar-nav li a:hover {
     border-color: #4D4D4D;
     background-color: #D0E3FF; }
   .call-to-action .btn-main:hover, .call-to-action .btn-transparent:hover, .call-to-action .btn-small:hover {
-    background-color: transparent; }
+    background-color: transparent;
+    border-color: transparent; }
 
 .service {
   text-align: center;

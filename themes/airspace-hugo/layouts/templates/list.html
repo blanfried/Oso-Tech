@@ -32,9 +32,11 @@
             {{ if not (reflect.IsSlice $cats) }}{{ $cats = slice ($cats) }}{{ end -}}
             {{ $cats = apply $cats "urlize" "." | jsonify -}}
             <div class="col-md-4 portfolio-item shuffle-item" data-groups="{{ $cats }}">
-              {{ if isset .Params "image" -}}
+              <!-- {{ if isset .Params "image" -}}
               <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}">
-              {{- end }}
+              {{- end }} -->
+              <!-- Removed need for defining image in each template (Make sure each image has proper title, e.g. Agen with capital "A") -->
+              <img src="/images/portfolio/{{ .Title}}.jpg" alt="{{ .Title }}">
               <div class="portfolio-hover">
                 <div class="portfolio-content">
                   <a class="h3" href="{{ .RelPermalink }}">{{ .Title }}</a>

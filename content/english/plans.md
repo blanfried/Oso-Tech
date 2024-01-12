@@ -13,7 +13,8 @@ pricing:
   - name : "In-House Programmer Package"
     price: "$183 - $219"
     content : "Perfect For Businesses With an Existing Website."
-    link : "https://billing.osows.com/b/fZe15X8VTatc7dK7sB"
+    # Commented out until launch
+    # link : "https://billing.osows.com/b/fZe15X8VTatc7dK7sB"
     services:
     - Websites Up To **6 Pages** (See our [FAQ](../faq/) or [Contact Us](../contact/) for more details)
     - 10 Website Customizations Per Month
@@ -33,7 +34,8 @@ pricing:
   - name : "Professionally Coded Website Package"
     price: "$333 - $399"
     content : "Perfect For Businesses Looking to Increase Their Web Traffic or With No Existing Website."
-    link : "https://billing.osows.com/b/eVaaGxgolgRAcy4cMX"
+    # Commented out until launch
+    # link : "https://billing.osows.com/b/eVaaGxgolgRAcy4cMX"
     services:
     - "**The Website:**"
     -  Up To **6 Pages** (See our [FAQ](../faq/) or [Contact Us](../contact/) for more details)

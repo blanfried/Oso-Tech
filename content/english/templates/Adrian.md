@@ -2,7 +2,7 @@
 title: "Adrian"
 description: "E-commerce Style Website"
 draft: false
-image : "images/portfolio/adrian.jpg"
+# image : "images/portfolio/adrian.jpg"
 bg_image: "images/slider-bg.svg"
 category: [ "E-commerce" ]
 information:

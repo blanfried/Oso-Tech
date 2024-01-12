@@ -2,7 +2,7 @@
 title: "Agico"
 description: "Agency Style Website"
 draft: false
-image : "images/portfolio/agico.jpg"
+# image : "images/portfolio/agico.jpg"
 bg_image: "images/slider-bg.svg"
 category: [ "Agency", "SaaS"]
 information:

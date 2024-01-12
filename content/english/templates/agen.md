@@ -2,7 +2,7 @@
 title: "Agen"
 description: "Agency Style Website"
 draft: false
-image : "images/portfolio/agen.jpg"
+# image : "images/portfolio/agen.jpg"
 bg_image: "images/slider-bg.svg"
 category: [ "Agency", "SaaS"]
 information:

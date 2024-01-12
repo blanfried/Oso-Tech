@@ -2,7 +2,7 @@
 title: "Academia"
 description: "Brochure Style Website"
 draft: false
-image : "images/portfolio/academia.jpg"
+# image : "images/portfolio/academia.jpg"
 bg_image: "images/slider-bg.svg"
 category: [ "Personal", "Brochure" ]
 information:

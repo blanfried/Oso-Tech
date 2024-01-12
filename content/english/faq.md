@@ -63,15 +63,14 @@ draft: false
 
 #### 6. Refunds and Cancellation
 * We currently allow cancellations and refunds if done under the following terms:
-  > * Cancellations
-  > * In-House Programmer Package
+  > * In-House Programmer Package:
   >   > * You will receive a 100% refund if you cancel your plan within three days of the original purchase.
   >   >   > * To do so you must contact us saying you wish to cancel and also provide your order number.
   >   > * Beyond three days you might not receive any refund for the month in which the subscription was originally purchased. We encourage you to contact us anyway and hopefully we can work something out.
   >   > * If you decide to cancel your subscription before the next billing cycle, you will retain our services for the duration of the paid for billing cycle. For the following billing cycle, you will no longer be charged and the services previously purchased from Osows will cease.
   >   >   > * Any negotiated refund will be based on the amount of days since your original purchase and the labor already spent.
   >   >   > * In most cases, however, you will not receive any refund beyond the three day mark.
-  > * Professionnally Coded Website Package
+  > * Professionally Coded Website Package:
   >   > * You will receive a 100% refund if you cancel your plan within three days of the original purchase.
   >   >   > * To do so you must contact us saying you wish to cancel and also provide your order number.
   >   > * Beyond three days you might not receive any refund. We encourage you to contact us anyway and hopefully we can work something out.

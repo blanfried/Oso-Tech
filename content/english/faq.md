@@ -31,6 +31,7 @@ draft: false
   > * Portfolio
   > * Our Users
   > * Our Clients
+  > * Our Team
 
 ---
 

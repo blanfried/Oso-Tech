@@ -382,13 +382,14 @@ input[type="tel"] {
 
     h1 {
       font-weight: 2000;
-      font-size: 430%;
+      font-size: 80px;
       line-height: 1.33em;
-      letter-spacing: 0.15em;
+      letter-spacing: 0.05em;
       padding-bottom: 15px;
       color: $white;
       font-display: swap;
       margin-top: 0;
+      font-family: 'Lora', serif;
 
       @include tablet {
         font-weight: 400;
@@ -412,6 +413,7 @@ input[type="tel"] {
     p {
       color: #ffff;
       font-size: 20px;
+      font-family: 'Lora', serif;
     }
   }
   @include mobile {
@@ -429,6 +431,7 @@ input[type="tel"] {
     font-size: 30px;
     line-height: 40px;
     font-weight: 400;
+    font-family: 'Lora', serif;
   }
 
   p {
@@ -436,6 +439,7 @@ input[type="tel"] {
     line-height: 40px;
     color: lighten( $black, 0);
     font-weight: 300;
+    font-family: 'Lora', serif;
   }
 }
 
@@ -444,6 +448,7 @@ input[type="tel"] {
 .fun-facts-subtitles {
   font-size: 17px;
   color: #4D4D4D;
+  font-family: 'Lora', serif;
 }
 
 
@@ -471,7 +476,7 @@ input[type="tel"] {
         display: inline-block;
         padding: 7px 12px;
         color: $white;
-
+        font-family: 'Lora', serif;
       }
 
       .twitter {

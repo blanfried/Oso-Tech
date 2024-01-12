@@ -1,6 +1,6 @@
 ---
 title: "Bexer"
-description: "B2B Agency Style Website"
+description: "Agency Style Website"
 draft: false
 # image : "images/portfolio/andromeda.jpg"
 bg_image: "images/slider-bg.svg"

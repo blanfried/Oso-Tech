@@ -1066,7 +1066,7 @@ header .navbar-default .navbar-nav li a:hover {
     transition: all 0.3s ease;
     border: 1px solid;
     border-radius: 5px;
-    width: 100%;
+    width: 110%;
     height: 700px; }
   .portfolio-single-page #myIframe.mobile {
     width: 80%;

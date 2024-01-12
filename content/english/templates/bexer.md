@@ -4,10 +4,10 @@ description: "B2B Agency Style Website"
 draft: false
 # image : "images/portfolio/andromeda.jpg"
 bg_image: "images/slider-bg.svg"
-category: [ "B2B Agency", "Agency", "SaaS"]
+category: ["Agency", "SaaS"]
 information:
   - label : "Type"
-    info : "Agency or SaaS"
+    info : "Agency, SaaS"
   - label : "Time to Completion"
     info : "1-2 Months"
 ---

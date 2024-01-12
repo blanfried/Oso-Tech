@@ -7,7 +7,7 @@ bg_image: "images/slider-bg.svg"
 category: [ "Personal", "Brochure" ]
 information:
   - label : "Type"
-    info : "Personal"
+    info : "Personal, Brochure"
   - label : "Time to Completion"
     info : "1-2 Months"
 ---

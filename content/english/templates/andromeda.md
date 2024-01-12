@@ -7,7 +7,7 @@ bg_image: "images/slider-bg.svg"
 category: [ "Agency", "SaaS"]
 information:
   - label : "Type"
-    info : "Agency or SaaS"
+    info : "Agency, SaaS"
   - label : "Time to Completion"
     info : "1-2 Months"
 ---

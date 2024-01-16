@@ -14,26 +14,13 @@ banner:
 ############################# About #################################
 about:
   enable: true
-  title: "What We Do For Small Businesses"
+  title: "What We Do"
   description: " With Osows there are two paths:
     <br/> <br/>"
 
-  content: "**1. In-House Programmer**
-  <br/>
-  <br/> You have an existing website.
-  <br/>
-  <br/> We look after it for you, maximize SEO, and are always on call to customize or troubleshoot.
-  <br/>
-  <br/> You sit back, watch it boost sales, and never worry about it again.
-  <br/> <br/> <br/>
-            **2. Professionally Coded Website**
-  <br/>
-  <br/> We professionally code a website for your business.
-  <br/>
-  <br/> Superb SEO and performance beyond anything shopify, wordpress, Wix, or any CMS website could do.
-  <br/>
-  <br/> Once launched, we are your In-House Programmer as long as you need a website.
-  <br/> <br/>"
+  content: "**1. Professionally Coded Websites**
+            **2. Website Management**
+            "
   image: "images/wrapper-img.svg"
   button:
     enable: true

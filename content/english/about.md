@@ -9,7 +9,7 @@ draft: false
 ################################## About #####################################
 about:
   enable : true
-  image : "images/company/about.jpg"
+  image : "images/company/about.svg"
   title : "Devoted to Small Businesses"
   content : "
 <br/>Being one ourselves, we understand the stress and tribulations a small business has to go through. We are just lucky that we know how to code and all the legal matters that go into a website. Most small businesses are not so lucky and have hardly any time to put into this area.<br/>

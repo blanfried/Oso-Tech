@@ -16,7 +16,7 @@ about:
 <br/>
 <br/> Therefore, with Osows your custom website will be blazing fast. Google will favor it and your users will love it, thus leading to exponential conversion rates and a massive boost in revenue over time.
           "
-  image : "images/company/company-group-pic.jpg"
+  image : "images/wrapper-img.svg"
 
 
 ########################## featured service ############################

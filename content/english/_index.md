@@ -19,8 +19,9 @@ about:
     <br/> <br/>"
 
   content: "**1. Professionally Coded Websites**
-            **2. Website Management**
-            "
+  <br/>
+  <br/>     **2. Website Management**
+  <br/> <br/>"
   image: "images/wrapper-img.svg"
   button:
     enable: true

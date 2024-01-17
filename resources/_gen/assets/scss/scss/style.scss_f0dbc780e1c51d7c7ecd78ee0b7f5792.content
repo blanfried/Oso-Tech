@@ -1682,15 +1682,6 @@ header .navbar-default .navbar-nav li a:hover {
 
 .about .about-img {
   overflow: hidden; }
-  .about .about-img:hover img {
-    transform: scale3D(1.1, 1.1, 1); }
-  .about .about-img img {
-    opacity: .6;
-    -webkit-transition: all 0.5s ease-out;
-    -moz-transition: all 0.5s ease-out;
-    -ms-transition: all 0.5s ease-out;
-    -o-transition: all 0.5s ease-out;
-    transition: all 0.5s ease-out; }
 
 .about .section-title {
   margin-bottom: 0px; }

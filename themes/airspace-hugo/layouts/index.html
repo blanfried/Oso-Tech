@@ -55,7 +55,7 @@
           {{ with .content1 }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
         </div>
         </div>      
-        
+
         {{ partial "featured-service.html" . }}
   
         {{ with .button }}
@@ -82,7 +82,7 @@
 <section class="feature bg-2" style="background-image: url('{{ .bg_image | relURL }}')">
   <div class="container">
     <div class="row">
-      <div class="">
+      <div class="text-center">
         {{ with .title }}<h2 class="section-subtitle">{{ . | markdownify }}</h2>{{ end }}
         {{ with .content }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
         {{ with .button }}

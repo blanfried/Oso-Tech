@@ -36,9 +36,8 @@ portfolio:
   enable: true
   bg_image: "images/feature-bg.svg"
   title: "An Additional 1.5 Billion Potential Clients"
-  content: " Get ahead of 97% of your competition. 
+  content: " Get ahead of 96.7% of your competition. 
   <br/><br/>
-  Be accessible to an additional 1.5 Billion people globally. <br/> <br/>
 
   Our [Packages](plans/) include full accessibility compliance.<br/>
   

@@ -3,6 +3,7 @@
     "tags": [
       "a",
       "aside",
+      "base",
       "blockquote",
       "body",
       "br",
@@ -50,6 +51,7 @@
       "active",
       "address-block",
       "animated",
+      "bg-",
       "bg-1",
       "bg-2",
       "bg-dark",

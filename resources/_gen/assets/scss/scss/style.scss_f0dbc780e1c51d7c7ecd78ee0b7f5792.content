@@ -164,7 +164,8 @@ input[type="tel"] {
     vertical-align: middle;
     margin-right: 5px; }
   .btn-main:hover, .btn-small:hover, .btn-transparent:hover {
-    background: transparent; }
+    background: transparent;
+    color: #4D4D4D; }
 
 .btn-solid-border {
   border: 1px solid #ffffff;
@@ -1649,7 +1650,7 @@ header .navbar-default .navbar-nav li a:hover {
   font-family: 'Lora', serif;
   color: #4D4D4D;
   margin: 0;
-  font-size: 80px;
+  font-size: 60px;
   letter-spacing: 4px; }
   @media (max-width: 480px) {
     .about .block h2 {
@@ -1658,7 +1659,7 @@ header .navbar-default .navbar-nav li a:hover {
   padding-top: 0px;
   line-height: 60px;
   font-family: 'Lora', sans-serif;
-  font-size: 50px;
+  font-size: 40px;
   color: #4D4D4D;
   letter-spacing: 3px;
   margin-top: 20px;

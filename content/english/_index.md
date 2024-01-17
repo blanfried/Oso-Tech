@@ -18,10 +18,14 @@ about:
   description: " With Osows there are two paths:
     <br/> <br/>"
 
-  content: "**1. Professionally Coded Websites**
+  content: "**Professionally Coded Websites**
   <br/> <br/>"
-  content1: "**2. Website Management**
+  content1: "**Website Management**
   <br/> <br/>"
+
+  featured_service:
+  enable : true
+
   image: "images/wrapper-img.svg"
   button:
     enable: true

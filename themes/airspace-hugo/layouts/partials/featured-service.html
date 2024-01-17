@@ -1,0 +1,20 @@
+{{ with site.GetPage "/services" }}
+{{ with .Params.featured_service }}
+<section class="service-arrow">
+  <div class="container-fluid">
+    <div class="row">
+      {{ range .service_item }}
+      <div class="col-md-4 bg-primary bg-{{ .color }} no-float">
+        <div class="block">
+          <i class="{{ .icon }}"></i>
+          {{ with .name }}<h3>{{ . | markdownify }}</h3>{{ end }}
+          {{ with .content }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+

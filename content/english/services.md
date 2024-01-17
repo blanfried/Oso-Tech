@@ -30,13 +30,13 @@ featured_service:
       content : "Or you just are not ready to make the switch to a professionally coded website."
 
     # featured service item loop
-    - name : "We Can Still Maximize SEO!"
+    - name : "We Can Maximize SEO"
       icon : "fas fa-sort-amount-up"
       color : "primary-dark"
       content : "We will dive into the code behind your website. After removing unnecessary clunk and making a few tweaks, it will perform as best as it possibly can."
 
     # featured service item loop
-    - name : "We Will Stay With You"
+    - name : "And Provide Continuous Updates and Care"
       icon : "fas fa-handshake"
       color : "primary-darker"
       content : "As your business scales we continually update your site to maintain SEO.

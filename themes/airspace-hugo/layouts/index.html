@@ -54,7 +54,10 @@
           <div class="index-about-content">
           {{ with .content1 }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
         </div>
-        </div>
+        </div>      
+        
+        {{ partial "featured-service.html" . }}
+  
         {{ with .button }}
         {{ if .enable }}
         <a href="{{ .link | relLangURL }}" class="btn service-btn">{{ .label }}</a>

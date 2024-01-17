@@ -255,13 +255,13 @@ input[type="tel"] {
   background: #f5f5f5; }
 
 .bg-primary {
-  background: #081F5C; }
+  background: #D0E3FF; }
 
 .bg-primary-dark {
-  background: #040f2d; }
+  background: #9dc5ff; }
 
 .bg-primary-darker {
-  background: black; }
+  background: #081F5C; }
 
 .bg-dark {
   background: #202122; }
@@ -309,7 +309,8 @@ input[type="tel"] {
 .service-btn {
   background: #4d4d4d;
   color: #ffffff;
-  padding: 10px 20px; }
+  padding: 10px 20px;
+  margin-top: 20px; }
 
 .section-subtitle {
   font-size: 28px;

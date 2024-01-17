@@ -15,8 +15,7 @@ banner:
 about:
   enable: true
   title: "What We Do"
-  description: " With Osows there are two paths:
-    <br/> <br/>"
+  description: ""
 
   content: "**Professionally Coded Websites**
   <br/> <br/>"

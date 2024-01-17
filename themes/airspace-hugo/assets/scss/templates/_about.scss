@@ -9,20 +9,40 @@
       font-family: 'Lora', serif;
       color: #4D4D4D;
       margin:0;
-      font-size: 48px;
+      font-size: 80px;
+      letter-spacing: 4px;
+
+      @include mobile {
+        font-size: 45px;
+      }
     }
 
     p {
       padding-top: 0px;
-      line-height: 23px;
+      line-height: 60px;
       font-family: 'Lora', sans-serif;
-      font-size: 20px;
+      font-size: 50px;
       color: #4D4D4D;
+      letter-spacing: 3px;
+      margin-top: 20px;
+      margin-bottom: -70px;
+
+      @include mobile {
+        font-size: 35px;
+      }
+      @include mobile-xs {
+        font-size: 30px;
+      }
     }
 
     img {
       width: 100%;
     }
+  }
+
+  .index-about-content {
+    margin-top: 40px;
+    margin-bottom: 40px;
   }
 
   .about-img {

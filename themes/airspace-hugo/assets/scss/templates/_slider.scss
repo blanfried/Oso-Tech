@@ -16,7 +16,7 @@
 
     h1 {
       font-weight: 400;
-      font-size: 80px;
+      font-size: 100px;
       font-family: 'Lora', serif;
       color: #f7f2eb;
       font-display: swap;
@@ -30,19 +30,19 @@
 
       @include mobile {
         font-weight: 400;
-        font-size: 55px;
+        font-size: 60px;
         }
 
       @include mobile-xs {
         font-weight: 400;
-        font-size: 45px;
+        font-size: 40px;
         }
     }
 
     p {
       margin-bottom: 45px;
       color: darken( $light, 25.09803921568627);
-      font-size: 24px;
+      font-size: 40px;
       line-height: 1.5em;
       font-weight: 300;
       font-display: swap;
@@ -52,15 +52,15 @@
       }
     }
 
-    @include mobile {
-      .btn {
-        font-size: 16px;
-      }
-    }
+    .btn {
+      font-size: 25px;
 
-    @include mobile-xs{
-      .btn {
-        font-size: 12px;
+      @include mobile {
+      font-size: 20px;
+      }
+
+      @include mobile-xs{
+      font-size: 13px;
       }
     }
   }

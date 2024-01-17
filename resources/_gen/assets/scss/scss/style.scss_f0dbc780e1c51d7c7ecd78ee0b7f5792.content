@@ -580,6 +580,26 @@ span.cloaked-e-mail:before {
     display: table-cell;
     float: none; } }
 
+.home-img {
+  overflow: hidden;
+  margin-bottom: 20px;
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center; }
+  .home-img img {
+    opacity: 0.6; }
+
+.home-img-2 {
+  opacity: 0.6;
+  -webkit-transition: all 0.5s ease-out;
+  -moz-transition: all 0.5s ease-out;
+  -ms-transition: all 0.5s ease-out;
+  -o-transition: all 0.5s ease-out;
+  transition: all 0.5s ease-out; }
+  .home-img-2:hover {
+    transform: scale3D(1.1, 1.1, 1); }
+
 #wrapper-work {
   overflow: hidden;
   padding-top: 100px; }
@@ -1023,7 +1043,7 @@ header .navbar-default .navbar-nav li a:hover {
       margin-top: 0; }
 
 .portfolio-single-page {
-  /* Iframe styles */ }
+  /* Iframe styles "Portfolio" */ }
   .portfolio-single-page .project-details h4 {
     margin-bottom: 20px;
     padding-bottom: 10px;

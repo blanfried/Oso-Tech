@@ -39,6 +39,21 @@
           <div class="index-about-content">
           {{ with .content }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
         </div>
+        <!-- Added image of templates and made responsive -->
+        <!-- <div class="block home-img">
+          <a href="/templates/">
+            <img src="{{ .image | relURL }}" class="img-responsive" alt="Img">
+        </a>        
+      </div> -->
+      <div class="home-img">
+        <a href="/templates/">
+            <img src="{{ .image | relURL }}" class="home-img-2 img-fluid" alt="Img">
+        </a>
+    </div>
+        <!-- Added New Content section (content1) -->
+          <div class="index-about-content">
+          {{ with .content1 }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
+        </div>
         </div>
         {{ with .button }}
         {{ if .enable }}

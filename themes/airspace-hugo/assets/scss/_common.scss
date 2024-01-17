@@ -780,3 +780,25 @@ span.cloaked-e-mail:before {
       float: none;
   }
 }
+
+.home-img {
+  overflow: hidden;
+  margin-bottom: 20px;
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+
+  img {
+    opacity: 0.6;
+  }
+}
+
+.home-img-2 {
+  opacity: 0.6;
+  @include transition (all, 0.5s, ease-out);
+
+    &:hover {
+    transform: scale3D(1.1,1.1,1);
+  }
+}

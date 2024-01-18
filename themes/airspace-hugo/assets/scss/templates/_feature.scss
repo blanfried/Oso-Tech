@@ -34,12 +34,16 @@
   .btn-view-works {
     background: #081F5C;
     color: #F7F2EB;
-    padding: 10px 20px;
-    margin-bottom: 30px;
-    margin: 9px;
+    padding: 15px 30px;
+    margin-top: 40px;
+    border-radius: 5px;
+    @include transition (all, 0.2s, ease);
+    font-size: 18px;
+    font-family:'Lora', serif;  
   }
 
   .btn-view-works:hover {
     color: #4D4D4D;
+    background: transparent;
   }
 }

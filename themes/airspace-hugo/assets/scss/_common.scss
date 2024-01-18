@@ -139,16 +139,16 @@ input[type="tel"] {
 }
 
 
-.btn-solid-border {
-  border: 1px solid $white;
-  background: transparent;
-  color: $white;
+// .btn-solid-border {
+//   border: 1px solid $white;
+//   background: transparent;
+//   color: $white;
 
-  &:hover {
-    border: 1px solid $color-primary;
-    background: $color-primary;
-  }
-}
+//   &:hover {
+//     border: 1px solid $color-primary;
+//     background: $color-primary;
+//   }
+// }
 
 
 .btn-transparent {
@@ -350,8 +350,12 @@ input[type="tel"] {
   // margin-left: 30%;
   background: #081F5C;
   color: #F7F2EB;
-  padding: 10px 20px;
-  margin-top: 20px;
+  padding: 15px 30px;
+  margin-top: 50px;
+  font-size: 18px;
+  font-family:'Lora', serif;
+  border-radius: 5px;
+  @include transition (all, 0.2s, ease);
 
   @include mobile {
     // margin-left: 0%;
@@ -360,6 +364,7 @@ input[type="tel"] {
 
 .service-btn:hover {
   color: #4D4D4D;
+  background: transparent;
 }
 
 .section-subtitle {
@@ -451,7 +456,7 @@ input[type="tel"] {
 
 
 .fun-facts-subtitles {
-  font-size: 17px;
+  font-size: 16px;
   color: #4D4D4D;
   font-family: 'Lora', serif;
 }
@@ -795,7 +800,7 @@ span.cloaked-e-mail:before {
   margin-bottom: 100px;
 
   img {
-    opacity: 0.6;
+    opacity: 0.9;
   }
 }
 

@@ -167,14 +167,6 @@ input[type="tel"] {
     background: transparent;
     color: #4D4D4D; }
 
-.btn-solid-border {
-  border: 1px solid #ffffff;
-  background: transparent;
-  color: #ffffff; }
-  .btn-solid-border:hover {
-    border: 1px solid #081F5C;
-    background: #081F5C; }
-
 .btn-transparent {
   background: transparent;
   padding: 0;
@@ -310,11 +302,20 @@ input[type="tel"] {
 .service-btn {
   background: #081F5C;
   color: #F7F2EB;
-  padding: 10px 20px;
-  margin-top: 20px; }
+  padding: 15px 30px;
+  margin-top: 50px;
+  font-size: 18px;
+  font-family: 'Lora', serif;
+  border-radius: 5px;
+  -webkit-transition: all 0.2s ease;
+  -moz-transition: all 0.2s ease;
+  -ms-transition: all 0.2s ease;
+  -o-transition: all 0.2s ease;
+  transition: all 0.2s ease; }
 
 .service-btn:hover {
-  color: #4D4D4D; }
+  color: #4D4D4D;
+  background: transparent; }
 
 .section-subtitle {
   font-size: 28px;
@@ -380,7 +381,7 @@ input[type="tel"] {
     font-family: 'Lora', serif; }
 
 .fun-facts-subtitles {
-  font-size: 17px;
+  font-size: 16px;
   color: #4D4D4D;
   font-family: 'Lora', serif; }
 
@@ -593,7 +594,7 @@ span.cloaked-e-mail:before {
   justify-content: center;
   margin-bottom: 100px; }
   .home-img img {
-    opacity: 0.6; }
+    opacity: 0.9; }
 
 .home-img-2 {
   opacity: 0.6;
@@ -876,16 +877,22 @@ header .navbar-default .navbar-nav li a:hover {
     color: #4D4D4D;
     font-size: 20px; }
   .call-to-action .btn-main, .call-to-action .btn-transparent, .call-to-action .btn-small {
-    padding: 15px 35px;
-    font-size: 15px;
+    padding: 12px 24px;
     margin-top: 30px;
     margin-bottom: 30px;
-    color: #4D4D4D;
-    border-color: #4D4D4D;
-    background-color: #D0E3FF; }
+    color: #F7F2EB;
+    background-color: #081F5C;
+    font-size: 18px;
+    font-family: 'Lora', serif;
+    border-radius: 5px;
+    -webkit-transition: all 0.2s ease;
+    -moz-transition: all 0.2s ease;
+    -ms-transition: all 0.2s ease;
+    -o-transition: all 0.2s ease;
+    transition: all 0.2s ease; }
   .call-to-action .btn-main:hover, .call-to-action .btn-transparent:hover, .call-to-action .btn-small:hover {
     background-color: transparent;
-    border-color: transparent; }
+    color: #4D4D4D; }
 
 .service {
   text-align: center;
@@ -978,11 +985,19 @@ header .navbar-default .navbar-nav li a:hover {
   .feature .btn-view-works {
     background: #081F5C;
     color: #F7F2EB;
-    padding: 10px 20px;
-    margin-bottom: 30px;
-    margin: 9px; }
+    padding: 15px 30px;
+    margin-top: 40px;
+    border-radius: 5px;
+    -webkit-transition: all 0.2s ease;
+    -moz-transition: all 0.2s ease;
+    -ms-transition: all 0.2s ease;
+    -o-transition: all 0.2s ease;
+    transition: all 0.2s ease;
+    font-size: 18px;
+    font-family: 'Lora', serif; }
   .feature .btn-view-works:hover {
-    color: #4D4D4D; }
+    color: #4D4D4D;
+    background: transparent; }
 
 .portfolio-work {
   padding: 80px 0; }

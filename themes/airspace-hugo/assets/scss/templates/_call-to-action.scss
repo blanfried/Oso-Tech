@@ -20,18 +20,20 @@
   }
 
   .btn-main {
-    padding: 15px 35px;
-    font-size: 15px;
+    padding: 12px 24px;
     margin-top: 30px;
     margin-bottom: 30px;
-    color: #4D4D4D;
-    border-color: #4D4D4D;
-    background-color: #D0E3FF;
+    color: #F7F2EB;
+    background-color: #081F5C;
+    font-size: 18px;
+    font-family:'Lora', serif;
+    border-radius: 5px;
+    @include transition (all, 0.2s, ease);  
   }
 
   .btn-main:hover {
     background-color: transparent;
-    border-color: transparent;
+    color: #4D4D4D;
   }
 
 }

@@ -92,7 +92,7 @@ mission_vision:
 <br/>
 <br/>    - **Static Sites:** Using coding languages like Hugo and third-party integrations like Stripe we create static sites with dynamic capability. This allows our sites to consistently outperform Wordpress, Shopify, Wix, and other CMS platforms.
 <br/>
-<br/>    - **Clean Designs:** A clean design shows the user what you do and why they should choose you without them having to weed through so much fluff.
+<br/>    - **Clean Designs:** A clean design shows the user what you do and why they should choose you, without having to weed through fluff.
 <br/>
 <br/>    - **Intuitive Interactions:** Call us! Email us! We are human and we answer or respond with lightning speed, transparency, and fun throughout the whole process. "
 

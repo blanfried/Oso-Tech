@@ -41,7 +41,7 @@ portfolio:
 
   Our [Packages](plans/) include full accessibility compliance.<br/>
   
-  <br/> Compliance not only protects you from litigation but also makes your business accessible to all individuals with disabilities (1.5 billion people globally). 
+  <br/> Compliance protects you from litigation and makes your website accessible to all individuals with disabilities (1.5 billion people globally). 
   <br/> <br/>
   It is the best for your business and the right thing to do.
   <br/>
@@ -73,7 +73,7 @@ cta:
 funfacts:
   enable: true
   title: "Fun Facts"
-  description: "Monthly averages for small businesses in the US*
+  description: "Monthly averages for businesses in the US
   "
   funfact_item:
   # funfacts item loop

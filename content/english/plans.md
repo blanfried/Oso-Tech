@@ -10,7 +10,7 @@ pricing:
   enable : true
   pricing_table:
   # pricing table loop
-  - name : "In-House Programmer Package"
+  - name : "Website Management"
     price: "$183 - $219"
     content : "Perfect For Businesses With an Existing Website."
     # Commented out until launch
@@ -31,7 +31,7 @@ pricing:
     - "**Additional Pages Can Be Added For a Fee** (See our [FAQ](../faq/) for more details)"
 
   # pricing table loop
-  - name : "Professionally Coded Website Package"
+  - name : "Professionally Coded Website"
     price: "$333 - $399"
     content : "Perfect For Businesses Looking to Increase Their Web Traffic or With No Existing Website."
     # Commented out until launch

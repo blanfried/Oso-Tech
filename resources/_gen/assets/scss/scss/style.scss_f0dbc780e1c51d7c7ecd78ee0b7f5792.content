@@ -889,7 +889,8 @@ header .navbar-default .navbar-nav li a:hover {
     -moz-transition: all 0.2s ease;
     -ms-transition: all 0.2s ease;
     -o-transition: all 0.2s ease;
-    transition: all 0.2s ease; }
+    transition: all 0.2s ease;
+    border: 1px solid #4D4D4D; }
   .call-to-action .btn-main:hover, .call-to-action .btn-transparent:hover, .call-to-action .btn-small:hover {
     background-color: transparent;
     color: #4D4D4D; }

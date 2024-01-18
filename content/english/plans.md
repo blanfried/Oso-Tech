@@ -18,11 +18,10 @@ pricing:
     services:
     - Websites Up To **6 Pages** (See our [FAQ](../faq/) or [Contact Us](../contact/) for more details)
     - 10 Website Customizations Per Month
-    - SEO and Performance Upgrades and Monitoring
+    - SEO Maximization and Monitoring
     - Google Tag & Analytics Optimization and Monitoring
     - Blog and Product Posting
     - Unlimited Troubleshooting and Error Correcting
-    - Terms of Service, Privacy Policy, Cookie Policy Creation and Regulation
     - Complete ADA, WCAG, EEA Compliance and Monitoring
     - Website Legal Advisory
     - Toll-Free Number Creation and Setup
@@ -45,13 +44,13 @@ pricing:
     -  Domain
     -  Highest Possible SEO and Performance (95+)
     -  Marketing Functionality (Google Ads, analytics, tag, etc.)
-    -  Full Compliance (Terms of Service, Privacy Policy, Cookie Page, ADA, WCAG, EEA, etc.)
+    -  Full Compliance (ADA, WCAG, EEA, etc.)
     - "**This Plan Comes With an In-House Programmer**"
     -  "**Additional Pages Can Be Added For a Fee** (See Our [FAQ](../faq/) for more details)"
     - +
     - "**Once the Website is Finished:**"
     - 10 Website Customizations Per Month
-    - SEO Upgrades and Monitoring
+    - SEO Maximization and Monitoring
     - Google Tag & Analytics Optimization and Monitoring
     - Blog and Product Posting
     - Unlimited Troubleshooting and Error Correcting

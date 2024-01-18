@@ -29,12 +29,12 @@
     font-family:'Lora', serif;
     border-radius: 5px;
     @include transition (all, 0.2s, ease);  
-    border: 1px solid #4D4D4D;
   }
 
   .btn-main:hover {
     background-color: transparent;
     color: #4D4D4D;
+    border: 1px solid #4D4D4D;
   }
 
 }

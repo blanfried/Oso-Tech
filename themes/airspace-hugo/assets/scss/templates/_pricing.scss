@@ -3,15 +3,15 @@
 ==================================================================*/
 
 .pricing-table {
+  background: #F7F2EB;
   .pricing-item {
     padding: 40px 20px;
     // padding-bottom: 20px;
-    background: $white;
-    box-shadow: 0 8px 15px 0 rgba(5, 57, 106, .06);
+    background: #F7F2EB;
+    box-shadow: 0 0 25px rgba(5, 57, 106, .09);
     margin-bottom: 30px;
 
     a.btn-main {
-      // text-transform: uppercase;
       margin-top: 20px;
       font-size: 20px;
     }

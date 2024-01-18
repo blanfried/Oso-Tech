@@ -1284,38 +1284,39 @@ header .navbar-default .navbar-nav li a:hover {
 /*=================================================================
   Pricing section
 ==================================================================*/
-.pricing-table .pricing-item {
-  padding: 40px 20px;
-  background: #ffffff;
-  box-shadow: 0 8px 15px 0 rgba(5, 57, 106, 0.06);
-  margin-bottom: 30px; }
-  .pricing-table .pricing-item a.btn-main, .pricing-table .pricing-item a.btn-transparent, .pricing-table .pricing-item a.btn-small {
-    margin-top: 20px;
-    font-size: 20px; }
-  .pricing-table .pricing-item li {
-    font-weight: 400;
-    padding: 6px 0;
-    color: #626262;
-    font-size: 18px; }
-    .pricing-table .pricing-item li i {
-      margin-right: 6px;
-      color: #081F5C; }
-
-.pricing-table .price-title {
-  padding: 30px 0 20px; }
-  .pricing-table .price-title > h3 {
-    font-weight: 700;
-    margin: 0 0 5px;
-    font-size: 30px; }
-  .pricing-table .price-title > p {
-    font-size: 18px;
-    font-weight: 400;
-    line-height: 18px;
-    margin-top: 5px; }
-  .pricing-table .price-title .value {
-    color: #081F5C;
-    font-size: 35px;
-    padding: 10px 0; }
+.pricing-table {
+  background: #F7F2EB; }
+  .pricing-table .pricing-item {
+    padding: 40px 20px;
+    background: #F7F2EB;
+    box-shadow: 0 0 25px rgba(5, 57, 106, 0.09);
+    margin-bottom: 30px; }
+    .pricing-table .pricing-item a.btn-main, .pricing-table .pricing-item a.btn-transparent, .pricing-table .pricing-item a.btn-small {
+      margin-top: 20px;
+      font-size: 20px; }
+    .pricing-table .pricing-item li {
+      font-weight: 400;
+      padding: 6px 0;
+      color: #626262;
+      font-size: 18px; }
+      .pricing-table .pricing-item li i {
+        margin-right: 6px;
+        color: #081F5C; }
+  .pricing-table .price-title {
+    padding: 30px 0 20px; }
+    .pricing-table .price-title > h3 {
+      font-weight: 700;
+      margin: 0 0 5px;
+      font-size: 30px; }
+    .pricing-table .price-title > p {
+      font-size: 18px;
+      font-weight: 400;
+      line-height: 18px;
+      margin-top: 5px; }
+    .pricing-table .price-title .value {
+      color: #081F5C;
+      font-size: 35px;
+      padding: 10px 0; }
 
 .product-item {
   margin-bottom: 30px; }

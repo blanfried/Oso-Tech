@@ -11,7 +11,7 @@ logo_text = "Osows"
 # navbar fixed to top
 navbar_fixed = true
 # OpenGraph / Twitter Card metadata
-description = "This is meta description"
+description = "Osows | Professional Websites"
 author = "Osows"
 image = "images/logo.svg" # this image will be used as fallback if a page has no image of its own
 # Whether to display text descriptors (like "E-mail: ", "Phone: ") before the address block elements

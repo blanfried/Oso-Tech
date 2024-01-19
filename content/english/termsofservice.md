@@ -2,7 +2,7 @@
 title: "Osows Terms of Service"
 description: ""
 subtitle : ""
-lastmod: 2023-12-12T00:00:00
+lastmod: 2024-01-19T00:00:00
 bg_image: "images/slider-bg.svg"
 layout: "faq"
 draft: false

@@ -262,7 +262,7 @@ These Legal Terms and any policies or operating rules posted by us on the Servic
 #### 24. CONTACT US
 In order to resolve a complaint regarding the Services or to receive further information regarding use of the Services, please contact us at:
 
-- Oso Group Inc.
+- Oso Group Incorporated
 - 17436 North Mesa Drive
 - San Diego, CA 92061
 - United States

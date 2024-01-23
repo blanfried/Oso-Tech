@@ -19,23 +19,55 @@
     margin: 9px;
     padding-top: 30px;
     padding-bottom: 30px;
-    font-size: 40px;
+    font-size: 60px;
+    font-family: 'Lora', serif;
     color: #4D4D4D;
   }
 
-  p {
-    // color: darken( $light, 100);
-    color: #4D4D4D;
-    margin-bottom: 20px;
-    margin: 9px;
-    font-size: 20px;
+  .how-works-section {
+    margin-left: 30%;
+    margin-right: 30%;
+
+    @include mobile {
+      margin-left: 5%;
+      margin-right: 5%;  
+    }
+
+  .how-works {
+    margin-top: 40px;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.25);
+    background-color: #F7F2EB;
   }
+
+  .feature-block-section {
+    background-color: transparent;
+  }
+
+  .icon {
+    margin-top: 40px;
+    font-size: 60px;
+    color: #081F5C;
+  }
+
+  .block {
+    padding: 20px 10px;
+
+
+    p {
+      color: #4D4D4D;
+      font-size: 25px;
+      margin: 0px;
+      font-family: 'Lora', serif;
+    }
+  }
+  }
+  
 
   .btn-view-works {
     background: #081F5C;
     color: #F7F2EB;
     padding: 15px 30px;
-    margin-top: 40px;
+    margin-top: 60px;
     border-radius: 5px;
     @include transition (all, 0.2s, ease);
     font-size: 18px;
@@ -45,5 +77,13 @@
   .btn-view-works:hover {
     color: #4D4D4D;
     background: transparent;
+  }
+
+  .block {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: center;
+    height: 100%; /* Adjust as needed */
   }
 }

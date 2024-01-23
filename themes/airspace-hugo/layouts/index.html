@@ -80,11 +80,41 @@
 {{ with .Params.portfolio }}
 {{ if .enable }}
 <section class="feature bg-2" style="background-image: url('{{ .bg_image | relURL }}')">
-  <div class="container">
+  <div class="container-fluid text-center how-works-section">
     <div class="row">
-      <div class="text-center">
-        {{ with .title }}<h2 class="section-subtitle">{{ . | markdownify }}</h2>{{ end }}
-        {{ with .content }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
+      {{ with .title }}<h2 class="section-subtitle">{{ . | markdownify }}</h2>{{ end }}
+      <div class="col-md-12 bg-primary bg-{{ .color }} feature-block-section">
+        <div class="how-works">
+          <div class="block">
+            {{ with .content1 }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
+            </div>
+          </div>
+          <div class="icon">
+          <i class="{{ .icon }}"></i>
+        </div>
+        <div class="how-works">
+          <div class="block">
+            {{ with .content2 }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
+            </div>
+          </div>
+          <div class="icon">
+            <i class="{{ .icon }}"></i>
+          </div>
+          <div class="how-works">
+            <div class="block">
+              {{ with .content3 }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
+              </div>
+            </div>  
+          <div class="icon">
+            <i class="{{ .icon }}"></i>
+          </div>
+          <div class="how-works">
+            <div class="block">
+              {{ with .content4 }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
+              </div>
+            </div>  
+        </div>
+
         {{ with .button }}
         {{ if .enable }}
         <a href="{{ .link | relLangURL }}" class="btn btn-view-works">{{ .label }}</a>
@@ -92,7 +122,6 @@
         {{ end }}
       </div>
     </div>
-  </div>
 </section>
 {{ end }}
 {{ end }}

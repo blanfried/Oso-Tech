@@ -35,21 +35,22 @@ about:
 portfolio:
   enable: true
   bg_image: "images/feature-bg.svg"
-  title: "An Additional 1.5 Billion Potential Clients"
-  content: " Get ahead of 96.7% of your competition. 
-  <br/><br/>
+  title: "How it Works"
 
-  Our [Packages](plans/) include full accessibility compliance.<br/>
-  
-  <br/> Compliance protects you from litigation and makes your website accessible to all individuals with disabilities (1.5 billion people globally). 
-  <br/> <br/>
-  It is the best for your business and the right thing to do.
-  <br/>
-  "
+  content1 : "Select Professionally Coded Website in [Plans](/plans/)"
+
+  content2 : "Choose Your [Template](/templates/)"
+
+  content3 : "We'll Ask For Some Additional Information"
+
+  content4 : "Your Site is Ready in 1-2 Months!"
+
+  icon: "fas fa-arrow-down"
+
   button:
     enable: true
-    label: "See Plans"
-    link: "plans/"
+    label: "Questions?"
+    link: "faq/"
 
 
 ############################# Service ############################

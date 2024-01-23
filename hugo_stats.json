@@ -3,6 +3,7 @@
     "tags": [
       "a",
       "aside",
+      "base",
       "blockquote",
       "body",
       "br",
@@ -93,6 +94,7 @@
       "contact-form",
       "container",
       "container-fluid",
+      "content",
       "copyright",
       "count",
       "counter-box",

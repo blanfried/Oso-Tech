@@ -991,7 +991,8 @@ header .navbar-default .navbar-nav li a:hover {
         margin-right: 5%; } }
     .feature .how-works-section .how-works {
       margin-top: 40px;
-      background-color: #F7F2EB; }
+      background-color: #F7F2EB;
+      border-radius: 30px; }
     .feature .how-works-section .feature-block-section {
       background-color: transparent; }
     .feature .how-works-section .icon {

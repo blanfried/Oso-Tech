@@ -37,9 +37,9 @@ portfolio:
   bg_image: "images/feature-bg.svg"
   title: "How it Works"
 
-  content1 : "Select Professionally Coded Website in [Plans](/plans/)"
+  content1 : "[Select Professionally Coded Website in Plans](/plans/)"
 
-  content2 : "Choose Your [Template](/templates/)"
+  content2 : "[Choose Your Template](/templates/)"
 
   content3 : "We'll Ask For Some Additional Information"
 

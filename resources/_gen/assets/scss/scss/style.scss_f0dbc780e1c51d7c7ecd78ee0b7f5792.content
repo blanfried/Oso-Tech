@@ -1002,7 +1002,7 @@ header .navbar-default .navbar-nav li a:hover {
     .feature .how-works-section .block {
       padding: 20px 10px; }
       .feature .how-works-section .block p {
-        color: #4D4D4D;
+        color: #081F5C;
         font-size: 25px;
         margin: 0px;
         font-family: 'Lora', serif; }

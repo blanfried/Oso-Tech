@@ -1007,7 +1007,7 @@ header .navbar-default .navbar-nav li a:hover {
         letter-spacing: 3px;
         margin-top: 130px;
         margin-bottom: 60px;
-        border: 1px solid #4D4D4D; }
+        border: 1px solid #F7F2EB; }
         @media (max-width: 480px) {
           .feature .how-works-section .feature-block-section h3 {
             font-size: 35px; } }

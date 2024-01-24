@@ -84,35 +84,27 @@
     <div class="row">
       {{ with .title }}<h2 class="section-subtitle">{{ . | markdownify }}</h2>{{ end }}
       <div class="col-md-12 bg-primary bg-{{ .color }} feature-block-section">
-        <div class="how-works">
-          <div class="block">
+          <div class="how-works block">
             {{ with .content1 }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
             </div>
-          </div>
           <div class="icon">
           <i class="{{ .icon }}"></i>
         </div>
-        <div class="how-works">
-          <div class="block">
+          <div class="how-works block">
             {{ with .content2 }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
             </div>
-          </div>
           <div class="icon">
             <i class="{{ .icon }}"></i>
           </div>
-          <div class="how-works">
-            <div class="block">
+            <div class="how-works block">
               {{ with .content3 }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
               </div>
-            </div>  
           <div class="icon">
             <i class="{{ .icon }}"></i>
           </div>
-          <div class="how-works">
-            <div class="block">
+            <div class="how-works block">
               {{ with .content4 }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
               </div>
-            </div>  
         </div>
 
         {{ with .button }}

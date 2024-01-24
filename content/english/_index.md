@@ -39,6 +39,7 @@ portfolio:
   how_works1:
     - name : "Professionally Coded Website"
       icon : "fas fa-arrow-down"
+      icon1 : "fas fa-check"
       content1 : "[Subscribe to This Plan](/plans/)"
       content2 : "[Choose Your Template](/templates/)"
       content3 : "We'll Ask For Some Additional Information"
@@ -47,9 +48,10 @@ portfolio:
   how_works2:
     - name : "Website Management"
       icon : "fas fa-arrow-down"
+      icon1 : "fas fa-infinity"
       content1 : "[Subscribe to This Plan](/plans/)"
       content2 : "We Will Ask For Some Additional Information"
-      content3 : "Your Website Will Be Upgraded and Maintained For The Duration of Your Subscription!"
+      content3 : "Your Website is Forever Upgraded and Maintained!"
 
   button:
     enable: true

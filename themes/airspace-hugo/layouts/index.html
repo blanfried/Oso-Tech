@@ -108,6 +108,9 @@
                 <div class="how-works block">
                   {{ with .content4 }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
                   </div>
+                  <div class="icon">
+                    <i class="{{ .icon1 }}"></i>
+                  </div>
           {{ end }} 
 
         {{ range .how_works2 }}
@@ -126,6 +129,9 @@
                   </div>
                 <div class="how-works block">
                   {{ with .content3 }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
+                  </div>
+                  <div class="icon">
+                    <i class="{{ .icon1 }}"></i>
                   </div>
           {{ end }} 
           <!-- {{ with .name2 }}<h3>{{ . | markdownify }}</h3>{{ end }} -->

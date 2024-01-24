@@ -51,26 +51,6 @@ portfolio:
       content2 : "We Will Ask For Some Additional Information"
       content3 : "Your Website Will Be Upgraded and Maintained For The Duration of Your Subscription!"
 
-  # content1 : "[Subscribe to This Plan](/plans/)"
-
-  # content2 : "[Choose Your Template](/templates/)"
-
-  # content3 : "We'll Ask For Some Additional Information"
-
-  # content4 : "Your Site is Ready in 1-2 Months!"
-
-  #     how_works:
-  #         name : "Professionally Coded Website"
-  #         content1 : "[Subscribe to This Plan](/plans/)"
-  #         content2 : "[Choose Your Template](/templates/)"
-  #         content3 : "We'll Ask For Some Additional Information"
-  #         content4 : "Your Site is Ready in 1-2 Months!"
-
-  # name1: "Professionally Coded Website"
-  # name2: "Website Management"
-
-  # icon: "fas fa-arrow-down"
-
   button:
     enable: true
     label: "Questions?"

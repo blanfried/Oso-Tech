@@ -17,7 +17,7 @@
 
   h2 {
     margin-top: 15px;
-    margin-bottom: -90px;
+    margin-bottom: -10px;
     padding-top: 30px;
     padding-bottom: 30px;
     font-size: 60px;
@@ -26,8 +26,8 @@
   }
 
   .how-works-section {
-    margin-left: 30%;
-    margin-right: 30%;
+    margin-left: 10%;
+    margin-right: 10%;
 
     @include mobile {
       margin-left: 5%;
@@ -52,7 +52,7 @@
       font-size: 45px;
       color: #4D4D4D;
       letter-spacing: 3px;
-      margin-top: 130px;
+      margin-top: 70px;
       margin-bottom: 60px;
       border: 1px solid #F7F2EB;
 

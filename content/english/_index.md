@@ -43,7 +43,7 @@ portfolio:
       content1 : "[Subscribe to This Plan](/plans/)"
       content2 : "[Choose Your Template](/templates/)"
       content3 : "We'll Ask For Some Additional Information"
-      content4 : "Your Site is Ready in 1-2 Months!"
+      content4 : "Your Site is Ready Within !"
 
   how_works2:
     - name : "Website Management"

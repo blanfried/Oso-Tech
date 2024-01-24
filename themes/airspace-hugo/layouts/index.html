@@ -83,65 +83,68 @@
   <div class="container-fluid text-center how-works-section">
     <div class="row">
       {{ with .title }}<h2 class="section-subtitle">{{ . | markdownify }}</h2>{{ end }}
-      <div class="col-md-12 bg-primary bg-{{ .color }} feature-block-section">
 
-        {{ range .how_works1 }}
-        {{ with .name }}<h3>{{ . | markdownify }}</h3>{{ end }}
-              <div class="how-works block">
-                {{ with .content1 }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
-                </div>
-                  <div class="icon">
-                  <i class="{{ .icon }}"></i>
-                </div>
-              <div class="how-works block">
-                {{ with .content2 }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
-                </div>
-                  <div class="icon">
+      <div class="col-md-6 bg-primary bg-{{ .color }} feature-block-section">
+          {{ range .how_works1 }}
+          {{ with .name }}<h3>{{ . | markdownify }}</h3>{{ end }}
+                <div class="how-works block">
+                  {{ with .content1 }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
+                  </div>
+                    <div class="icon">
                     <i class="{{ .icon }}"></i>
                   </div>
                 <div class="how-works block">
-                  {{ with .content3 }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
+                  {{ with .content2 }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
                   </div>
-                  <div class="icon">
-                    <i class="{{ .icon }}"></i>
-                  </div>
-                <div class="how-works block">
-                  {{ with .content4 }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
-                  </div>
-                  <div class="icon">
-                    <i class="{{ .icon1 }}"></i>
-                  </div>
-          {{ end }} 
+                    <div class="icon">
+                      <i class="{{ .icon }}"></i>
+                    </div>
+                  <div class="how-works block">
+                    {{ with .content3 }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
+                    </div>
+                    <div class="icon">
+                      <i class="{{ .icon }}"></i>
+                    </div>
+                  <div class="how-works block">
+                    {{ with .content4 }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
+                    </div>
+                    <div class="icon">
+                      <i class="{{ .icon1 }}"></i>
+                    </div>
+            {{ end }} 
+          </div>
 
-        {{ range .how_works2 }}
-        {{ with .name }}<h3>{{ . | markdownify }}</h3>{{ end }}
-              <div class="how-works block">
-                {{ with .content1 }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
-                </div>
-                  <div class="icon">
-                  <i class="{{ .icon }}"></i>
-                </div>
-              <div class="how-works block">
-                {{ with .content2 }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
-                </div>
-                  <div class="icon">
-                    <i class="{{ .icon }}"></i>
-                  </div>
-                <div class="how-works block">
-                  {{ with .content3 }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
-                  </div>
-                  <div class="icon">
-                    <i class="{{ .icon1 }}"></i>
-                  </div>
-          {{ end }} 
-          <!-- {{ with .name2 }}<h3>{{ . | markdownify }}</h3>{{ end }} -->
+          <div class="col-md-6 bg-primary bg-{{ .color }} feature-block-section">
+            {{ range .how_works2 }}
+            {{ with .name }}<h3>{{ . | markdownify }}</h3>{{ end }}
+                  <div class="how-works block">
+                    {{ with .content1 }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
+                    </div>
+                      <div class="icon">
+                      <i class="{{ .icon }}"></i>
+                    </div>
+                  <div class="how-works block">
+                    {{ with .content2 }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
+                    </div>
+                      <div class="icon">
+                        <i class="{{ .icon }}"></i>
+                      </div>
+                    <div class="how-works block">
+                      {{ with .content3 }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
+                      </div>
+                      <div class="icon">
+                        <i class="{{ .icon1 }}"></i>
+                      </div>
+              {{ end }} 
+            </div>
+
+        <div class="col-md-12">
+          {{ with .button }}
+          {{ if .enable }}
+          <a href="{{ .link | relLangURL }}" class="btn btn-view-works">{{ .label }}</a>
+          {{ end }}
+          {{ end }}
         </div>
-
-        {{ with .button }}
-        {{ if .enable }}
-        <a href="{{ .link | relLangURL }}" class="btn btn-view-works">{{ .label }}</a>
-        {{ end }}
-        {{ end }}
       </div>
     </div>
 </section>

@@ -41,7 +41,7 @@ portfolio:
       icon : "fas fa-arrow-down"
       icon1 : "fas fa-check"
       content1 : "[Subscribe to This Plan](/plans/)"
-      content2 : "[Select A  Theme](/themes/)"
+      content2 : "[Select A  Theme](/themes/) For Inspiration"
       content3 : "We'll Ask For Additional Information"
       content4 : "Your Site is Ready Within 1 Month!"
 
@@ -51,7 +51,7 @@ portfolio:
       icon1 : "fas fa-infinity"
       content1 : "[Subscribe to This Plan](/plans/)"
       content2 : "We'll Ask For Additional Information"
-      content3 : "Your Website is Forever Upgraded and Maintained!"
+      content3 : "Your Website is Continuously Upgraded and Maintained!"
 
   button:
     enable: true

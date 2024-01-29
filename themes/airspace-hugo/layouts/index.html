@@ -39,14 +39,9 @@
           <div class="index-about-content">
           {{ with .content }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
         </div>
-        <!-- Added image of templates and made responsive -->
-        <!-- <div class="block home-img">
-          <a href="/templates/">
-            <img src="{{ .image | relURL }}" class="img-responsive" alt="Img">
-        </a>        
-      </div> -->
+        <!-- Added image of themes and made responsive -->
       <div class="home-img">
-        <a href="/templates/">
+        <a href="/themes/">
             <img src="{{ .image | relURL }}" class="home-img-2 img-fluid" alt="Img">
         </a>
     </div>

@@ -51,7 +51,7 @@ portfolio:
       icon1 : "fas fa-infinity"
       content1 : "[Subscribe to This Plan](/plans/)"
       content2 : "We'll Ask For Additional Information"
-      content3 : "Your Website is Continuously Upgraded and Maintained!"
+      content3 : "We Upgrade and Maintain Your Site!"
 
   button:
     enable: true

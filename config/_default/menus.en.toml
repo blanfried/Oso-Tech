@@ -35,8 +35,8 @@ hasChildren = true
 
   [[main]]
   parent = "More"
-  name = "Templates"
-  url = "templates/"
+  name = "Themes"
+  url = "themes/"
   weight = 2
 
   [[main]]

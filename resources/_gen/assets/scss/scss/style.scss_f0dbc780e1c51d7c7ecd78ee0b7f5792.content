@@ -984,8 +984,8 @@ header .navbar-default .navbar-nav li a:hover {
     font-family: 'Lora', serif;
     color: #4D4D4D; }
   .feature .how-works-section {
-    margin-left: 10%;
-    margin-right: 10%; }
+    margin-left: 5%;
+    margin-right: 5%; }
     @media (max-width: 480px) {
       .feature .how-works-section {
         margin-left: 5%;

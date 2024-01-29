@@ -41,16 +41,16 @@ portfolio:
       icon : "fas fa-arrow-down"
       icon1 : "fas fa-check"
       content1 : "[Subscribe to This Plan](/plans/)"
-      content2 : "[Choose Your Template](/templates/)"
-      content3 : "We'll Ask For Some Additional Information"
-      content4 : "Your Site is Ready Within !"
+      content2 : "[Select A  Theme](/themes/)"
+      content3 : "We'll Ask For Additional Information"
+      content4 : "Your Site is Ready Within 1 Month!"
 
   how_works2:
     - name : "Website Management"
       icon : "fas fa-arrow-down"
       icon1 : "fas fa-infinity"
       content1 : "[Subscribe to This Plan](/plans/)"
-      content2 : "We Will Ask For Some Additional Information"
+      content2 : "We'll Ask For Additional Information"
       content3 : "Your Website is Forever Upgraded and Maintained!"
 
   button:

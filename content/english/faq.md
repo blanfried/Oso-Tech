@@ -82,10 +82,10 @@ draft: false
 
 ---
 
-#### 7. Templates
-* The credit for our Templates properly goes to:
+#### 7. Themes
+* The credit for our Themes properly goes to:
   > * GetHugoThemes.com
   > * Themefisher.com
-* We have opted to host these sites as previews ourselves for cohesion purposes on Osows.com. Our Web Developers are skilled in the conversion of these templates into new customized forms for our clients. We have all rights necessary to conduct said conversion for our clients and use these templates as we see fit.
+* We have opted to host these sites as previews ourselves for cohesion purposes on Osows.com. Our Web Developers are skilled in the conversion of these themes into new customized forms for our clients. We have all rights necessary to conduct said conversion for our clients and use these themes as we see fit.
 
 ---

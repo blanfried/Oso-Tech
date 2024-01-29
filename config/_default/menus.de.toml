@@ -13,7 +13,7 @@ weight = 2
 
 [[main]]
 name = "Projekt"
-url = "templates/"
+url = "themes/"
 weight = 3
 
 [[main]]
@@ -58,7 +58,7 @@ weight = 2
 
 [[footer]]
 name = "Projekt"
-url = "templates/"
+url = "themes/"
 weight = 3
 
 [[footer]]

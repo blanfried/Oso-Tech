@@ -37,7 +37,7 @@ portfolio:
   bg_image: "images/feature-bg.svg"
   title: "How it Works"
   how_works1:
-    - name : "Professionally Coded Website"
+    - name : "Professionally Coded Websites"
       icon : "fas fa-arrow-down"
       icon1 : "fas fa-check"
       content1 : "[Subscribe to This Plan](/plans/)"

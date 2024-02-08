@@ -3,6 +3,7 @@
     "tags": [
       "a",
       "aside",
+      "base",
       "blockquote",
       "body",
       "br",
@@ -128,7 +129,6 @@
       "fa-shapes",
       "fa-sort-amount-up",
       "fa-tags",
-      "fa-tty",
       "fa-twitter",
       "fa-universal-access",
       "fa-user",

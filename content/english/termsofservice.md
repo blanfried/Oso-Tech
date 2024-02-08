@@ -24,7 +24,7 @@ We operate the website [http://www.osows.com](http://www.osows.com) (the “**Si
 
 We aid in all website matters. We create websites, help with existing ones, boost SEO and performance to increase online traffic, and we offer personal web developer subscriptions. We have a strong focus on small businesses and WCAG, ADA, and other accessibility legislation compliance with purchasable packages created for these.
 
-You can contact us by phone at **(888) 716-9467**, email at [osowsco@gmail.com](mailto:osowsco@gmail.com), or by mail to 17436 North Mesa Drive, San Diego, CA 92061, United States.
+You can contact us by phone at **(949) 439-8667**, email at [osowsco@gmail.com](mailto:osowsco@gmail.com), or by mail to 17436 North Mesa Drive, San Diego, CA 92061, United States.
 
 These Legal Terms constitute a legally binding agreement made between you, whether personally or on behalf of an entity ("**you**"), and Oso Group Inc., concerning your access to and use of the Services. You agree that by accessing the Services, you have read, understood, and agreed to be bound by all of these Legal Terms. **IF YOU DO NOT AGREE WITH ALL OF THESE LEGAL TERMS, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SERVICES AND YOU MUST DISCONTINUE USE IMMEDIATELY.**
 
@@ -107,7 +107,7 @@ You agree to pay all charges at the prices then in effect for your purchases and
 #### 5. CANCELLATION
 See our [FAQ](../faq/) or [Subscription Policy](../) (coming soon...) for refund and cancellation details.
 
-If you are unsatisfied with our Services, please email us at osowsco@gmail.com or call us at (888) 716-9467.
+If you are unsatisfied with our Services, please email us at osowsco@gmail.com or visit our [Contact](../contact/) page.
 
 ---
 

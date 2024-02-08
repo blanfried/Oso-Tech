@@ -58,10 +58,10 @@ name = "Account"
 url = "https://billing.osows.com/p/login/28odTm8gZgVm73G7ss"
 weight = 7
 
-[[main]]
-name = "+1 (888) 716-9467"
-url = "contact/"
-weight = 8
+# [[main]]
+# name = "+1 (888) 716-9467"
+# url = "contact/"
+# weight = 8
 
 
 

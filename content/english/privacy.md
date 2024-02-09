@@ -163,23 +163,118 @@ We have implemented appropriate and reasonable technical and organizational secu
 
 #### 7. DO WE COLLECT INFORMATION FROM MINORS?
 
-**In Short:** We do not knowingly collect data from or market to children under 18 years of age.
+**In Short:** *We do not knowingly collect data from or market to children under 18 years of age.*
 
 We do not knowingly solicit data from or market to children under 18 years of age. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent's use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at osowsco@gmail.com.
 
-Compliance with the Children’s Online Privacy Policy Protection Act: Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information through our Website from those we actually know are under thirteen (13), and no part of Our Service is structured to attract anyone under thirteen (13).
+**Compliance with the Children’s Online Privacy Policy Protection Act:** Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information through our Website from those we actually know are under thirteen (13), and no part of Our Service is structured to attract anyone under thirteen (13).
 
 ---
 
 #### 8. WHAT ARE YOUR PRIVACY RIGHTS?
 
-**In Short:** You may review, change, or terminate your account at any time.
+**In Short:** *You may review, change, or terminate your account at any time.*
 
-Withdrawing your consent: If we are relying on your consent to process your personal information, which may be express and/or implied consent depending on the applicable law, you have the right to withdraw your consent at any time. You can withdraw your consent at any time by contacting us by using the contact details provided in the section "HOW CAN YOU CONTACT US ABOUT THIS NOTICE?" below.
+**Withdrawing your consent:** If we are relying on your consent to process your personal information, which may be express and/or implied consent depending on the applicable law, you have the right to withdraw your consent at any time. You can withdraw your consent at any time by contacting us by using the contact details provided section 12 below.
 
 However, please note that this will not affect the lawfulness of the processing before its withdrawal nor, when applicable law allows, will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent.
 
-Cookies and similar technologies: Most Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies. If you choose to remove cookies or reject cookies, this could affect certain features or services of our Services.
+**Cookies and similar technologies:** Most Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies. If you choose to remove cookies or reject cookies, this could affect certain features or services of our Services.
 
 If you have questions or comments about your privacy rights, you may email us at osowsco@gmail.com.
 
+---
+
+#### 9. CONTROLS FOR DO-NOT-TRACK FEATURES
+
+Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track ("DNT") feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. At this stage no uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this privacy notice.
+
+---
+
+#### 10. DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
+
+**In Short:** *If you are a resident of California, Colorado, Connecticut, Utah, or Virginia, you are granted specific rights regarding access to your personal information.*
+
+**What categories of personal information do we collect?**
+
+We have collected the following categories of personal information in the past twelve (12) months:
+
+| Category | Examples | Collected |
+|----------|----------|-----------|
+| A. Identifiers | Contact details, such as real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address, and account name | NO |
+| B. Personal information as defined in the California Customer Records statute | Name, contact information, education, employment, employment history, and financial information |   |
+| C. Protected classification characteristics under state or federal law | Gender and date of birth | NO |
+| D. Commercial information | Transaction information, purchase history, financial details, and payment information | NO |
+| E. Biometric information | Fingerprints and voiceprints | NO |
+| F. Internet or other similar network activity | Browsing history, search history, online behavior, interest data, and interactions with our and other websites, applications, systems, and advertisements | NO |
+| G. Geolocation data | Device location | NO |
+| H. Audio, electronic, visual, thermal, olfactory, or similar information | Images and audio, video or call recordings created in connection with our business activities | NO |
+| I. Professional or employment-related information | Business contact details in order to provide you our Services at a business level or job title, work history, and professional qualifications if you apply for a job with us | NO |
+| J. Education Information | Student records and directory information | NO |
+| K. Inferences drawn from collected personal information | Inferences drawn from any of the collected personal information listed above to create a profile or summary about, for example, an individual's preferences and characteristics | NO |
+| L. Sensitive personal Information |  | NO |
+
+---
+
+We may also collect other personal information outside of these categories through instances where you interact with us in person, online, or by phone or mail in the context of:
+- Receiving help through our customer support channels;
+
+- Participation in customer surveys or contests; and
+- Facilitation in the delivery of our Services and to respond to your inquiries.
+
+---
+
+**How do we use and share your personal information?**
+
+Learn about how we use your personal information in the section, "HOW DO WE PROCESS YOUR INFORMATION?"
+
+We collect and share your personal information through:
+- Targeting cookies/Marketing cookies
+
+---
+
+**Will your information be shared with anyone else?**
+
+We may disclose your personal information with our service providers pursuant to a written contract between us and each service provider. Learn more about how we disclose personal information to in the section, "WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?"
+
+We may use your personal information for our own business purposes, such as for undertaking internal research for technological development and demonstration. This is not considered to be "selling" of your personal information.
+
+We have not sold or shared any personal information to third parties for a business or commercial purpose in the preceding twelve (12) months. We have disclosed the following categories of personal information to third parties for a business or commercial purpose in the preceding twelve (12) months:
+
+The categories of third parties to whom we disclosed personal information for a business or commercial purpose can be found under "WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?"
+
+---
+
+**California Residents**
+
+California Civil Code Section 1798.83, also known as the "Shine The Light" law permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided below.
+
+If you are under 18 years of age, reside in California, and have a registered account with the Services, you have the right to request removal of unwanted data that you publicly post on the Services. To request removal of such data, please contact us using the contact information provided below and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the Services, but please be aware that the data may not be completely or comprehensively removed from all our systems (e.g., backups, etc.).
+
+---
+
+
+---
+
+#### 11. DO WE MAKE UPDATES TO THIS NOTICE?
+
+**In Short:** *Yes, we will update this notice as necessary to stay compliant with relevant laws.*
+
+We may update this privacy notice from time to time. The updated version will be indicated by an updated "Revised" date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy notice frequently to be informed of how we are protecting your information.
+
+---
+
+#### 12. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
+
+If you have questions or comments about this notice, you may email us at osowsco@gmail.com or contact us by post at:
+
+- Oso Group Inc.
+- PO Box 580
+- Pauma Valley, CA 92061
+- United States
+
+---
+
+#### 13. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
+
+Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it. To request to review, update, or delete your personal information, please [Contact Us](../contact/).

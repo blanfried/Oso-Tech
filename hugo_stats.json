@@ -3,7 +3,6 @@
     "tags": [
       "a",
       "aside",
-      "base",
       "blockquote",
       "body",
       "br",
@@ -297,19 +296,16 @@
       "agreement-to-our-legal-terms",
       "desktopButton",
       "email",
-      "information-automatically-collected",
       "message",
       "mobileButton",
       "myIframe",
       "name",
       "navigation",
       "opportunity",
-      "personal-information-you-disclose-to-us",
       "privacy-policy",
       "simplicity",
       "subject",
-      "summary-of-key-points",
-      "this-privacy-notice-for-oso-group-inc-a-delaware-corporation-doing-business-as-oso-web-services-osows-we-us-or-our-describes-how-and-why-we-might-collect-store-use-andor-share-process-your-information-when-you-use-our-services-services-such-as-when-you"
+      "summary-of-key-points"
     ]
   }
 }

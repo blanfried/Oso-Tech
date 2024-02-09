@@ -332,6 +332,7 @@ If we decline to take action regarding your request and you wish to appeal our d
 This section applies only to Connecticut residents. Under the Connecticut Data Privacy Act (CTDPA), you have the rights listed below. However, these rights are not absolute, and in certain cases, we may decline your request as permitted by law.
 
 - Right to be informed whether or not we are processing your personal data
+
 - Right to access your personal data
 - Right to correct inaccuracies in your personal data
 - Right to request deletion of your personal data
@@ -349,12 +350,51 @@ If we decline to take action regarding your request and you wish to appeal our d
 This section applies only to Utah residents. Under the Utah Consumer Privacy Act (UCPA), you have the rights listed below. However, these rights are not absolute, and in certain cases, we may decline your request as permitted by law.
 
 - Right to be informed whether or not we are processing your personal data
+
 - Right to access your personal data
 - Right to request deletion of your personal data
 - Right to obtain a copy of the personal data you previously shared with us
 - Right to opt out of the processing of your personal data if it is used for targeted advertising or the sale of personal data
 
 To submit a request to exercise these rights described above, please email [osowsco@gmail.com](mailto:osowsco@gmail.com).
+
+---
+
+**Virginia Residents**
+
+Under the Virginia Consumer Data Protection Act (VCDPA):
+
+- "Consumer" means a natural person who is a resident of the Commonwealth acting only in an individual or household context. It does not include a natural person acting in a commercial or employment context.
+- "Personal data" means any information that is linked or reasonably linkable to an identified or identifiable natural person. "Personal data" does not include de-identified data or publicly available information.
+- "Sale of personal data" means the exchange of personal data for monetary consideration.
+
+If this definition of "consumer" applies to you, we must adhere to certain rights and obligations regarding your personal data.
+
+**Your rights with respect to your personal data**
+
+- Right to be informed whether or not we are processing your personal data
+
+- Right to access your personal data
+- Right to correct inaccuracies in your personal data
+- Right to request deletion of your personal data
+- Right to obtain a copy of the personal data you previously shared with us
+- Right to opt out of the processing of your personal data if it is used for targeted advertising, the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects ("profiling")
+
+**Exercise your rights provided under the Virginia VCDPA**
+
+You may contact us by email at [osowsco@gmail.com](mailto:osowsco@gmail.com) or submit a data subject access request.
+
+If you are using an authorized agent to exercise your rights, we may deny a request if the authorized agent does not submit proof that they have been validly authorized to act on your behalf.
+
+**Verification process**
+
+We may request that you provide additional information reasonably necessary to verify you and your consumer's request. If you submit the request through an authorized agent, we may need to collect additional information to verify your identity before processing your request.
+
+Upon receiving your request, we will respond without undue delay, but in all cases, within forty-five (45) days of receipt. The response period may be extended once by forty-five (45) additional days when reasonably necessary. We will inform you of any such extension within the initial 45-day response period, together with the reason for the extension.
+
+**Right to appeal**
+
+If we decline to take action regarding your request, we will inform you of our decision and reasoning behind it. If you wish to appeal our decision, please email us at [osowsco@gmail.com](mailto:osowsco@gmail.com). Within sixty (60) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal is denied, you may contact the [Attorney General](https://www.oag.state.va.us/contact-us/contact-info) to submit a complaint.
 
 ---
 

@@ -253,6 +253,108 @@ If you are under 18 years of age, reside in California, and have a registered ac
 
 ---
 
+**CCPA Privacy Notice**
+
+This section applies only to California residents. Under the California Consumer Privacy Act (CCPA), you have the rights listed below.
+
+The California Code of Regulations defines a "resident" as:
+
+1. every individual who is in the State of California for other than a temporary or transitory purpose and
+2. every individual who is domiciled in the State of California who is outside the State of California for a temporary or transitory purpose
+
+All other individuals are defined as "non-residents."
+
+If this definition of "resident" applies to you, we must adhere to certain rights and obligations regarding your personal information.
+
+---
+
+**Your rights with respect to your personal data**
+
+**Right to request deletion of the data — Request to delete**  
+You can ask for the deletion of your personal information. If you ask us to delete your personal information, we will respect your request and delete your personal information, subject to certain exceptions provided by law, such as (but not limited to) the exercise by another consumer of his or her right to free speech, our compliance requirements resulting from a legal obligation, or any processing that may be required to protect against illegal activities.
+
+**Right to be informed — Request to know**
+- Depending on the circumstances, you have a right to know:
+  - whether we collect and use your personal information;
+  - the categories of personal information that we collect;
+  - the purposes for which the collected personal information is used;
+  - whether we sell or share personal information to third parties;
+  - the categories of personal information that we sold, shared, or disclosed for a business purpose;
+  - the categories of third parties to whom the personal information was sold, shared, or disclosed for a business purpose;
+  - the business or commercial purpose for collecting, selling, or sharing personal information; and
+  - the specific pieces of personal information we collected about you.
+
+In accordance with applicable law, we are not obligated to provide or delete consumer information that is de-identified in response to a consumer request or to re-identify individual data to verify a consumer request.
+
+**Right to Non-Discrimination for the Exercise of a Consumer’s Privacy Rights**  
+We will not discriminate against you if you exercise your privacy rights.
+
+**Right to Limit Use and Disclosure of Sensitive Personal Information**  
+We do not process consumer's sensitive personal information.
+
+**Verification process**  
+Upon receiving your request, we will need to verify your identity to determine you are the same person about whom we have the information in our system. These verification efforts require us to ask you to provide information so that we can match it with information you have previously provided us. For instance, depending on the type of request you submit, we may ask you to provide certain information so that we can match the information you provide with the information we already have on file, or we may contact you through a communication method (e.g., phone or email) that you have previously provided to us. We may also use other verification methods as the circumstances dictate.
+
+We will only use personal information provided in your request to verify your identity or authority to make the request. To the extent possible, we will avoid requesting additional information from you for the purposes of verification. However, if we cannot verify your identity from the information already maintained by us, we may request that you provide additional information for the purposes of verifying your identity and for security or fraud-prevention purposes. We will delete such additionally provided information as soon as we finish verifying you.
+
+**Other privacy rights**
+
+- You may object to the processing of your personal information.
+
+- You may request correction of your personal data if it is incorrect or no longer relevant, or ask to restrict the processing of the information.
+- You can designate an authorized agent to make a request under the CCPA on your behalf. We may deny a request from an authorized agent that does not submit proof that they have been validly authorized to act on your behalf in accordance with the CCPA.
+- You may request to opt out from future selling or sharing of your personal information to third parties. Upon receiving an opt-out request, we will act upon the request as soon as feasibly possible, but no later than fifteen (15) days from the date of the request submission.
+
+To exercise these rights, you can contact us by email at osowsco@gmail.com, by visiting [our contact page](https://www.osows.com/contact/), or by referring to the contact details at the bottom of this document. If you have a complaint about how we handle your data, we would like to hear from you.
+
+---
+
+**Colorado Residents**
+
+This section applies only to Colorado residents. Under the Colorado Privacy Act (CPA), you have the rights listed below. However, these rights are not absolute, and in certain cases, we may decline your request as permitted by law.
+
+- Right to be informed whether or not we are processing your personal data
+
+- Right to access your personal data
+- Right to correct inaccuracies in your personal data
+- Right to request deletion of your personal data
+- Right to obtain a copy of the personal data you previously shared with us
+- Right to opt out of the processing of your personal data if it is used for targeted advertising, the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects ("profiling")
+
+To submit a request to exercise these rights described above, please email [osowsco@gmail.com](mailto:osowsco@gmail.com).
+
+If we decline to take action regarding your request and you wish to appeal our decision, please email us at [osowsco@gmail.com](mailto:osowsco@gmail.com). Within forty-five (45) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions.
+
+---
+
+**Connecticut Residents**
+
+This section applies only to Connecticut residents. Under the Connecticut Data Privacy Act (CTDPA), you have the rights listed below. However, these rights are not absolute, and in certain cases, we may decline your request as permitted by law.
+
+- Right to be informed whether or not we are processing your personal data
+- Right to access your personal data
+- Right to correct inaccuracies in your personal data
+- Right to request deletion of your personal data
+- Right to obtain a copy of the personal data you previously shared with us
+- Right to opt out of the processing of your personal data if it is used for targeted advertising, the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects ("profiling")
+
+To submit a request to exercise these rights described above, please email [osowsco@gmail.com](mailto:osowsco@gmail.com).
+
+If we decline to take action regarding your request and you wish to appeal our decision, please email us at [osowsco@gmail.com](mailto:osowsco@gmail.com). Within sixty (60) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions.
+
+---
+
+**Utah Residents**
+
+This section applies only to Utah residents. Under the Utah Consumer Privacy Act (UCPA), you have the rights listed below. However, these rights are not absolute, and in certain cases, we may decline your request as permitted by law.
+
+- Right to be informed whether or not we are processing your personal data
+- Right to access your personal data
+- Right to request deletion of your personal data
+- Right to obtain a copy of the personal data you previously shared with us
+- Right to opt out of the processing of your personal data if it is used for targeted advertising or the sale of personal data
+
+To submit a request to exercise these rights described above, please email [osowsco@gmail.com](mailto:osowsco@gmail.com).
 
 ---
 

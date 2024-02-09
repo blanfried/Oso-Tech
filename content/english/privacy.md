@@ -18,7 +18,6 @@ draft: false
   tjs.parentNode.insertBefore(js, tjs);
 }(document, 'script', 'termly-jssdk'));</script> -->
 
-## PRIVACY POLICY
 
 This privacy notice for Oso Group Inc., a Delaware corporation (doing business as Oso Web Services, "Osows") ("**we**," "**us**," or "**our**"), describes how and why we might collect, store, use, and/or share ("**Process**”) your information when you use our services (“**Services**”), such as when you:
 

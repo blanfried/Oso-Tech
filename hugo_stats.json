@@ -3,7 +3,6 @@
     "tags": [
       "a",
       "aside",
-      "base",
       "blockquote",
       "body",
       "br",
@@ -306,28 +305,17 @@
       "TableOfContents",
       "accessibility",
       "agreement-to-our-legal-terms",
-      "california-residents",
       "desktopButton",
       "email",
-      "how-do-we-use-and-share-your-personal-information",
-      "information-automatically-collected",
       "message",
       "mobileButton",
       "myIframe",
       "name",
       "navigation",
       "opportunity",
-      "personal-information-you-disclose-to-us",
-      "privacy-policy",
-      "right-to-appeal",
       "simplicity",
       "subject",
-      "summary-of-key-points",
-      "this-privacy-notice-for-oso-group-inc-a-delaware-corporation-doing-business-as-oso-web-services-osows-we-us-or-our-describes-how-and-why-we-might-collect-store-use-andor-share-process-your-information-when-you-use-our-services-services-such-as-when-you",
-      "to-exercise-these-rights-you-can-contact-us-by-email-at-osowscogmailcom-by-visiting-our-contact-pagehttpswwwosowscomcontact-or-by-referring-to-the-contact-details-at-the-bottom-of-this-document-if-you-have-a-complaint-about-how-we-handle-your-data-we-would-like-to-hear-from-you",
-      "verification-process",
-      "will-your-information-be-shared-with-anyone-else",
-      "your-rights-with-respect-to-your-personal-data"
+      "summary-of-key-points"
     ]
   }
 }

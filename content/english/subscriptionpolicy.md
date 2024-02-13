@@ -9,29 +9,39 @@ draft: false
 ---
 
 ## What This Document Covers
-Upon paying for an Osows subscription, and thereby agreeing with our Terms of Service, you also agree to the terms layed out in this Subscription Policy.
+Upon payment for an Osows Subscription, and thereby agreeing with our Terms of Service, you also agree to the terms laid out in this Subscription Policy.
 
-These terms, as developed below, include our ["**Refunds and Cancellation Policy**"](#8-refunds-and-cancellation), as well as any additional purchases that may be added onto the original Subscription purchase and the terms which go along with each additional purchase. By "Subscription" it is meant the original Osows [**"Professionally Coded Website"**](#1-professionally-coded-website) Subscription, which is the base of all other subscriptions or add-ons. In order to purchase additional subscriptions, like [**"Website Management"**](#2-website-management) or add-ons, one must have either completed the one year payment plan (outline in section 1) for the Subscription or paid for the Subscription in full. An "add-on" is an addition to the Subscription and constitutes a *one-time purchase* (i.e., not a recurring payment, unless coupled with the one year payment plan for the Subscription, by which the payment ceases at the end of the one year cycle along with the subscription itself). Examples of add-ons could include ["**Additional Pages**"](#4-additional-pages) or the ["**Initial Blog Page**"](#5-blogs). An "additional subscription" is any add-on which constitutes a *recurring payment* over an indefinite period of time (i.e., not defined to the scope of the Subscription under a one year payment plan). Examples of additional subscriptions are [**"Website Management"**](#2-website-management), ["**Accessibility Compliance**"](#9-accessibility-compliance) or [**"Blog Posting"**](#5-blogs).
+These terms, developed below, cover our ["**Professionally Coded Website Policy**"](#1-professionally-coded-website), ["**Website Management Policy**"](#2-website-management), ["**Refunds and Cancellation Policy**"](#8-refunds-and-cancellation), as well as any additional purchases that may be added onto the original Subscription purchase and the terms which go along with each additional purchase. By "Subscription" it is meant the original Osows [**"Professionally Coded Website"**](#1-professionally-coded-website) Subscription, which is the base of all other additional subscriptions or add-ons. In order to purchase additional subscriptions, like [**"Website Management"**](#2-website-management) or add-ons, one must have either paid for the Subscription "in Full" (see section 1) or currently be on or finished with the "one year payment plan" regarding the Subscription (see section 1). An "add-on" is an addition to the Subscription and constitutes a *one-time purchase* (i.e., not a recurring payment, unless coupled with the one year payment plan for the Subscription, by which the payment ceases at the end of the one year cycle along with the subscription itself). Examples of add-ons could include ["**Additional Pages**"](#4-additional-pages), ["**Terms of Service and Privacy Policy Pages**"](#6-creation-of-terms-of-service-and-privacy-policy), or the ["**Initial Blog Page**"](#5-blogs). An "additional subscription" is any subscription other than the Subscription. Additional subscriptions constitute a *recurring payment* over an indefinite period of time (i.e., not confined to the scope of the Subscription under a one year payment plan). Examples of additional subscriptions are [**"Website Management"**](#2-website-management), ["**Accessibility Compliance**"](#9-accessibility-compliance) or [**"Blog Posting"**](#5-blogs).
 
-#### 1. Professionally Coded Website
+---
+
+#### 1. "Professionally Coded Website" Policy
 What is included in this purchase:
-- h
+- Everything listed under "Professionally Coded Website" section in the ["**Plans Page**"](../plans/)
 
-- k
-- l
+- See [section 3](#3-the-pages-included) for the pages included in this purchase.
+- +Any add-ons or additional subscriptions purchased by the client.
+- +Website Hosting and Domain name coverage for one full calendar year.
+
+---
 
 What is *not* included in this purchase:
-- k
+- Anything not listed under "Professionally Coded Website" section in the ["**Plans Page**"](../plans)
 
 - d
 - f
+
+---
 
 * *One Year Payment Plan:*
 
 * *Payment in Full:*
 
 * *Recurring Fees Post Payment:* Once Professionally Coded Website is completed and paid off (i.e. at the end of the One Year Payment Plan or Paid in Full), the client is still responsible for the yearly domain and web-hosting payments. *Osows will not be held liable for the payment of domains or web-hosting after the first year of Subscription purchase.* This may be offset by the purchase of the additional subscription [**"Website Management"**](#2-website-management).
-#### 2. Website Management
+
+---
+
+#### 2. "Website Management" Policy
 What is included in this purchase:
 - h
 
@@ -44,30 +54,38 @@ What is *not* included in this purchase:
 - d
 - f
 
+---
+
 #### 3. The Pages Included
-* Up to 6 pages
-  > 1. Home
-  > 2. About
-  > 3. Services
-  > 4. Contact
-  > 5. One “Products” or “Plans” page
-  > 6. Terms of Service, FAQ, Refund Policy, Cancellation Policy, or Privacy Policy
-* If needed, an Account page powered by Stripe is included at no additional cost
+Up to 6 pages
+
+1. Home
+
+2. About
+3. Services
+4. Contact
+5. One “Products” or “Plans” page
+6. Terms of Service, FAQ, Refund Policy, Cancellation Policy, or Privacy Policy
+
+* If needed, an Account page powered by Stripe is included at no additional cost.
 
 ---
 
 #### 4. Additional Pages
-* May purchase additional pages
-  > * Prices vary depending on the page
-* Some Examples Include:
-  > * FAQ
-  > * Additional Information
-  > * Mission
-  > * Vision
-  > * Portfolio
-  > * Our Users
-  > * Our Clients
-  > * Our Team
+You may purchase additional pages. Prices vary depending on the page, [Contact Us](../contact/) for a quote.
+
+Some Examples Include:
+
+* Any page not chosen from the original "Pages Included"
+
+* FAQ
+* Additional Information
+* Mission
+* Vision
+* Portfolio
+* Our Users
+* Our Clients
+* Our Team
 
 ---
 

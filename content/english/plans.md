@@ -13,40 +13,30 @@ pricing:
     # pricing table loop
   - name : "Professionally Coded Website"
     price: "$150"
-    content : "Perfect For Businesses Looking to Increase Their Web Traffic or With No Existing Website."
+    content : "$150/month for a year or $1500 paid in full."
     # Commented out until launch
     # link : "https://billing.osows.com/b/eVaaGxgolgRAcy4cMX"
     services:
-    - "**The Website:**"
-    -  Up To **6 Pages** (See our [FAQ](../faq/) or [Contact Us](../contact/) for more details)
+    - "**What is Included:**"
+    -  Up To 6 Pages[*](../subscriptionpolicy/#3-the-pages-included) (See our [FAQ](../faq/) or [Contact Us](../contact/) for more details)
     -  Design
     -  Copywriting
-    -  Web Hosting
-    -  Domain
-    -  Highest Possible SEO and Performance (95+)
+    -  1 year of free Web Hosting
+    -  1 year of free Domain Name coverage
+    -  Highest Possible SEO and Performance
     -  Marketing Functionality (Google Ads, analytics, tag, etc.)
     -  Full Compliance (ADA, WCAG, EEA, etc.)
-    - "**This Plan Comes With an In-House Programmer**"
-    -  "**Additional Pages Can Be Added For a Fee** (See Our [FAQ](../faq/) for more details)"
-    - +
-    - "**Once the Website is Finished:**"
-    - 10 Website Customizations Per Month
-    - SEO Maximization and Monitoring
-    - Google Tag & Analytics Optimization and Monitoring
-    - Blog and Product Posting
-    - Unlimited Troubleshooting and Error Correcting
-    - Terms of Service, Privacy Policy, Cookie Policy Creation and Regulation
-    - Complete ADA, WCAG, EEA Compliance and Monitoring
-    - Website Legal Advisory
-    - Toll-Free Number Creation and Setup
-    - 5 Logo Changes or Creations
-    - 10 New Website Pictures Per Month
-    - "**After One Year, Price Reduces to In-House Programmer Package**"
-    
+    - "**1 year of Website Management for no additional fee!** (see details below)"
+    - 
+    - "**What can be added:**"
+    - Full Accessibility Compliance (ADA, WCAG, EEA, etc.) ($50/month)
+    - Additional Pages[*](../subscriptionpolicy/#4-additional-pages)
+
+
   # pricing table loop
   - name : "Website Management"
     price: "$100"
-    content : "Perfect For Businesses With an Existing Website."
+    content : "$100/month"
     # Commented out until launch
     # link : "https://billing.osows.com/b/fZe15X8VTatc7dK7sB"
     services:

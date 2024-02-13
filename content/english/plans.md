@@ -8,30 +8,11 @@ draft: false
 ################################ pricing ################################
 pricing:
   enable : true
-  pricing_table:
-  # pricing table loop
-  - name : "Website Management"
-    price: "$183 - $219"
-    content : "Perfect For Businesses With an Existing Website."
-    # Commented out until launch
-    # link : "https://billing.osows.com/b/fZe15X8VTatc7dK7sB"
-    services:
-    - Websites Up To **6 Pages** (See our [FAQ](../faq/) or [Contact Us](../contact/) for more details)
-    - 10 Website Customizations Per Month
-    - SEO Maximization and Monitoring
-    - Google Tag & Analytics Optimization and Monitoring
-    - Blog and Product Posting
-    - Unlimited Troubleshooting and Error Correcting
-    - Complete ADA, WCAG, EEA Compliance and Monitoring
-    - Website Legal Advisory
-    - Toll-Free Number Creation and Setup
-    - 5 Logo Changes or Creations
-    - 10 New Website Pictures
-    - "**Additional Pages Can Be Added For a Fee** (See our [FAQ](../faq/) for more details)"
 
-  # pricing table loop
+  pricing_table:
+    # pricing table loop
   - name : "Professionally Coded Website"
-    price: "$333 - $399"
+    price: "$150"
     content : "Perfect For Businesses Looking to Increase Their Web Traffic or With No Existing Website."
     # Commented out until launch
     # link : "https://billing.osows.com/b/eVaaGxgolgRAcy4cMX"
@@ -61,6 +42,27 @@ pricing:
     - 5 Logo Changes or Creations
     - 10 New Website Pictures Per Month
     - "**After One Year, Price Reduces to In-House Programmer Package**"
+    
+  # pricing table loop
+  - name : "Website Management"
+    price: "$100"
+    content : "Perfect For Businesses With an Existing Website."
+    # Commented out until launch
+    # link : "https://billing.osows.com/b/fZe15X8VTatc7dK7sB"
+    services:
+    - Websites Up To **6 Pages** (See our [FAQ](../faq/) or [Contact Us](../contact/) for more details)
+    - 10 Website Customizations Per Month
+    - SEO Maximization and Monitoring
+    - Google Tag & Analytics Optimization and Monitoring
+    - Blog and Product Posting
+    - Unlimited Troubleshooting and Error Correcting
+    - Complete ADA, WCAG, EEA Compliance and Monitoring
+    - Website Legal Advisory
+    - Toll-Free Number Creation and Setup
+    - 5 Logo Changes or Creations
+    - 10 New Website Pictures
+    - "**Additional Pages Can Be Added For a Fee** (See our [FAQ](../faq/) for more details)"
+
 
   # pricing table loop
   # - name : "Basic Programmer Package"

@@ -115,6 +115,11 @@ url = "termsofservice/"
 weight = 9
 
 [[footer]]
+name = "Subscription Policy"
+url = "subscriptionpolicy/"
+weight = 10
+
+[[footer]]
 # name = "Cookie Policy"
 # url = "cookiepolicy/"
-# weight = 10
+# weight = 11

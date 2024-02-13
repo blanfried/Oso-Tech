@@ -13,9 +13,9 @@ pricing:
     # pricing table loop
   - name : "Professionally Coded Website"
     price: "$150"
-    content : "$150/month for a year or $1500 paid in full."
+    content : "$150/month for 1 year or $1500 paid in full."
     # Commented out until launch
-    # link : "https://billing.osows.com/b/eVaaGxgolgRAcy4cMX"
+    # link : "https://billing.osows.com/b/14k15XgoleJs69GcMY"
     services:
     - "**What is Included:**"
     -  Up To 6 Pages[*](../subscriptionpolicy/#3-the-pages-included) (See our [FAQ](../faq/) or [Contact Us](../contact/) for more details)
@@ -35,20 +35,17 @@ pricing:
 
   # pricing table loop
   - name : "Website Management"
-    price: "$100"
-    content : "$100/month"
+    price: "$60"
+    content : "$60/month"
     # Commented out until launch
     # link : "https://billing.osows.com/b/fZe15X8VTatc7dK7sB"
     services:
-    - Websites Up To **6 Pages** (See our [FAQ](../faq/) or [Contact Us](../contact/) for more details)
-    - 10 Website Customizations Per Month
-    - SEO Maximization and Monitoring
-    - Google Tag & Analytics Optimization and Monitoring
+    - 3 New Website Customizations Per Month
+    - SEO Monitoring
+    - Google Tag & Analytics Monitoring
     - Blog and Product Posting
     - Unlimited Troubleshooting and Error Correcting
-    - Complete ADA, WCAG, EEA Compliance and Monitoring
-    - Website Legal Advisory
-    - Toll-Free Number Creation and Setup
+    - Accessibility Compliance Monitoring and Reports[*](../subscriptionpolicy/#9-accessibility-compliance)
     - 5 Logo Changes or Creations
     - 10 New Website Pictures
     - "**Additional Pages Can Be Added For a Fee** (See our [FAQ](../faq/) for more details)"

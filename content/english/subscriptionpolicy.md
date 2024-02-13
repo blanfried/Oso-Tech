@@ -137,7 +137,9 @@ Some Examples Include:
 ---
 
 #### 9. Accessibility Compliance
+For $50/month, accessibility compliance can be added to your subscription. This is a recurring fee that extends beyond the end of date of the initial Subscription. You will be charged for as long as you desire it to exist on your website.
 
+To make your website accessible, we have partnered with [**accessiBe.com**](https://accessibe.com/).
 
 ---
 

@@ -70,7 +70,7 @@ cta:
   enable: true
   bg_image: "images/call-to-action-bg.svg"
   title: "Tell Us What You Need"
-  content: "Need something specific or having trouble finding what you are looking for?"
+  content: "Having trouble finding what you're looking for?"
   button:
     enable: true
     label: "Contact Us!"

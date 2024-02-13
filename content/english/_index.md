@@ -8,7 +8,7 @@ banner:
   content: ""
   button:
     enable: true
-    label: "Devoted to Small Businesses"
+    label: "Custom Websites | Simple Process"
     link: "about/"
 # <br/> Paragraph 
 ############################# About #################################

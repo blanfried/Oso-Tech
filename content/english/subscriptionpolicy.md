@@ -45,13 +45,14 @@ What is *not* included in this purchase:
 What is included in this purchase:
 - Anything listed under "Website Management" section in the ["**Plans Page**"](../plans/)
 
-- k
-- l
+- Domain Name coverage over the duration of the Website Management subscription.
+- Web-Hosting coverage over the duration of the Website Management subscription.
+- Unlimited Troubleshooting and Error correcting regarding Osows Professionally Coded Websites and extensions to the website (if added by Osows and only as the extensions pertain to Osows websites which have been purchased by the client). Examples of extensions could include: accessiBe, Stripe, or Google Analytics/Tag Manager.
 
 What is *not* included in this purchase:
 - Anything not listed under "Website Management" section in the ["**Plans Page**"](../plans/)
 
-- d
+- Troubleshooting and error correcting in websites or other technologies/tech services that are not from Osows.
 - f
 
 ---
@@ -89,7 +90,7 @@ Some Examples Include:
 
 ---
 
-#### 5. Blogs
+#### 5. Blog and Product Postings
 * If you would like a blog on your website, we charge an additional $100 per month or $1000 per year to your plan.
   > * With this, you receive a Blog Landing Page and up to 5 Blog Posts per month.
   > * We will upload your blogs to your website, but we will not write the blogs for you.

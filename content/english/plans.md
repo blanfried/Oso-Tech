@@ -43,7 +43,7 @@ pricing:
     - 3 New Website Customizations Per Month
     - SEO Monitoring
     - Google Tag & Analytics Monitoring
-    - Blog and Product Posting
+    - Blog and Product Posting[*](../subscriptionpolicy/#5-blog-and-product-postings)
     - Unlimited Troubleshooting and Error Correcting
     - Accessibility Compliance Monitoring and Reports[*](../subscriptionpolicy/#9-accessibility-compliance)
     - 5 Logo Changes or Creations

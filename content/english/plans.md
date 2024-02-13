@@ -30,7 +30,9 @@ pricing:
     - 
     - "**What can be added:**"
     - Full Accessibility Compliance (ADA, WCAG, EEA, etc.) ($50/month)
-    - Additional Pages[*](../subscriptionpolicy/#4-additional-pages)
+    - Additional Pages[*](../subscriptionpolicy/#4-additional-pages) (prices vary)
+    - Blog[*](../subscriptionpolicy/#5-blog-and-product-postings)
+    - Additional Product Pages[*](../subscriptionpolicy/#5-blog-and-product-postings)
 
 
   # pricing table loop
@@ -44,11 +46,10 @@ pricing:
     - SEO Monitoring
     - Google Tag & Analytics Monitoring
     - Blog and Product Posting[*](../subscriptionpolicy/#5-blog-and-product-postings)
-    - Unlimited Troubleshooting and Error Correcting
+    - Unlimited Troubleshooting and Error Correcting[*](../subscriptionpolicy/#2-website-management-policy)
     - Accessibility Compliance Monitoring and Reports[*](../subscriptionpolicy/#9-accessibility-compliance)
     - 5 Logo Changes or Creations
     - 10 New Website Pictures
-    - "**Additional Pages Can Be Added For a Fee** (See our [FAQ](../faq/) for more details)"
 
 
   # pricing table loop

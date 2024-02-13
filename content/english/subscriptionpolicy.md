@@ -17,7 +17,7 @@ These terms, developed below, cover our ["**Professionally Coded Website Policy*
 
 #### 1. "Professionally Coded Website" Policy
 What is included in this purchase:
-- Everything listed under "Professionally Coded Website" section in the ["**Plans Page**"](../plans/)
+- Anything listed under "Professionally Coded Website" section in the ["**Plans Page**"](../plans/)
 
 - See [section 3](#3-the-pages-included) for the pages included in this purchase.
 - +Any add-ons or additional subscriptions purchased by the client.
@@ -28,14 +28,14 @@ What is included in this purchase:
 What is *not* included in this purchase:
 - Anything not listed under "Professionally Coded Website" section in the ["**Plans Page**"](../plans)
 
-- d
-- f
+- Domain Name coverage beyond one calendar year from the date of the original purchase of the Professionally Coded Website Plan.
+- Web-Hosting coverage beyond one calendar year from the date of the original purchase of the Professionally Coded Website Plan.
 
 ---
 
-* *One Year Payment Plan:*
+* *One Year Payment Plan:* The Professionally Coded Website Plan can be paid for through 12 installments of $150/month over one calendar year starting with the date of the initial purchase.
 
-* *Payment in Full:*
+* *Payment in Full:* The Professionally Coded Website Plan can be paid for upfront with a one time payment of $1500.
 
 * *Recurring Fees Post Payment:* Once Professionally Coded Website is completed and paid off (i.e. at the end of the One Year Payment Plan or Paid in Full), the client is still responsible for the yearly domain and web-hosting payments. *Osows will not be held liable for the payment of domains or web-hosting after the first year of Subscription purchase.* This may be offset by the purchase of the additional subscription [**"Website Management"**](#2-website-management).
 
@@ -43,13 +43,13 @@ What is *not* included in this purchase:
 
 #### 2. "Website Management" Policy
 What is included in this purchase:
-- h
+- Anything listed under "Website Management" section in the ["**Plans Page**"](../plans/)
 
 - k
 - l
 
 What is *not* included in this purchase:
-- k
+- Anything not listed under "Website Management" section in the ["**Plans Page**"](../plans/)
 
 - d
 - f

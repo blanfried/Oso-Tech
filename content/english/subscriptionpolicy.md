@@ -53,7 +53,7 @@ What is *not* included in this purchase:
 - Anything not listed under "Website Management" section in the ["**Plans Page**"](../plans/)
 
 - Troubleshooting and error correcting in websites or other technologies/tech services that are not from Osows.
-- f
+- Website Management for other websites or services other than Osows websites bought form the client.
 
 ---
 

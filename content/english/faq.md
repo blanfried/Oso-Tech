@@ -14,7 +14,7 @@ draft: false
   > 2. About
   > 3. Services
   > 4. Contact
-  > 5. 1 “Products” or “Plans” page
+  > 5. One “Products” or “Plans” page
   > 6. Terms of Service, FAQ, Refund Policy, Cancellation Policy, or Privacy Policy
 * If needed, an Account page powered by Stripe is included at no additional cost
 

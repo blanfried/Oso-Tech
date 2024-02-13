@@ -105,7 +105,7 @@ You agree to pay all charges at the prices then in effect for your purchases and
 ---
 
 #### 5. CANCELLATION
-See our [FAQ](../faq/) or [Subscription Policy](../) (coming soon...) for refund and cancellation details.
+See our [FAQ](../faq/) or [Subscription Policy](../subscriptionpolicy) for refund and cancellation details.
 
 If you are unsatisfied with our Services, please email us at osowsco@gmail.com or visit our [Contact](../contact/) page.
 

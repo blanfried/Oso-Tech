@@ -16,7 +16,7 @@ These terms, developed below, cover our ["**Professionally Coded Website Policy*
 ---
 
 #### 1. "Professionally Coded Website" Policy
-What is included in this purchase:
+*What is included in this purchase:*
 - Anything listed under "Professionally Coded Website" section in the ["**Plans Page**"](../plans/)
 
 - See [section 3](#3-the-pages-included) for the pages included in this purchase.
@@ -25,7 +25,7 @@ What is included in this purchase:
 
 ---
 
-What is *not* included in this purchase:
+*What is *not* included in this purchase:*
 - Anything not listed under "Professionally Coded Website" section in the ["**Plans Page**"](../plans)
 
 - Domain Name coverage beyond one calendar year from the date of the original purchase of the Professionally Coded Website Plan.
@@ -33,29 +33,29 @@ What is *not* included in this purchase:
 
 ---
 
-* *One Year Payment Plan:* The Professionally Coded Website Plan can be paid for through 12 installments of $150/month over one calendar year starting with the date of the initial purchase.
+* *One Year Payment Plan:* The Professionally Coded Website Plan can be paid for through 12 installments of $150/month over one calendar year starting from the date of the initial purchase.
 
-* *Payment in Full:* The Professionally Coded Website Plan can be paid for upfront with a one time payment of $1500.
+* *Payment in Full:* The Professionally Coded Website Plan can be paid upfront with a one time payment of $1500.
 
-* *Recurring Fees Post Payment:* Once Professionally Coded Website is completed and paid off (i.e. at the end of the One Year Payment Plan or Paid in Full), the client is still responsible for the yearly domain and web-hosting payments. *Osows will not be held liable for the payment of domains or web-hosting after the first year of Subscription purchase.* This may be offset by the purchase of the additional subscription [**"Website Management"**](#2-website-management).
+* *Recurring Fees Post Payment:* Once Professionally Coded Website is completed and paid off (i.e. at the end of the One Year Payment Plan or Paid in Full), the client is responsible for the yearly domain and web-hosting payments. *Osows will not be held liable for the payment of domains or web-hosting after the first year of Subscription purchase.* This may be offset by the purchase of the additional subscription [**"Website Management"**](#2-website-management).
 
 ---
 
 #### 2. "Website Management" Policy
-What is included in this purchase:
+*What is included in this purchase:*
 - Anything listed under "Website Management" section in the ["**Plans Page**"](../plans/)
 
 - Domain Name coverage over the duration of the Website Management subscription.
 - Web-Hosting coverage over the duration of the Website Management subscription.
-- Unlimited Troubleshooting and Error correcting regarding Osows Professionally Coded Websites and extensions to the website (if added by Osows and only as the extensions pertain to Osows websites which have been purchased by the client). Examples of extensions could include: accessiBe, Stripe, or Google Analytics/Tag Manager.
+- Unlimited Troubleshooting and Error correcting regarding Osows Professionally Coded Websites and extensions to the website (i.e. extensions added by Osows and only those that pertain to Osows websites which have been purchased by the client). Examples of extensions could include: accessiBe, Stripe, or Google Analytics/Tag.
 
 ---
 
-What is *not* included in this purchase:
+*What is *not* included in this purchase:*
 - Anything not listed under "Website Management" section in the ["**Plans Page**"](../plans/)
 
 - Troubleshooting and error correcting in websites or other technologies/tech services that are not from Osows.
-- Website Management for other websites or services other than Osows websites bought form the client.
+- Website Management for other websites or services other than Osows websites bought by the client.
 
 ---
 
@@ -79,9 +79,8 @@ You may purchase additional pages. Prices vary depending on the page, [Contact U
 
 Some Examples Include:
 
-* Any page not chosen from the original "Pages Included"
+* Any page not chosen from the last two "Pages Included" (5 & 6)
 
-* FAQ
 * Additional Information
 * Mission
 * Vision
@@ -89,13 +88,48 @@ Some Examples Include:
 * Our Users
 * Our Clients
 * Our Team
+* Our Team
 
 ---
 
 #### 5. Blog and Product Postings
-* If you would like a blog on your website, we charge an additional $100 per month or $1000 per year to your plan.
-  > * With this, you receive a Blog Landing Page and up to 5 Blog Posts per month.
-  > * We will upload your blogs to your website, but we will not write the blogs for you.
+**Blogs:**
+
+If you would like a blog on your website, we charge $50 for the initial Blog page creation as an add-on and $20 per month as an additional subscription for blog posting.
+
+---
+
+*What this purchase includes:*
+
+- Initial Blog Page creation (if Blog add-on is purchased)
+
+- The uploading of up to 10 blog posts per month to your website. (if more are needed, please [Contact Us](../contact/))
+
+---
+
+*What this purchase does not include:*
+
+- The writing of blog posts on your website. (Osows will only upload blogs which the client has written, or gotten written for them. Osows will not write any blog posts for the client)
+
+---
+
+**Product Postings:**
+
+If not selected in point 5 on ["**The Pages Included**"](#3-the-pages-included), you can add an Initial Product Page as an add-on for $50. Regular Product Posting is an additional subscription of $20/month.
+
+---
+
+*What this purchase includes:*
+
+- Initial Product Page creation (if Product Page add-on is purchased)
+
+- The uploading of up to 10 new products per month to your website. (if more are needed, please [Contact Us](../contact/))
+
+---
+
+*What this purchase does not include:*
+
+- The creation, purchase, finding, etc. of products to sell on your website. (Osows will only upload products which the client has obtained or intends to sell themselves. Osows will not be held responsible in any way for anything beyond the posting, uploading, or pasting of products the client wishes to have posted on their website.)
 
 ---
 
@@ -140,7 +174,7 @@ Some Examples Include:
 ---
 
 #### 9. Accessibility Compliance
-For $50/month, accessibility compliance can be added to your subscription. This is a recurring fee that extends beyond the end of date of the initial Subscription. You will be charged for as long as you desire it to exist on your website.
+For $50/month, accessibility compliance can be added to your subscription. This is a recurring fee that extends beyond the end of date of the initial Subscription. You will be charged for as long as you desire it to exist on your Osows website.
 
 To make your website accessible, we have partnered with [**accessiBe.com**](https://accessibe.com/).
 

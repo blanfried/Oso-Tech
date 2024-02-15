@@ -17,22 +17,23 @@ pricing:
     # Commented out until launch
     # link : "https://billing.osows.com/b/14k15XgoleJs69GcMY"
     services:
-    - "**What is Included:**"
-    -  Up To 6 Pages[*](../subscriptionpolicy/#3-the-pages-included) (See our [FAQ](../faq/) or [Contact Us](../contact/) for more details)
     -  Design
     -  Copywriting
-    -  1 year of free Web Hosting
-    -  1 year of free Domain Name coverage
+    -  1 Year Web Hosting
+    -  1 Year Domain coverage
+    -  Up To 6 Pages + Account Page[*](../subscriptionpolicy/#3-the-pages-included)
     -  Highest Possible SEO and Performance
-    -  Marketing Functionality (Google Ads, analytics, tag, etc.)
-    -  Full Compliance (ADA, WCAG, EEA, etc.)
-    - "**1 year of Website Management for no additional fee!** (see details below)"
+    - "**1 Year of Website Management** (See Details Below)"
+    -  Marketing Functionality (Google Ads, Analytics, Tag, etc.)
     - 
-    - "**What can be added:**"
-    - Full Accessibility Compliance (ADA, WCAG, EEA, etc.) ($50/month)
-    - Additional Pages[*](../subscriptionpolicy/#4-additional-pages) (prices vary)
-    - Blog[*](../subscriptionpolicy/#5-blog-and-product-postings)
-    - Additional Product Pages[*](../subscriptionpolicy/#5-blog-and-product-postings)
+    - 
+    - 
+    - "**Additional Purchases:**"
+    - Product Posting[*](../subscriptionpolicy/#5-blog-and-product-postings)
+    - Additional Pages[*](../subscriptionpolicy/#4-additional-pages)
+    - Full Legal Compliance[*](../subscriptionpolicy/#6-full-legal-compliance)
+    - Accessibility Compliance[*](../subscriptionpolicy/#9-accessibility-compliance)
+    - Blog Creation and Posting[*](../subscriptionpolicy/#5-blog-and-product-postings)
 
 
   # pricing table loop
@@ -42,14 +43,22 @@ pricing:
     # Commented out until launch
     # link : "https://billing.osows.com/b/fZe15X8VTatc7dK7sB"
     services:
-    - 3 New Website Customizations Per Month
+    - Web Hosting
     - SEO Monitoring
+    - Domain Coverage
+    - 3 Branding Changes/Month
+    - Up to 5 New Website Pictures
+    - 3 Website Customizations/Month
     - Google Tag & Analytics Monitoring
-    - Blog and Product Posting[*](../subscriptionpolicy/#5-blog-and-product-postings)
     - Unlimited Troubleshooting and Error Correcting[*](../subscriptionpolicy/#2-website-management-policy)
-    - Accessibility Compliance Monitoring and Reports[*](../subscriptionpolicy/#9-accessibility-compliance)
-    - 5 Logo Changes or Creations
-    - 10 New Website Pictures
+    - 
+    - 
+    - 
+    - "**Additional Purchases:**"
+    - Product Posting[*](../subscriptionpolicy/#5-blog-and-product-postings)
+    - Full Legal Compliance[*](../subscriptionpolicy/#6-full-legal-compliance)
+    - Accessibility Compliance[*](../subscriptionpolicy/#9-accessibility-compliance)
+    - Blog Creation and Posting[*](../subscriptionpolicy/#5-blog-and-product-postings)
 
 
   # pricing table loop

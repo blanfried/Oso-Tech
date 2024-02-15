@@ -115,8 +115,8 @@ url = "termsofservice/"
 weight = 9
 
 [[footer]]
-name = "Subscription Policy"
-url = "subscriptionpolicy/"
+name = "Plan Policy"
+url = "planpolicy/"
 weight = 10
 
 [[footer]]

@@ -1,76 +1,78 @@
 ---
-title: "Our Subscription Policy"
+title: "Osows Plan Policy"
 description: ""
 subtitle : ""
-lastmod: 2024-02-13T00:00:00
+lastmod: 2024-02-16T00:00:00
 bg_image: "images/slider-bg.svg"
 layout: "faq"
 draft: false
 ---
 
 ## What This Document Covers
-Upon payment for an Osows Subscription, and thereby agreeing with our Terms of Service, you also agree to the terms laid out in this Subscription Policy.
+Upon payment for an Osows Plan, and thereby agreeing with our Terms of Service, you also agree to the terms laid out in this Plan Policy.
 
-These terms, developed below, cover our ["**Professionally Coded Website Policy**"](#1-professionally-coded-website-policy), ["**Website Management Policy**"](#2-website-management-policy), ["**Refunds and Cancellation Policy**"](#8-refunds-and-cancellation), as well as any additional purchases that may be added onto the original Subscription purchase and the terms which go along with each additional purchase. By "Subscription" it is meant the original Osows [**"Professionally Coded Website"**](#1-professionally-coded-website) Subscription, which is the base of all other additional subscriptions or add-ons. In order to purchase additional subscriptions, like [**"Website Management"**](#2-website-management) or add-ons, one must have either paid for the Subscription "in Full" (see section 1) or currently be on or finished with the "one year payment plan" regarding the Subscription (see section 1). An "add-on" is an addition to the Subscription and constitutes a *one-time purchase* (i.e., not a recurring payment, unless coupled with the one year payment plan for the Subscription, by which the payment ceases at the end of the one year cycle along with the subscription itself). Examples of add-ons could include ["**Additional Pages**"](#4-additional-pages), ["**Terms of Service and Privacy Policy Pages**"](#6-creation-of-terms-of-service-and-privacy-policy), or the ["**Initial Blog Page**"](#5-blogs). An "additional subscription" is any subscription other than the Subscription. Additional subscriptions constitute a *recurring payment* over an indefinite period of time (i.e., not confined to the scope of the Subscription under a one year payment plan). Examples of additional subscriptions are [**"Website Management"**](#2-website-management), ["**Accessibility Compliance**"](#9-accessibility-compliance) or [**"Blog Posting"**](#5-blogs).
+These terms, developed below, cover our ["**Professionally Coded Website Policy**"](#1-professionally-coded-website-policy), ["**Website Management Policy**"](#2-website-management-policy), ["**Refunds and Cancellation Policy**"](#8-refunds-and-cancellation), as well as any additional purchases ("add-ons" or "additional subscriptions") that may be added onto the original "Plan" purchase and the terms which go along with each additional purchase. By "Plan" it is meant the original Osows [**"Professionally Coded Website"**](#1-professionally-coded-website) Plan, which is the base of all other additional subscriptions or add-ons. In order to purchase additional subscriptions, like [**"Website Management"**](#2-website-management) or add-ons, one must have either paid for the Plan "in Full" (see section 1) or currently be on or finished with the "One Year Payment Route" (OYPR) regarding the Plan (see section 1). An "add-on" is an addition to the Plan and constitutes a *one-time purchase* (i.e., not a recurring payment, unless coupled with the OYPR for the Plan, in which case the payment ceases at the end of the one year cycle along with the Plan itself). Examples of add-ons include ["**Additional Pages**"](#4-additional-pages) or [**Initial "Blog" or "Products" Page**](#5-blog-and-product-postings). An "additional subscription" is any subscription other than the Plan under the OYPR. Additional subscriptions constitute a *recurring payment* over an indefinite period of time (i.e., not confined to the scope of the Plan under the OYPR). Examples of additional subscriptions are [**"Website Management"**](#2-website-management), ["**Full Legal Compliance**"](#6-creation-of-terms-of-service-and-privacy-policy), ["**Accessibility Compliance**"](#9-accessibility-compliance) or [**"Blog/Product Posting"**](#5-blog-and-product-postings).
 
 ---
 
 #### 1. "Professionally Coded Website" Policy
-*What is included in this purchase:*
-- Anything listed under "Professionally Coded Website" section in the ["**Plans Page**"](../plans/)
+*What this purchase includes:*
+- Anything listed under the "Professionally Coded Website" section in the ["**Plans Page**"](../plans/).
 
 - See [section 3](#3-the-pages-included) for the pages included in this purchase.
+- One non-premium domain name. Any domain that can be found for *$35* or less on GoDaddy.com or websites similar.
+- Aid with account creation or modifications to third-party websites only as the accounts or modifications apply to Osows websites paid for by the client.
 - +Any add-ons or additional subscriptions purchased by the client.
 - +Website Hosting and Domain name coverage for one full calendar year.
 
 ---
 
-*What is *not* included in this purchase:*
-- Anything not listed under "Professionally Coded Website" section in the ["**Plans Page**"](../plans)
+*What this purchase does not include:*
+- Anything not listed under the "Professionally Coded Website" section in the ["**Plans Page**"](../plans).
 
-- Domain Name coverage beyond one calendar year from the date of the original purchase of the Professionally Coded Website Plan.
-- Web-Hosting coverage beyond one calendar year from the date of the original purchase of the Professionally Coded Website Plan.
+- Domain Name coverage beyond one calendar year from the date of the original purchase of the "Professionally Coded Website" Plan.
+- Web-Hosting coverage beyond one calendar year from the date of the original purchase of the "Professionally Coded Website" Plan.
 
 ---
 
-* *One Year Payment Plan:* The Professionally Coded Website Plan can be paid for through 12 installments of $150/month over one calendar year starting from the date of the initial purchase.
+* *One Year Payment Route (OYPR):* The "Professionally Coded Website" Plan can be paid for through 12 installments of $150/month over one calendar year starting from the date of the initial purchase.
 
-* *Payment in Full:* The Professionally Coded Website Plan can be paid upfront with a one time payment of $1500.
+* *Payment in Full:* The "Professionally Coded Website" Plan can be paid in full with a one time payment of $1500.
 
-* *Recurring Fees Post Payment:* Once Professionally Coded Website is completed and paid off (i.e. at the end of the One Year Payment Plan or Paid in Full), the client is responsible for the yearly domain and web-hosting payments. *Osows will not be held liable for the payment of domains or web-hosting after the first year of Subscription purchase.* This may be offset by the purchase of the additional subscription [**"Website Management"**](#2-website-management).
+* *Recurring Fees Post Payment:* Once the "Professionally Coded Website" Plan is completed and paid off (i.e. at the end of the OYPR or Paid in Full), the client is responsible for the yearly domain and web-hosting payments. *Osows will not be held responsible for the payment of domains or web-hosting after the first year of Plan purchase.* This may be offset by the purchase of the additional subscription [**"Website Management"**](#2-website-management).
 
 ---
 
 #### 2. "Website Management" Policy
-*What is included in this purchase:*
-- Anything listed under "Website Management" section in the ["**Plans Page**"](../plans/)
+*What this purchase includes:*
+- Anything listed under the "Website Management" section in the ["**Plans Page**"](../plans/).
 
 - Domain Name coverage over the duration of the Website Management subscription.
 - Web-Hosting coverage over the duration of the Website Management subscription.
-- Unlimited Troubleshooting and Error correcting regarding Osows Professionally Coded Websites and extensions to the website (i.e. extensions added by Osows and only those that pertain to Osows websites which have been purchased by the client). Examples of extensions could include: accessiBe, Stripe, or Google Analytics/Tag.
+- *Unlimited Troubleshooting and Error correcting regarding Osows Professionally Coded Websites and extensions to the website (i.e. extensions added by Osows and only those that pertain to Osows websites which have been purchased by the client). Examples of extensions could include: accessiBe, Stripe, or Google Analytics/Tag.
 
 ---
 
-*What is *not* included in this purchase:*
-- Anything not listed under "Website Management" section in the ["**Plans Page**"](../plans/)
+*What this purchase does not include:*
+- Anything not listed under the "Website Management" section in the ["**Plans Page**"](../plans/).
 
 - Troubleshooting and error correcting in websites or other technologies/tech services that are not from Osows.
-- Website Management for other websites or services other than Osows websites bought by the client.
+- Website Management for other websites or services other than Osows Professionally Coded Websites purchased by the client.
 
 ---
 
 #### 3. The Pages Included
-Up to 6 pages
+Up to 6 pages. The 6 pages constitute the following (numbers 5 & 6 constitute a choice between those listed):
 
 1. Home
 
 2. About
 3. Services
 4. Contact
-5. One “Products” or “Plans” page
-6. Terms of Service, FAQ, Refund Policy, Cancellation Policy, or Privacy Policy
+5. One "Blog", “Products”, "Plans", "Prices", or "Menu" page
+6. FAQ, Refund Policy, Cancellation Policy, or Privacy Policy
 
-* If needed, an Account page powered by Stripe is included at no additional cost.
+* If needed, an "Account" page powered by Stripe is included at no additional cost. We can help you setup your Stripe account but we cannot create it for you.
 
 ---
 
@@ -88,7 +90,6 @@ Some Examples Include:
 * Our Users
 * Our Clients
 * Our Team
-* Our Team
 
 ---
 
@@ -103,7 +104,7 @@ If you would like a blog on your website, we charge $50 for the initial Blog pag
 
 - Initial Blog Page creation (if Blog add-on is purchased)
 
-- The uploading of up to 10 blog posts per month to your website. (if more are needed, please [Contact Us](../contact/))
+- The uploading of up to 5 blog posts per month to your website. (if more are needed, please [Contact Us](../contact/))
 
 ---
 
@@ -123,7 +124,7 @@ If not selected in point 5 on ["**The Pages Included**"](#3-the-pages-included),
 
 - Initial Product Page creation (if Product Page add-on is purchased)
 
-- The uploading of up to 10 new products per month to your website. (if more are needed, please [Contact Us](../contact/))
+- The uploading of up to 5 new products per month to your website. (if more are needed, please [Contact Us](../contact/))
 
 ---
 
@@ -133,7 +134,7 @@ If not selected in point 5 on ["**The Pages Included**"](#3-the-pages-included),
 
 ---
 
-#### 6. Creation of Terms of Service and Privacy Policy
+#### 6. Full Legal Compliance
 * If you would like Terms of Service and Privacy Policy pages on your website, we charge an additional $30 per month or $300 per year to your plan.
   > * We will create both the pages on your website.
   > * We will create both the Terms of Service and Privacy Policy for you once we receive the necessary information from you to do so.
@@ -175,6 +176,8 @@ If not selected in point 5 on ["**The Pages Included**"](#3-the-pages-included),
 
 #### 9. Accessibility Compliance
 For $50/month, accessibility compliance can be added to your subscription. This is a recurring fee that extends beyond the end of date of the initial Subscription. You will be charged for as long as you desire it to exist on your Osows website.
+
+Upon purchasing anything from Osows, and thereby agreeing to our Terms of Service, you also recognize that we have necessarily provided Accessibility Compliance (including but not limited to: ADA, WCAG, EEA compliance etc.) as an option, even should you not choose it.
 
 To make your website accessible, we have partnered with [**accessiBe.com**](https://accessibe.com/).
 

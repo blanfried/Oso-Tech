@@ -18,7 +18,7 @@ image = "images/logo.svg" # this image will be used as fallback if a page has no
 address_descriptors = false
 # contact info
 # phone = "(888) 716-9467"
-email = "osowsco@gmail.com"
+email = "contact@osows.com"
 location = """
 **Osows**  
 San Diego, CA

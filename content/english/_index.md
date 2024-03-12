@@ -8,7 +8,7 @@ banner:
   content: ""
   button:
     enable: true
-    label: "Devoted to Small Businesses"
+    label: "Custom Websites | Simple Process"
     link: "about/"
 # <br/> Paragraph 
 ############################# About #################################
@@ -70,7 +70,7 @@ cta:
   enable: true
   bg_image: "images/call-to-action-bg.svg"
   title: "Tell Us What You Need"
-  content: "Need something specific or having trouble finding what you are looking for?"
+  content: "Having trouble finding what you're looking for?"
   button:
     enable: true
     label: "Contact Us!"
@@ -80,28 +80,27 @@ cta:
 funfacts:
   enable: true
   title: "Fun Facts"
-  description: "Monthly averages for businesses in the US
-  "
+  description: "Monthly averages for small businesses in the US"
   funfact_item:
   # funfacts item loop
   - icon: "fas fa-dollar-sign" #https://fontawesome.com/v5.15/icons
-    name: "Average In-House Web <br/> Developer Cost"
-    count: "5000"
+    name: "Other <br/> Website Management"
+    count: "200"
 
   # funfacts item loop
   - icon: "fas fa-dollar-sign" #https://fontawesome.com/v5.15/icons
-    name: "Osows In-House Web <br/> Developer Cost"
-    count: "183"
+    name: "**Osows <br/> Website Management**"
+    count: "60"
 
   # funfacts item loop
   - icon: "fas fa-dollar-sign" #https://fontawesome.com/v5.15/icons
-    name: "Average Professional <br/> Website Cost"
-    count: "1200"
+    name: "Other <br/> Custom Websites"
+    count: "400"
 
   # funfacts item loop
   - icon: "fas fa-dollar-sign" #https://fontawesome.com/v5.15/icons
-    name: "Osows Professional <br/> Website Cost"
-    count: "333"
+    name: "**Osows <br/> Custom Websites**"
+    count: "150"
 
   testimonial_slider:
   # testimonial item loop

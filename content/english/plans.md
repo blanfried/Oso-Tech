@@ -8,59 +8,58 @@ draft: false
 ################################ pricing ################################
 pricing:
   enable : true
+
   pricing_table:
+    # pricing table loop
+  - name : "Professionally Coded Website"
+    price: "$150"
+    content : "$150/month for 1 year or $1500 paid in full."
+    # Commented out until launch
+    # link : "https://billing.osows.com/b/14k15XgoleJs69GcMY"
+    services:
+    -  Design
+    -  Copywriting
+    -  1 Year Web Hosting
+    -  1 Year Domain coverage
+    -  Up To 6 Pages + Account Page[*](../subscriptionpolicy/#3-the-pages-included)
+    -  Highest Possible SEO and Performance
+    - "**1 Year of Website Management** (See Details Below)"
+    -  Marketing Functionality (Google Ads, Analytics, Tag, etc.)
+    - 
+    - 
+    - 
+    - "**Additional Purchases:**"
+    - Product Posting[*](../subscriptionpolicy/#5-blog-and-product-postings)
+    - Additional Pages[*](../subscriptionpolicy/#4-additional-pages)
+    - Full Legal Compliance[*](../subscriptionpolicy/#6-full-legal-compliance)
+    - Accessibility Compliance[*](../subscriptionpolicy/#9-accessibility-compliance)
+    - Blog Creation and Posting[*](../subscriptionpolicy/#5-blog-and-product-postings)
+
+
   # pricing table loop
   - name : "Website Management"
-    price: "$183 - $219"
-    content : "Perfect For Businesses With an Existing Website."
+    price: "$60"
+    content : "$60/month"
     # Commented out until launch
     # link : "https://billing.osows.com/b/fZe15X8VTatc7dK7sB"
     services:
-    - Websites Up To **6 Pages** (See our [FAQ](../faq/) or [Contact Us](../contact/) for more details)
-    - 10 Website Customizations Per Month
-    - SEO Maximization and Monitoring
-    - Google Tag & Analytics Optimization and Monitoring
-    - Blog and Product Posting
-    - Unlimited Troubleshooting and Error Correcting
-    - Complete ADA, WCAG, EEA Compliance and Monitoring
-    - Website Legal Advisory
-    - Toll-Free Number Creation and Setup
-    - 5 Logo Changes or Creations
-    - 10 New Website Pictures
-    - "**Additional Pages Can Be Added For a Fee** (See our [FAQ](../faq/) for more details)"
+    - Web Hosting
+    - SEO Monitoring
+    - Domain Coverage
+    - 3 Branding Changes/Month
+    - Up to 5 New Website Pictures
+    - 3 Website Customizations/Month
+    - Google Tag & Analytics Monitoring
+    - Unlimited Troubleshooting and Error Correcting[*](../subscriptionpolicy/#2-website-management-policy)
+    - 
+    - 
+    - 
+    - "**Additional Purchases:**"
+    - Product Posting[*](../subscriptionpolicy/#5-blog-and-product-postings)
+    - Full Legal Compliance[*](../subscriptionpolicy/#6-full-legal-compliance)
+    - Accessibility Compliance[*](../subscriptionpolicy/#9-accessibility-compliance)
+    - Blog Creation and Posting[*](../subscriptionpolicy/#5-blog-and-product-postings)
 
-  # pricing table loop
-  - name : "Professionally Coded Website"
-    price: "$333 - $399"
-    content : "Perfect For Businesses Looking to Increase Their Web Traffic or With No Existing Website."
-    # Commented out until launch
-    # link : "https://billing.osows.com/b/eVaaGxgolgRAcy4cMX"
-    services:
-    - "**The Website:**"
-    -  Up To **6 Pages** (See our [FAQ](../faq/) or [Contact Us](../contact/) for more details)
-    -  Design
-    -  Copywriting
-    -  Web Hosting
-    -  Domain
-    -  Highest Possible SEO and Performance (95+)
-    -  Marketing Functionality (Google Ads, analytics, tag, etc.)
-    -  Full Compliance (ADA, WCAG, EEA, etc.)
-    - "**This Plan Comes With an In-House Programmer**"
-    -  "**Additional Pages Can Be Added For a Fee** (See Our [FAQ](../faq/) for more details)"
-    - +
-    - "**Once the Website is Finished:**"
-    - 10 Website Customizations Per Month
-    - SEO Maximization and Monitoring
-    - Google Tag & Analytics Optimization and Monitoring
-    - Blog and Product Posting
-    - Unlimited Troubleshooting and Error Correcting
-    - Terms of Service, Privacy Policy, Cookie Policy Creation and Regulation
-    - Complete ADA, WCAG, EEA Compliance and Monitoring
-    - Website Legal Advisory
-    - Toll-Free Number Creation and Setup
-    - 5 Logo Changes or Creations
-    - 10 New Website Pictures Per Month
-    - "**After One Year, Price Reduces to In-House Programmer Package**"
 
   # pricing table loop
   # - name : "Basic Programmer Package"
